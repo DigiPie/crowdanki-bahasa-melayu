@@ -1,2 +1,4 @@
-# crowdanki-bahasa-melayu
-A repo for collaborative development and sharing of Anki flashcard decks via CrowdAnki.
+# Intro to Bahasa Melayu
+A repo for collaborative development of the Anki flashcard deck **'Intro to Bahasa Melayu'** via CrowdAnki.
+
+See https://github.com/Stvad/CrowdAnk for more information.
