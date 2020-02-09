@@ -1,0 +1,559 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "88109078-4b53-11ea-ad28-005056c00008",
+    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "LAM1201",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "crowdanki-bahasa-melayu",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-fc685",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Good Morning",
+                "Selamat Pagi"
+            ],
+            "flags": 0,
+            "guid": "ogz+YGzK*b",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Good bye",
+                "Selamat Jalan"
+            ],
+            "flags": 0,
+            "guid": "v{uW^vMs(-",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Siapakah nama awak?",
+                "What is your name?<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N(r]}qP<Lm",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Nama saya ______",
+                "My name is ______"
+            ],
+            "flags": 0,
+            "guid": "qgiq{>,/dr",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Awak pula?",
+                "How about you? (2nd Person)"
+            ],
+            "flags": 0,
+            "guid": "e$=nM6e`kW",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Siapakah nama dia?",
+                "What about his name? (Third Person)"
+            ],
+            "flags": 0,
+            "guid": "x1K56+&xq+",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Anak Tunggal",
+                "Only child"
+            ],
+            "flags": 0,
+            "guid": "L9#+bf)t{`",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Anak kembar",
+                "Twins"
+            ],
+            "flags": 0,
+            "guid": "ASu6TCmG>p",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Anak Kembar Tiga (Empat....)",
+                "Triplets/Quintuplets"
+            ],
+            "flags": 0,
+            "guid": "x7k~2w6d1q",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Selamat berkenalan",
+                "Nice to meet you!"
+            ],
+            "flags": 0,
+            "guid": "q?3:}mC9/A",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the malay word for Thank You?",
+                "Terimah Kasih!"
+            ],
+            "flags": 0,
+            "guid": "FUp;Y]_IT8",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Sama-sama kasih",
+                "Same, thanks"
+            ],
+            "flags": 0,
+            "guid": "j@Q/2&Z^QV",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Selamat pagi juga",
+                "Good morning, also"
+            ],
+            "flags": 0,
+            "guid": "q~JmOD/I-8",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Apa khabar?",
+                "How are you?"
+            ],
+            "flags": 0,
+            "guid": "h%s&tW.knX",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Khabar baik",
+                "I'm fine/good."
+            ],
+            "flags": 0,
+            "guid": "z>3:sXl$5v",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Baik juga",
+                "Good, also"
+            ],
+            "flags": 0,
+            "guid": "u}l-f]Zb`Y",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the plural for: Singular - Saya?",
+                "Plural - Kita<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "EI3)0Pj.=;",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the plural for: Singular - Awak?",
+                "Plural - Awak Semua<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "ArXgD;BmEZ",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the plural for: Singular - Dia?",
+                "Plural - Mereka"
+            ],
+            "flags": 0,
+            "guid": "J6Q@~!R[cu",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Keluaraga/Famili",
+                "Family"
+            ],
+            "flags": 0,
+            "guid": "k,(LYey+{E",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: How many people are there in your family?&nbsp;",
+                "Keluaraga awak (ada) berapa orang?"
+            ],
+            "flags": 0,
+            "guid": "nUiD%`./o>",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: My family has 5 people.",
+                "Famili saya lima orang"
+            ],
+            "flags": 0,
+            "guid": "BN11<bvUU,",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: #01-41",
+                "Dwipangkah sifar satu sempang empat satu"
+            ],
+            "flags": 0,
+            "guid": "ds?0X2SGAH",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Poskod Tujuh, Lima, Satu, Satu, Dua, Sifar",
+                "Postal Code 751120"
+            ],
+            "flags": 0,
+            "guid": "PtU>Ts6{$<",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Ikan",
+                "Fish"
+            ],
+            "flags": 0,
+            "guid": "z`M.@RrTuA",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Itik",
+                "Duck"
+            ],
+            "flags": 0,
+            "guid": "tn?hvLm#)g",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Anjing",
+                "Dog"
+            ],
+            "flags": 0,
+            "guid": "hf2$o22oqs",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Kucing",
+                "Cat"
+            ],
+            "flags": 0,
+            "guid": "pH.~:$dB~l",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Ada soalan",
+                "Have question?"
+            ],
+            "flags": 0,
+            "guid": "Q,kf-cN6aM",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Cantik",
+                "Pretty (Female)"
+            ],
+            "flags": 0,
+            "guid": "IK=nnue:#]",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Hodoh",
+                "Ugly (Both M &amp; F)"
+            ],
+            "flags": 0,
+            "guid": "F</]G6lcNm",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Kacak",
+                "Handsome (Men)"
+            ],
+            "flags": 0,
+            "guid": "QDP1O;A02V",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Pandai",
+                "Smart"
+            ],
+            "flags": 0,
+            "guid": "D]TM}g1[Si",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Translate: Bodoh",
+                "Stupid"
+            ],
+            "flags": 0,
+            "guid": "QmSdv|yh!J",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        }
+    ]
+}
