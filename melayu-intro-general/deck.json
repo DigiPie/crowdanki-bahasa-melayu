@@ -55,7 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "crowdanki-bahasa-melayu",
+    "name": "melayu-intro-general",
     "note_models": [
         {
             "__type__": "NoteModel",
