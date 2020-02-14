@@ -1315,11 +1315,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Berpasangan",
-                "Pair"
+                "Sekejap",
+                "In a bit"
             ],
             "flags": 0,
-            "guid": "t.mQn~5Ef6",
+            "guid": "uFYr,D6v!f",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1328,11 +1328,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sekejap",
-                "In a bit"
+                "Perlu",
+                "Need"
             ],
             "flags": 0,
-            "guid": "uFYr,D6v!f",
+            "guid": "j|M<.LC%ND",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berpasangan",
+                "Pair"
+            ],
+            "flags": 0,
+            "guid": "t.mQn~5Ef6",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2412,6 +2425,19 @@
             ],
             "flags": 0,
             "guid": "Kq]+[&FWHU",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perlu",
+                "Need"
+            ],
+            "flags": 0,
+            "guid": "IMBL<Yapx$",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
