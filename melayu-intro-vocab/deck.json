@@ -84,7 +84,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-9260f",
             "req": [
                 [
                     0,
@@ -1133,7 +1133,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Botol ayer",
+                "Botol air",
                 "Water bottle"
             ],
             "flags": 0,
@@ -1294,6 +1294,1124 @@
             ],
             "flags": 0,
             "guid": "LEzRyA]Mol",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sisi",
+                "Side"
+            ],
+            "flags": 0,
+            "guid": "CTtw;{gS3@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berpasangan",
+                "Pair"
+            ],
+            "flags": 0,
+            "guid": "t.mQn~5Ef6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekejap",
+                "In a bit"
+            ],
+            "flags": 0,
+            "guid": "uFYr,D6v!f",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pair",
+                "Berpasangan"
+            ],
+            "flags": 0,
+            "guid": "C&)7sn!X.1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tuala",
+                "Towel"
+            ],
+            "flags": 0,
+            "guid": "r0@=`!nowj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Towel&nbsp;",
+                "Tuala"
+            ],
+            "flags": 0,
+            "guid": "Jh)VhZ_t.U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tundung",
+                "Scarf"
+            ],
+            "flags": 0,
+            "guid": "qhihs3G|&H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Scarf",
+                "Tundung"
+            ],
+            "flags": 0,
+            "guid": "iCy,Xi)My)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kunci kereta",
+                "Car keys"
+            ],
+            "flags": 0,
+            "guid": "D6q)z^UFX]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Car keys",
+                "Kunci kereta"
+            ],
+            "flags": 0,
+            "guid": "ha_b8tBoYu",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila",
+                "Please"
+            ],
+            "flags": 0,
+            "guid": "L>W!_jQGdD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Please",
+                "Sila"
+            ],
+            "flags": 0,
+            "guid": "hwEYT29?x8",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lihat",
+                "See"
+            ],
+            "flags": 0,
+            "guid": "Qv,<#mR.D$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "See&nbsp;",
+                "Lihat"
+            ],
+            "flags": 0,
+            "guid": "H1(*|=6){J",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gambar",
+                "Picture"
+            ],
+            "flags": 0,
+            "guid": "kv??boOW-6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Picture",
+                "Gambar"
+            ],
+            "flags": 0,
+            "guid": "CJjeDkz=&z",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perempuan",
+                "Girl"
+            ],
+            "flags": 0,
+            "guid": "xOk`kCND6X",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Girl",
+                "Perempuan"
+            ],
+            "flags": 0,
+            "guid": "LiaeiX+.x>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saudari",
+                "Sister"
+            ],
+            "flags": 0,
+            "guid": "b@::+`8U]K",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sister",
+                "Saudari"
+            ],
+            "flags": 0,
+            "guid": "u*Q6^QB@*J",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Brother",
+                "Saudara"
+            ],
+            "flags": 0,
+            "guid": "J4mAXE%2/j",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saudara",
+                "Brother"
+            ],
+            "flags": 0,
+            "guid": "u%D9:~k!7M",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cik",
+                "Miss"
+            ],
+            "flags": 0,
+            "guid": "q2x{gZ&)H=",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Miss",
+                "Cik"
+            ],
+            "flags": 0,
+            "guid": "e`$%P=1!wm",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Encik",
+                "Mr"
+            ],
+            "flags": 0,
+            "guid": "ABFAZK2f>e",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mr",
+                "Encik"
+            ],
+            "flags": 0,
+            "guid": "n$&19?vsm/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puan",
+                "Madam"
+            ],
+            "flags": 0,
+            "guid": "G+n^-O|7R?",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Madam",
+                "Puan"
+            ],
+            "flags": 0,
+            "guid": "Ffu.FTuUoD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tuan",
+                "Sir"
+            ],
+            "flags": 0,
+            "guid": "pB7^tAu!.^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sir",
+                "Tuan"
+            ],
+            "flags": 0,
+            "guid": "l51L.ou}m!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mak Cik (Name)&nbsp;",
+                "Auntie"
+            ],
+            "flags": 0,
+            "guid": "h%GCWCS_Or",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Auntie&nbsp;",
+                "Mak Cik"
+            ],
+            "flags": 0,
+            "guid": "M?|NwAEyWa",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Uncle&nbsp;",
+                "Pak Cik"
+            ],
+            "flags": 0,
+            "guid": "uA)K47f;!0",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pak Cik",
+                "Uncle"
+            ],
+            "flags": 0,
+            "guid": "B*;<3cB:wG",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Older Sister",
+                "Kakak"
+            ],
+            "flags": 0,
+            "guid": "Kzt`gI9*$r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kakak",
+                "Older Sister"
+            ],
+            "flags": 0,
+            "guid": "i6R-m1v`3B",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Older brother",
+                "Abang"
+            ],
+            "flags": 0,
+            "guid": "iy7L8|gyS#",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Abang",
+                "Older Brother"
+            ],
+            "flags": 0,
+            "guid": "P7;.@aU-a-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sastera",
+                "Arts"
+            ],
+            "flags": 0,
+            "guid": "x5a.m#q(AK",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arts",
+                "Sastera"
+            ],
+            "flags": 0,
+            "guid": "Firk2=;!@n",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kejuruteraan",
+                "Engineering"
+            ],
+            "flags": 0,
+            "guid": "NlEGh/f{~I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Engineering",
+                "Kejuruteraan"
+            ],
+            "flags": 0,
+            "guid": "x}mQTDs)R]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perniagaan",
+                "Business"
+            ],
+            "flags": 0,
+            "guid": "pJu_SVsn/h",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Business",
+                "Perniagaan"
+            ],
+            "flags": 0,
+            "guid": "va|UthC~N_",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pergigian",
+                "Dentistry"
+            ],
+            "flags": 0,
+            "guid": "Jg-Ce(p:{F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dentistry",
+                "Pergigian"
+            ],
+            "flags": 0,
+            "guid": "kWVfa_JK~W",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Undang-undang",
+                "Law"
+            ],
+            "flags": 0,
+            "guid": "l;r)ONWp;U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Law",
+                "Undang-undang"
+            ],
+            "flags": 0,
+            "guid": "cEnktOjz@H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rekaan dan Persekitaran",
+                "Design and Environment"
+            ],
+            "flags": 0,
+            "guid": "C)cLePM{h!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Design and Environment",
+                "Rekaan dan Persekitaran"
+            ],
+            "flags": 0,
+            "guid": "z?Mrz`Cv.R",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Architecture",
+                "Binaan"
+            ],
+            "flags": 0,
+            "guid": "Q%.CqP22,r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Binaan",
+                "Architecture"
+            ],
+            "flags": 0,
+            "guid": "i=]YOvT+cb",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nursing",
+                "Kejururawatan"
+            ],
+            "flags": 0,
+            "guid": "JcS`}${LsT",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kejururawatan",
+                "Nursing"
+            ],
+            "flags": 0,
+            "guid": "MVn~;%#hgd",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa",
+                "What"
+            ],
+            "flags": 0,
+            "guid": "dz(r/pBd?}",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What",
+                "Apa"
+            ],
+            "flags": 0,
+            "guid": "DID%MQq6|k",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mana",
+                "Where"
+            ],
+            "flags": 0,
+            "guid": "q~XX-Bw`Sz",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where",
+                "Mana"
+            ],
+            "flags": 0,
+            "guid": "c(0}3*%>cv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Siapa",
+                "Who"
+            ],
+            "flags": 0,
+            "guid": "uth{YS{VYj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Who",
+                "Siapa"
+            ],
+            "flags": 0,
+            "guid": "r7G|VP)fzr",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bila",
+                "When"
+            ],
+            "flags": 0,
+            "guid": "i?!xlve(l^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When&nbsp;",
+                "Bila"
+            ],
+            "flags": 0,
+            "guid": "bMpH@qmh)b",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bagaimanah",
+                "How"
+            ],
+            "flags": 0,
+            "guid": "utorjUgLo&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How",
+                "Bagaimana"
+            ],
+            "flags": 0,
+            "guid": "qX=l2;RoX*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kenalkan",
+                "Introduce"
+            ],
+            "flags": 0,
+            "guid": "y;4TaNf.yF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Introduce",
+                "Kenalkan"
+            ],
+            "flags": 0,
+            "guid": "o[mj)T1Zd@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tingkat",
+                "Floor/Level"
+            ],
+            "flags": 0,
+            "guid": "D]b/wX9?B^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Floor/level",
+                "Tingkat"
+            ],
+            "flags": 0,
+            "guid": "uei*kpdf+L",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dekat",
+                "Near"
+            ],
+            "flags": 0,
+            "guid": "Q_{2`&FA<y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Near",
+                "Dekat"
+            ],
+            "flags": 0,
+            "guid": "M*zgIr|0nd",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mahu/Hendak",
+                "Want"
+            ],
+            "flags": 0,
+            "guid": "s]c4!6.Uk-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Want",
+                "Mahu/Hendak"
+            ],
+            "flags": 0,
+            "guid": "f(zI|/J2vh",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sini",
+                "Here"
+            ],
+            "flags": 0,
+            "guid": "iKX!:VM8U:",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Here",
+                "Sini"
+            ],
+            "flags": 0,
+            "guid": "s]/uc-gIwW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jauh",
+                "Far"
+            ],
+            "flags": 0,
+            "guid": "p}VqtH`;]h",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Far",
+                "Jauh"
+            ],
+            "flags": 0,
+            "guid": "OUky=O`v`f",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baharu/Baru",
+                "New"
+            ],
+            "flags": 0,
+            "guid": "y1Q1!b|e!Y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "New",
+                "Baharu/Baru"
+            ],
+            "flags": 0,
+            "guid": "tq!;WSp<m}",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lama",
+                "Old"
+            ],
+            "flags": 0,
+            "guid": "D_Qp[4CO+z",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Old",
+                "Lama"
+            ],
+            "flags": 0,
+            "guid": "Kbhm.qzRTA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bersih",
+                "Clean"
+            ],
+            "flags": 0,
+            "guid": "d^sEv/Zj=I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clean",
+                "Bersih"
+            ],
+            "flags": 0,
+            "guid": "N]pcHi/Yr;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kotor",
+                "Dirty"
+            ],
+            "flags": 0,
+            "guid": "P0.0i*x2+j",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dirty&nbsp;",
+                "Kotor"
+            ],
+            "flags": 0,
+            "guid": "wZ]#]YO+}/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bayi",
+                "Baby"
+            ],
+            "flags": 0,
+            "guid": "hf=mPzQ?}+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baby",
+                "Bayi"
+            ],
+            "flags": 0,
+            "guid": "Kq]+[&FWHU",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
