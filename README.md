@@ -8,4 +8,4 @@ A repo for collaborative learning of Bahasa Melayu via CrowdAnki.
 |   3 | melayu-intro-exam  | Sentences which test language mastery.            |
 |   4 | melayu-intro-vocab | Less-commonly used vocabulary.                    |
 
-See https://github.com/Stvad/CrowdAnk for more information.
+See https://github.com/Stvad/CrowdAnki for more information.
