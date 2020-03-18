@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,

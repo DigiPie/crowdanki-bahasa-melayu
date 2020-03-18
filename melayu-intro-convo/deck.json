@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -2409,7 +2409,7 @@
             "data": "",
             "fields": [
                 "Tomorrow",
-                "Esok"
+                "Besok / Esok"
             ],
             "flags": 0,
             "guid": "w=M+xbF/g",
@@ -3024,6 +3024,370 @@
             ],
             "flags": 0,
             "guid": "B!?#8q}8M&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hadir",
+                "Here"
+            ],
+            "flags": 0,
+            "guid": "QY=2$c14EV",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Itu apa?",
+                "What is that?"
+            ],
+            "flags": 0,
+            "guid": "yo(JX]R@Vp",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eja",
+                "Spell (the word)"
+            ],
+            "flags": 0,
+            "guid": "N)|N#}HPk2",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di sini",
+                "Here"
+            ],
+            "flags": 0,
+            "guid": "n`TBFI,-N>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di sana",
+                "There"
+            ],
+            "flags": 0,
+            "guid": "e;M`w_@vcW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hari ini hari apa?",
+                "Today what day?"
+            ],
+            "flags": 0,
+            "guid": "i9rVA&$D`X",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hujung minggu",
+                "Weekend"
+            ],
+            "flags": 0,
+            "guid": "H=sHO:3;eA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebelum",
+                "Before"
+            ],
+            "flags": 0,
+            "guid": "QO])F5)36U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selapas",
+                "After"
+            ],
+            "flags": 0,
+            "guid": "C9bq9cyaaq",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minggu ini",
+                "This week"
+            ],
+            "flags": 0,
+            "guid": "sFeFF(8s9<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minggu depan",
+                "Next week"
+            ],
+            "flags": 0,
+            "guid": "F:Sf?kvWj=",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minggu lepas",
+                "Last week"
+            ],
+            "flags": 0,
+            "guid": "x!2>B0!&&%",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bulan ini",
+                "This month"
+            ],
+            "flags": 0,
+            "guid": "i5O5VSOS$2",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bulan lepas",
+                "Next month"
+            ],
+            "flags": 0,
+            "guid": "D)CF@h2+-x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bulan depan",
+                "Next month"
+            ],
+            "flags": 0,
+            "guid": "L?DntHFxpS",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tahun ini",
+                "This year"
+            ],
+            "flags": 0,
+            "guid": "P^jJ:Nu2-A",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tahun hadapan",
+                "Next year"
+            ],
+            "flags": 0,
+            "guid": "d^!}eU]YDm",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tahun lepas",
+                "Last year"
+            ],
+            "flags": 0,
+            "guid": "y{RK;mx2]6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bilakah hari lahir awak?",
+                "When is your birthday?"
+            ],
+            "flags": 0,
+            "guid": "N#zb3q;ioZ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hari lahir saya pada hari Jumaat.",
+                "My birthday is on Friday."
+            ],
+            "flags": 0,
+            "guid": "j[%TOzJd4+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya suka tinggal di rumah.",
+                "I like to stay at home."
+            ],
+            "flags": 0,
+            "guid": "FI7&^@Jn$9",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya suka jalan-jalan bersama kawan-kawan.",
+                "I like to walk around together with my friends."
+            ],
+            "flags": 0,
+            "guid": "v^NQv&K*~G",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya berkeja sambilan pada Sabtu dan Ahad.",
+                "I work part-time on Saturday and Sunday."
+            ],
+            "flags": 0,
+            "guid": "Asanngsq$*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah tarikh hari ini?",
+                "What is your date of birth?"
+            ],
+            "flags": 0,
+            "guid": "d]FS~DODa@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tarikh",
+                "Date"
+            ],
+            "flags": 0,
+            "guid": "m7Y3^^JV?!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "20 May 2003",
+                "Dua puluh hari bulan Mei dua puluh sifar tiga"
+            ],
+            "flags": 0,
+            "guid": "iI9i9F%@}F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Boleh",
+                "Can"
+            ],
+            "flags": 0,
+            "guid": "zuujPC_KP&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bettul",
+                "Correct"
+            ],
+            "flags": 0,
+            "guid": "xN}jO{7U;K",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

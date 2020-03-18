@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -2219,6 +2219,422 @@
             ],
             "flags": 0,
             "guid": "NC~>lod9c*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ahad",
+                "Sunday"
+            ],
+            "flags": 0,
+            "guid": "sje0Qa8%}q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Isnin",
+                "Monday"
+            ],
+            "flags": 0,
+            "guid": "sUsE4)-a!:",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selasa",
+                "Tuesday"
+            ],
+            "flags": 0,
+            "guid": "k{~NM|>d`5",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wednesday",
+                "Rabu"
+            ],
+            "flags": 0,
+            "guid": "FU@w#30pA>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Thursday",
+                "Khamis"
+            ],
+            "flags": 0,
+            "guid": "MPWTcqU6Dd",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Friday",
+                "Jumaat"
+            ],
+            "flags": 0,
+            "guid": "t43}5&[aq=",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saturday",
+                "Sabtu"
+            ],
+            "flags": 0,
+            "guid": "HQoC62c?4:",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Matahari",
+                "Sun"
+            ],
+            "flags": 0,
+            "guid": "AYLNCXHJ9M",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bulan",
+                "Moon"
+            ],
+            "flags": 0,
+            "guid": "w&Ms%}Zv~u",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ratus",
+                "Hundred"
+            ],
+            "flags": 0,
+            "guid": "k@6J^U+A]g",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puluh",
+                "Tens"
+            ],
+            "flags": 0,
+            "guid": "E40Zbt^ytq",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ribu",
+                "Thousand"
+            ],
+            "flags": 0,
+            "guid": "ox<Ytd,`lU",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Seblas (dua belas, tiga belas...)",
+                "11 (12, 13...)"
+            ],
+            "flags": 0,
+            "guid": "k$zioiz]mA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tahun",
+                "Year"
+            ],
+            "flags": 0,
+            "guid": "C`yFRth^4.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Month",
+                "Bulan"
+            ],
+            "flags": 0,
+            "guid": "AViB:~@>3i",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Day",
+                "Hari"
+            ],
+            "flags": 0,
+            "guid": "CTaCrmNk)`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hour",
+                "Jam"
+            ],
+            "flags": 0,
+            "guid": "IfJ(rN{h5w",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minute",
+                "Minit"
+            ],
+            "flags": 0,
+            "guid": "rF{<D2A&[I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Second",
+                "Kedua"
+            ],
+            "flags": 0,
+            "guid": "JdV^AwN_R.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tarkih lahir",
+                "Date-of-birth"
+            ],
+            "flags": 0,
+            "guid": "L@^9}^0M]J",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "January",
+                "Januari"
+            ],
+            "flags": 0,
+            "guid": "DR)?Tb>b2H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "February",
+                "Februari"
+            ],
+            "flags": 0,
+            "guid": "e}_rw}^{,p",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "March",
+                "Mac"
+            ],
+            "flags": 0,
+            "guid": "i&j)`6NKbQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "April",
+                "April"
+            ],
+            "flags": 0,
+            "guid": "t)Frc!rMMM",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "May",
+                "Mei"
+            ],
+            "flags": 0,
+            "guid": "m1LBx2O@$1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "June",
+                "Jun"
+            ],
+            "flags": 0,
+            "guid": "jXjQ&2#Tzb",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "July",
+                "Julai"
+            ],
+            "flags": 0,
+            "guid": "vLrrq[4:bv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "August",
+                "Ogos"
+            ],
+            "flags": 0,
+            "guid": "C^y:ZCN)G+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "September",
+                "September"
+            ],
+            "flags": 0,
+            "guid": "h9MM6l,F5U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "October",
+                "Oktober"
+            ],
+            "flags": 0,
+            "guid": "hrI=u;no&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "November",
+                "November"
+            ],
+            "flags": 0,
+            "guid": "MOo0i/&;Kj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "December",
+                "Disember"
+            ],
+            "flags": 0,
+            "guid": "OzIld@~@gq",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
