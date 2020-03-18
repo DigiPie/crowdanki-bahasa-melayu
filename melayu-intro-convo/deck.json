@@ -315,19 +315,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Keluaraga/Famili",
-                "Family"
-            ],
-            "flags": 0,
-            "guid": "k,(LYey+{E",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "How many people are there in your family?&nbsp;",
                 "Keluaraga awak ada berapa orang?"
             ],
@@ -692,6 +679,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Tidur",
+                "Sleep"
+            ],
+            "flags": 0,
+            "guid": "ES,dM~wQ6C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Lapar",
                 "Hungry"
             ],
@@ -957,6 +957,19 @@
             ],
             "flags": 0,
             "guid": "CJ_h(eA3Zw",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bekerja",
+                "Work"
+            ],
+            "flags": 0,
+            "guid": "B9wA4`xD`a",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
