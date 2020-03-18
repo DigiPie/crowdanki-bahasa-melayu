@@ -2377,6 +2377,643 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Yesterday",
+                "Semalam"
+            ],
+            "flags": 0,
+            "guid": "vN34B(^GzN",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tomorrow",
+                "Esok"
+            ],
+            "flags": 0,
+            "guid": "w=M+xbF/g",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Beliau",
+                "Refer to someone with reverence"
+            ],
+            "flags": 0,
+            "guid": "f/T%#`iLcQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kami",
+                "We (exclusive of addressee)"
+            ],
+            "flags": 0,
+            "guid": "o<;aYr$]ho",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kita",
+                "We (inclusive of addressee)"
+            ],
+            "flags": 0,
+            "guid": "y3gxB~v!H8",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bilakah awak keluar rumah?",
+                "When are you going home?"
+            ],
+            "flags": 0,
+            "guid": "wC?/.0C5<4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya akan nanti",
+                "I will eat later"
+            ],
+            "flags": 0,
+            "guid": "ODwS?$G_}W",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Akan",
+                "Will"
+            ],
+            "flags": 0,
+            "guid": "NKn:drER_x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tidak",
+                "No"
+            ],
+            "flags": 0,
+            "guid": "p{Zzt2ZeZ=",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bukan",
+                "Is not"
+            ],
+            "flags": 0,
+            "guid": "j%;-}aXY{^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya bukan mahasiswa.",
+                "I am not an undergraduate."
+            ],
+            "flags": 0,
+            "guid": "u=tQuut9C|",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini bukan buku saya.",
+                "This is not my book."
+            ],
+            "flags": 0,
+            "guid": "c~a-*%cO6R",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak dari fakulti yang mana?",
+                "You are from which faculty?"
+            ],
+            "flags": 0,
+            "guid": "g@GqGsU(w<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adakah awak tinggal di hostel?",
+                "Do you stay in hostel?"
+            ],
+            "flags": 0,
+            "guid": "i-ytf_t^N!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya hendak ke MacDonalds.",
+                "I want to go to MacDonalds."
+            ],
+            "flags": 0,
+            "guid": "c+-X.8vM*?",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berjalan terus dan belok kekanan",
+                "Walk straight and turn right"
+            ],
+            "flags": 0,
+            "guid": "PL_yo0QyY[",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya ada kelas hari ini.",
+                "I have class today."
+            ],
+            "flags": 0,
+            "guid": "tAkY$IDjz_",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jumpa lagi",
+                "Let's meet again."
+            ],
+            "flags": 0,
+            "guid": "Ok#iP}~W-C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Keluarkan",
+                "Take out"
+            ],
+            "flags": 0,
+            "guid": "px.f,}5&pW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membeli",
+                "Buy"
+            ],
+            "flags": 0,
+            "guid": "EbtqjTcl&r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekarang&nbsp;",
+                "Now"
+            ],
+            "flags": 0,
+            "guid": "d2:t=Ca&Fe",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nanti",
+                "Later"
+            ],
+            "flags": 0,
+            "guid": "Bm,@HfN?|r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gunakan",
+                "Using"
+            ],
+            "flags": 0,
+            "guid": "tfT-z?%5?P",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tolong / Bantu",
+                "Help"
+            ],
+            "flags": 0,
+            "guid": "smrXip^gRe",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dengan",
+                "With"
+            ],
+            "flags": 0,
+            "guid": "Dh4Z7>{AmP",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bersama",
+                "Together"
+            ],
+            "flags": 0,
+            "guid": "u+vK8+!}/H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kenapa",
+                "Why"
+            ],
+            "flags": 0,
+            "guid": "yEr3mT!T@3",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kenapa awak ponteng sekolah semalam?",
+                "Why you skip school yesterday?"
+            ],
+            "flags": 0,
+            "guid": "dvrDo{i+yk",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tanya",
+                "Ask"
+            ],
+            "flags": 0,
+            "guid": "oXlAJCtN$`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sudah",
+                "Already"
+            ],
+            "flags": 0,
+            "guid": "swVEKD9j-Q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habis",
+                "Finished"
+            ],
+            "flags": 0,
+            "guid": "H@+EB5#GwF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sudah habis",
+                "Already finished"
+            ],
+            "flags": 0,
+            "guid": "l>y:Z;LT:u",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila jangan makan di dalam kereta api.",
+                "Please do not eat in the train."
+            ],
+            "flags": 0,
+            "guid": "B{hQg^8h|3",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila buka kasut",
+                "Please remove shoes"
+            ],
+            "flags": 0,
+            "guid": "u!!gdw4Oi>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jangan pakai kasut di dalam",
+                "Do not wear shoes inside"
+            ],
+            "flags": 0,
+            "guid": "yh8kH]o1em",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pakai",
+                "Wear"
+            ],
+            "flags": 0,
+            "guid": "A&T)&<:(A(",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Isikan",
+                "Fill up"
+            ],
+            "flags": 0,
+            "guid": "Q|d[xaaxoe",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tarik",
+                "Pull"
+            ],
+            "flags": 0,
+            "guid": "zdVHem%n|*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Push",
+                "Tolak"
+            ],
+            "flags": 0,
+            "guid": "sS+jbqNNq:",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Banyak lagi",
+                "Many more"
+            ],
+            "flags": 0,
+            "guid": "Ppa{<K8>0I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Untuk",
+                "For"
+            ],
+            "flags": 0,
+            "guid": "Bs+<mhru)j",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Seperti",
+                "Like (for an example)"
+            ],
+            "flags": 0,
+            "guid": "c*{nJuw.O)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "...dan lain-lain",
+                "...and others"
+            ],
+            "flags": 0,
+            "guid": "deO9d{AwT$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Belanja",
+                "Shopping"
+            ],
+            "flags": 0,
+            "guid": "bnY}c;MEN9",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kurang gula",
+                "Less sweet"
+            ],
+            "flags": 0,
+            "guid": "d*S{y~B&fx",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bersekolah",
+                "Schooling"
+            ],
+            "flags": 0,
+            "guid": "dLtvY/Etmt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umur",
+                "Age"
+            ],
+            "flags": 0,
+            "guid": "c_GmR?~2MI",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umur saya dua puluh lima.",
+                "I am 25."
+            ],
+            "flags": 0,
+            "guid": "A]wNODv5b{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umur kita lima.",
+                "We are five (years together)."
+            ],
+            "flags": 0,
+            "guid": "B!?#8q}8M&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }
