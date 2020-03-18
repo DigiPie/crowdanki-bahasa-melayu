@@ -1,0 +1,2122 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "88109078-4b53-11ea-ad28-005056c00008",
+    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "LAM1201",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 0,
+                "perDay": 30,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "melayu-intro-convo",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-9260f",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-fc685",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Good Morning",
+                "Selamat Pagi"
+            ],
+            "flags": 0,
+            "guid": "ogz+YGzK*b",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Good bye (to person leaving)",
+                "Selamat Jalan"
+            ],
+            "flags": 0,
+            "guid": "v{uW^vMs(-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Siapakah nama awak?",
+                "What is your name?<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N(r]}qP<Lm",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak pula?",
+                "How about you? (2nd Person)"
+            ],
+            "flags": 0,
+            "guid": "e$=nM6e`kW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Siapakah nama dia?",
+                "What about his name? (Third Person)"
+            ],
+            "flags": 0,
+            "guid": "x1K56+&xq+",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat berkenalan",
+                "Nice to meet you!"
+            ],
+            "flags": 0,
+            "guid": "q?3:}mC9/A",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sama-sama kasih",
+                "Same, thanks"
+            ],
+            "flags": 0,
+            "guid": "j@Q/2&Z^QV",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat pagi juga",
+                "Good morning, also"
+            ],
+            "flags": 0,
+            "guid": "q~JmOD/I-8",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa khabar?",
+                "How are you?"
+            ],
+            "flags": 0,
+            "guid": "h%s&tW.knX",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baik juga",
+                "Good, also"
+            ],
+            "flags": 0,
+            "guid": "u}l-f]Zb`Y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Keluaraga/Famili",
+                "Family"
+            ],
+            "flags": 0,
+            "guid": "k,(LYey+{E",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many people are there in your family?&nbsp;",
+                "Keluaraga awak ada berapa orang?"
+            ],
+            "flags": 0,
+            "guid": "nUiD%`./o>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cantik",
+                "Pretty (Female)"
+            ],
+            "flags": 0,
+            "guid": "IK=nnue:#]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hodoh",
+                "Ugly (Both M &amp; F)"
+            ],
+            "flags": 0,
+            "guid": "F</]G6lcNm",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kacak",
+                "Handsome (Men)"
+            ],
+            "flags": 0,
+            "guid": "QDP1O;A02V",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pandai",
+                "Smart"
+            ],
+            "flags": 0,
+            "guid": "D]TM}g1[Si",
+            "newlyAdded": false,
+            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mahasiswa",
+                "Male undergraduate"
+            ],
+            "flags": 0,
+            "guid": "K$C!-a&RsV",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mahasiswi",
+                "Female undergraduate"
+            ],
+            "flags": 0,
+            "guid": "Mo,qd*{4N1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya",
+                "I"
+            ],
+            "flags": 0,
+            "guid": "z%8{5)p<R+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak (Formal: Anda)",
+                "You"
+            ],
+            "flags": 0,
+            "guid": "gQeDGma]F`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak (formal: anda) semua",
+                "You all"
+            ],
+            "flags": 0,
+            "guid": "MvF-.1YVMX",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia",
+                "Him/her"
+            ],
+            "flags": 0,
+            "guid": "m]:uf9-GbE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mereka",
+                "They"
+            ],
+            "flags": 0,
+            "guid": "z%P5^@e!.t",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cepat sembuh",
+                "Fast recovery"
+            ],
+            "flags": 0,
+            "guid": "BWf]A@4P7-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jaga diri",
+                "Take care of yourself"
+            ],
+            "flags": 0,
+            "guid": "vw.P,hunUa",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lambat",
+                "Slow (late)"
+            ],
+            "flags": 0,
+            "guid": "x9r,ekFFUP",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lewat",
+                "Late"
+            ],
+            "flags": 0,
+            "guid": "xNT4iM`@5|",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jom",
+                "Let's go"
+            ],
+            "flags": 0,
+            "guid": "FC]IE`eCY*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak hendak kopi atau teh?",
+                "You want coffee or tea?"
+            ],
+            "flags": 0,
+            "guid": "KP0[OY*Odl",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya nak (informal) sambosa dan sambal goreng.",
+                "I want (informal) sambosa and sambal goreng."
+            ],
+            "flags": 0,
+            "guid": "sCx%%x!?cS",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Angkat tangan kiri/kenan",
+                "Raise hand left/right"
+            ],
+            "flags": 0,
+            "guid": "M2@|=3sET$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak mahu tinggal dan belajar?",
+                "You want to stay and study?"
+            ],
+            "flags": 0,
+            "guid": "bu0?{gJy6~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sakit",
+                "Pain/Sick"
+            ],
+            "flags": 0,
+            "guid": "bem2>8hc3$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sedikit (sikit)",
+                "A little"
+            ],
+            "flags": 0,
+            "guid": "tAj^@^wb:V",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Banyak",
+                "A lot"
+            ],
+            "flags": 0,
+            "guid": "HiG5u^duA2",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sakit hati",
+                "Heart broken"
+            ],
+            "flags": 0,
+            "guid": "u3KlI5u}5a",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di hadapan",
+                "In front"
+            ],
+            "flags": 0,
+            "guid": "KqcUa$Gcuu",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di belakang",
+                "Behind"
+            ],
+            "flags": 0,
+            "guid": "vt%2dT{|yH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mengantuk",
+                "Sleepy"
+            ],
+            "flags": 0,
+            "guid": "N<xS/p$G}9",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lapar",
+                "Hungry"
+            ],
+            "flags": 0,
+            "guid": "y{,5k~XSD6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa khabar semua?",
+                "How is everyone?"
+            ],
+            "flags": 0,
+            "guid": "isGFlw(W[z",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat jalan, jumpa lagi!",
+                "Safe travel, come again!"
+            ],
+            "flags": 0,
+            "guid": "L)E3.u4VE*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baik-baik jalan",
+                "Safe travel"
+            ],
+            "flags": 0,
+            "guid": "u&[_k?o7.q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat pagi",
+                "Good morning"
+            ],
+            "flags": 0,
+            "guid": "|KW&m]HZo",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat tengah hari",
+                "Good noon (12 - 2)"
+            ],
+            "flags": 0,
+            "guid": "JoNU:U#p+B",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat petang",
+                "Good afternoon (2 - 7)"
+            ],
+            "flags": 0,
+            "guid": "Pikr{963,/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat hari jadi/lahir",
+                "Happy birthday"
+            ],
+            "flags": 0,
+            "guid": "f]huZBNr),",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selamat maju jaya",
+                "Good luck"
+            ],
+            "flags": 0,
+            "guid": "dFcY<?}pNZ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Semoga berjaya",
+                "Good luck"
+            ],
+            "flags": 0,
+            "guid": "yaDW&7M#%C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Atau",
+                "Or"
+            ],
+            "flags": 0,
+            "guid": "s3[_|R)|:3",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dan",
+                "And"
+            ],
+            "flags": 0,
+            "guid": "v.P+iwi$j&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ke",
+                "To"
+            ],
+            "flags": 0,
+            "guid": "ibzOK.}7J^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mudah",
+                "Easy"
+            ],
+            "flags": 0,
+            "guid": "Fw8C*_S>uj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muda",
+                "Young"
+            ],
+            "flags": 0,
+            "guid": "vlL9)xDaQG",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Koyak",
+                "Torn"
+            ],
+            "flags": 0,
+            "guid": "O`zShdL(3r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini kelas di AS8.",
+                "This class at AS8."
+            ],
+            "flags": 0,
+            "guid": "o:E+j~fNAX",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tulis",
+                "Write"
+            ],
+            "flags": 0,
+            "guid": "Hn;27L-m[~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jam tangan jenama apa?",
+                "What brand is your watch?"
+            ],
+            "flags": 0,
+            "guid": "oR`?QUgG@u",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ramai",
+                "A lot (living beings only)"
+            ],
+            "flags": 0,
+            "guid": "tM$lBSEo1&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pekerja",
+                "employee"
+            ],
+            "flags": 0,
+            "guid": "CJ_h(eA3Zw",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pelajar",
+                "student"
+            ],
+            "flags": 0,
+            "guid": "F%iQA$V[/!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "semut-semut",
+                "pins and needles after sitting for too long"
+            ],
+            "flags": 0,
+            "guid": "Bd*y+nYx|e",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ambil",
+                "Take"
+            ],
+            "flags": 0,
+            "guid": "C@Vy(u=pIH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini siapa?",
+                "This is who?"
+            ],
+            "flags": 0,
+            "guid": "I,AFQ6huog",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini apa?",
+                "This is what?"
+            ],
+            "flags": 0,
+            "guid": "MOlj0z][;a",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mana ini?",
+                "Where is this?"
+            ],
+            "flags": 0,
+            "guid": "FtJ&%_u!62",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sisi",
+                "Side"
+            ],
+            "flags": 0,
+            "guid": "CTtw;{gS3@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekejap",
+                "In a bit"
+            ],
+            "flags": 0,
+            "guid": "uFYr,D6v!f",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perlu",
+                "Need"
+            ],
+            "flags": 0,
+            "guid": "j|M<.LC%ND",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila",
+                "Please"
+            ],
+            "flags": 0,
+            "guid": "L>W!_jQGdD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Please",
+                "Sila"
+            ],
+            "flags": 0,
+            "guid": "hwEYT29?x8",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lihat",
+                "See"
+            ],
+            "flags": 0,
+            "guid": "Qv,<#mR.D$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perempuan",
+                "Girl"
+            ],
+            "flags": 0,
+            "guid": "xOk`kCND6X",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saudari",
+                "Sister"
+            ],
+            "flags": 0,
+            "guid": "b@::+`8U]K",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sister",
+                "Saudari"
+            ],
+            "flags": 0,
+            "guid": "u*Q6^QB@*J",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Brother (Mister)",
+                "Saudara"
+            ],
+            "flags": 0,
+            "guid": "J4mAXE%2/j",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saudara",
+                "Brother"
+            ],
+            "flags": 0,
+            "guid": "u%D9:~k!7M",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Miss",
+                "Cik"
+            ],
+            "flags": 0,
+            "guid": "e`$%P=1!wm",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mr",
+                "Encik"
+            ],
+            "flags": 0,
+            "guid": "n$&19?vsm/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puan",
+                "Madam"
+            ],
+            "flags": 0,
+            "guid": "G+n^-O|7R?",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Madam",
+                "Puan"
+            ],
+            "flags": 0,
+            "guid": "Ffu.FTuUoD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sir",
+                "Tuan"
+            ],
+            "flags": 0,
+            "guid": "l51L.ou}m!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pak Cik",
+                "Uncle"
+            ],
+            "flags": 0,
+            "guid": "B*;<3cB:wG",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa",
+                "What"
+            ],
+            "flags": 0,
+            "guid": "dz(r/pBd?}",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What",
+                "Apa"
+            ],
+            "flags": 0,
+            "guid": "DID%MQq6|k",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mana",
+                "Where"
+            ],
+            "flags": 0,
+            "guid": "q~XX-Bw`Sz",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where",
+                "Mana"
+            ],
+            "flags": 0,
+            "guid": "c(0}3*%>cv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Siapa",
+                "Who"
+            ],
+            "flags": 0,
+            "guid": "uth{YS{VYj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Who",
+                "Siapa"
+            ],
+            "flags": 0,
+            "guid": "r7G|VP)fzr",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bila",
+                "When"
+            ],
+            "flags": 0,
+            "guid": "i?!xlve(l^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When&nbsp;",
+                "Bila"
+            ],
+            "flags": 0,
+            "guid": "bMpH@qmh)b",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bagaimanah",
+                "How"
+            ],
+            "flags": 0,
+            "guid": "utorjUgLo&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tingkat",
+                "Floor/Level"
+            ],
+            "flags": 0,
+            "guid": "D]b/wX9?B^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dekat",
+                "Near"
+            ],
+            "flags": 0,
+            "guid": "Q_{2`&FA<y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Near",
+                "Dekat"
+            ],
+            "flags": 0,
+            "guid": "M*zgIr|0nd",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mahu/Hendak",
+                "Want"
+            ],
+            "flags": 0,
+            "guid": "s]c4!6.Uk-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Want",
+                "Mahu/Hendak"
+            ],
+            "flags": 0,
+            "guid": "f(zI|/J2vh",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sini",
+                "Here"
+            ],
+            "flags": 0,
+            "guid": "iKX!:VM8U:",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jauh",
+                "Far"
+            ],
+            "flags": 0,
+            "guid": "p}VqtH`;]h",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baharu/Baru",
+                "New"
+            ],
+            "flags": 0,
+            "guid": "y1Q1!b|e!Y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lama",
+                "Old"
+            ],
+            "flags": 0,
+            "guid": "D_Qp[4CO+z",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Old",
+                "Lama"
+            ],
+            "flags": 0,
+            "guid": "Kbhm.qzRTA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bersih",
+                "Clean"
+            ],
+            "flags": 0,
+            "guid": "d^sEv/Zj=I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clean",
+                "Bersih"
+            ],
+            "flags": 0,
+            "guid": "N]pcHi/Yr;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kotor",
+                "Dirty"
+            ],
+            "flags": 0,
+            "guid": "P0.0i*x2+j",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dirty&nbsp;",
+                "Kotor"
+            ],
+            "flags": 0,
+            "guid": "wZ]#]YO+}/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Diri",
+                "Self"
+            ],
+            "flags": 0,
+            "guid": "Ft;V+j{7Pb",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Self",
+                "Diri"
+            ],
+            "flags": 0,
+            "guid": "G[fjdO{JGo",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Naiki",
+                "Board"
+            ],
+            "flags": 0,
+            "guid": "Eh5BXt_OEH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Get on",
+                "Naiki"
+            ],
+            "flags": 0,
+            "guid": "tDXRF$dswj",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ke arah",
+                "Towards"
+            ],
+            "flags": 0,
+            "guid": "Lab^O=k-(K",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Towards",
+                "Ke arah"
+            ],
+            "flags": 0,
+            "guid": "Px]I~{wa(?",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di atas",
+                "on top"
+            ],
+            "flags": 0,
+            "guid": "c(qvDen7%y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di dalam",
+                "Inside"
+            ],
+            "flags": 0,
+            "guid": "HKa[HoiljY",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di tengah",
+                "middle"
+            ],
+            "flags": 0,
+            "guid": "k`%bn~ogVa",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di selatan",
+                "south"
+            ],
+            "flags": 0,
+            "guid": "s;.Gicp#<a",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di barat",
+                "west"
+            ],
+            "flags": 0,
+            "guid": "s:2v9vawt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arah",
+                "Direction"
+            ],
+            "flags": 0,
+            "guid": "isR$v,HJTz",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Direction",
+                "Arah"
+            ],
+            "flags": 0,
+            "guid": "Jf,&56l6~a",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di bawah",
+                "below"
+            ],
+            "flags": 0,
+            "guid": "ugpF9Qi@`y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Behind&nbsp;",
+                "Di belakang"
+            ],
+            "flags": 0,
+            "guid": "dq$t%YM<8`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di luar",
+                "outside"
+            ],
+            "flags": 0,
+            "guid": "Q6_Djowd8U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di tepi",
+                "next to you/beside you"
+            ],
+            "flags": 0,
+            "guid": "ty!f;+d;yS",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di timur",
+                "east"
+            ],
+            "flags": 0,
+            "guid": "H<Ji<]CI@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di utara",
+                "north"
+            ],
+            "flags": 0,
+            "guid": "k!`*y7Q_Ec",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ajar",
+                "Teach"
+            ],
+            "flags": 0,
+            "guid": "zRw`]j50_<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Teach",
+                "Ajar"
+            ],
+            "flags": 0,
+            "guid": "A3(d^t_4):",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duduk",
+                "Sit"
+            ],
+            "flags": 0,
+            "guid": "p#XQb+gJcE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sit",
+                "Duduk"
+            ],
+            "flags": 0,
+            "guid": "K=ysEGvush",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "North East",
+                "Timur Laut"
+            ],
+            "flags": 0,
+            "guid": "MA}[b![XGR",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Timur Laut",
+                "North East"
+            ],
+            "flags": 0,
+            "guid": "P_,:#mqLAA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Southeast",
+                "Tenggara"
+            ],
+            "flags": 0,
+            "guid": "H|;l1.[sG,",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "South West",
+                "Barat daya"
+            ],
+            "flags": 0,
+            "guid": "XGc*i5)$o",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "North West",
+                "Barat Laut"
+            ],
+            "flags": 0,
+            "guid": "veqF8Uv++m",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Right in the middle",
+                "Tengah-tengah"
+            ],
+            "flags": 0,
+            "guid": "n%?aMWm.:q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tamba",
+                "Add"
+            ],
+            "flags": 0,
+            "guid": "N=F~WC3y{<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Add&nbsp;",
+                "Tambah"
+            ],
+            "flags": 0,
+            "guid": "gHv+)9;F9x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mula",
+                "Start"
+            ],
+            "flags": 0,
+            "guid": "wp|XPn>0-m",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Baru mula",
+                "Just starting"
+            ],
+            "flags": 0,
+            "guid": "P.fUjyq;:+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di sebelah",
+                "Beside"
+            ],
+            "flags": 0,
+            "guid": "M=|pHL+5.b",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bual",
+                "Talk"
+            ],
+            "flags": 0,
+            "guid": "zsHGu~_=P[",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Talk",
+                "Bual"
+            ],
+            "flags": 0,
+            "guid": "M$.&U/!*-p",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Turun",
+                "Alight"
+            ],
+            "flags": 0,
+            "guid": "y(nEWo6tCH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alight",
+                "Turun"
+            ],
+            "flags": 0,
+            "guid": "J=7BH^k;}u",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya akan makan nanti",
+                "I will eat later"
+            ],
+            "flags": 0,
+            "guid": "xth%%x7Da{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Boleh saya bantu anda?",
+                "Can I help you?"
+            ],
+            "flags": 0,
+            "guid": "f6G[v;=kKi",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya lupa nama dia.",
+                "I forgot his name."
+            ],
+            "flags": 0,
+            "guid": "dvhi;V=ffl",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ada soalan?",
+                "Have question?"
+            ],
+            "flags": 0,
+            "guid": "fm1BX1E`+K",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menjawab",
+                "Answer (Verb)"
+            ],
+            "flags": 0,
+            "guid": "okfgup]f22",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        }
+    ]
+}
