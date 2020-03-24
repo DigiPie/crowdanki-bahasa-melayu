@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "LAM1201",
+            "name": "LAM1201-Intense",
             "new": {
                 "bury": false,
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 10,
+                "perDay": 30,
                 "separate": true
             },
             "replayq": true,

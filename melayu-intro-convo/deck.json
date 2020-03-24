@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "LAM1201",
+            "name": "LAM1201-Intense",
             "new": {
                 "bury": false,
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 10,
+                "perDay": 30,
                 "separate": true
             },
             "replayq": true,
@@ -796,24 +796,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Selamat maju jaya",
+                "Selamat maju jaya / Semoga berjaya",
                 "Good luck"
             ],
             "flags": 0,
             "guid": "dFcY<?}pNZ",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Semoga berjaya",
-                "Good luck"
-            ],
-            "flags": 0,
-            "guid": "yaDW&7M#%C",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2023,19 +2010,6 @@
             ],
             "flags": 0,
             "guid": "zsHGu~_=P[",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Talk",
-                "Bual"
-            ],
-            "flags": 0,
-            "guid": "M$.&U/!*-p",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3388,6 +3362,136 @@
             ],
             "flags": 0,
             "guid": "xN}jO{7U;K",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dengar",
+                "Listen"
+            ],
+            "flags": 0,
+            "guid": "ror~/HtTP7",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebut",
+                "Say"
+            ],
+            "flags": 0,
+            "guid": "vTw-(AFK9u",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jika tidak bagaimana?",
+                "If not how?"
+            ],
+            "flags": 0,
+            "guid": "Bq6T9UG[H{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jika",
+                "If (formal)"
+            ],
+            "flags": 0,
+            "guid": "FF3:Af|k4e",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kalau",
+                "If (less formal)"
+            ],
+            "flags": 0,
+            "guid": "jO~?Ie_3##",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menyertai",
+                "Participate"
+            ],
+            "flags": 0,
+            "guid": "AWd^U=p__f",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya&nbsp;menyertai kelab kasut roda.",
+                "I participate in skating club."
+            ],
+            "flags": 0,
+            "guid": "N14;lT|X><",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berlari",
+                "Run"
+            ],
+            "flags": 0,
+            "guid": "fjmFxu^vWv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya berasa berlari seronok.",
+                "I feel like running is fun."
+            ],
+            "flags": 0,
+            "guid": "mYB_inVxMz",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bercakap",
+                "Speak"
+            ],
+            "flags": 0,
+            "guid": "hfM~I$HX$H",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
