@@ -1446,19 +1446,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sini",
-                "Here"
-            ],
-            "flags": 0,
-            "guid": "iKX!:VM8U:",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Jauh",
                 "Far"
             ],
@@ -1694,7 +1681,7 @@
             "data": "",
             "fields": [
                 "Di barat",
-                "west"
+                "West"
             ],
             "flags": 0,
             "guid": "s:2v9vawt",
@@ -1759,7 +1746,7 @@
             "data": "",
             "fields": [
                 "Di luar",
-                "outside"
+                "Outside"
             ],
             "flags": 0,
             "guid": "Q6_Djowd8U",
@@ -1932,19 +1919,6 @@
             ],
             "flags": 0,
             "guid": "n%?aMWm.:q",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tamba",
-                "Add"
-            ],
-            "flags": 0,
-            "guid": "N=F~WC3y{<",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3492,6 +3466,32 @@
             ],
             "flags": 0,
             "guid": "hfM~I$HX$H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak hendak pizza yang mana?",
+                "You want pizza which one?"
+            ],
+            "flags": 0,
+            "guid": "n(qt0b?rK;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak sedang buat apa?",
+                "You now do what?"
+            ],
+            "flags": 0,
+            "guid": "m5ZOW6j-Ec",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

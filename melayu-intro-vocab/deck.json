@@ -1655,19 +1655,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Here",
-                "Sini"
-            ],
-            "flags": 0,
-            "guid": "s]/uc-gIwW",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Far",
                 "Jauh"
             ],

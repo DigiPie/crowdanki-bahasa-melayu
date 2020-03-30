@@ -392,19 +392,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jerawat",
-                "Pimple"
-            ],
-            "flags": 0,
-            "guid": "j}t0),cJkn",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Lesung pipit",
                 "Dimple"
             ],
@@ -462,19 +449,6 @@
             ],
             "flags": 0,
             "guid": "ge-lmTf,|M",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tahi lalat",
-                "Mole"
-            ],
-            "flags": 0,
-            "guid": "BF`lrl_hM`",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
