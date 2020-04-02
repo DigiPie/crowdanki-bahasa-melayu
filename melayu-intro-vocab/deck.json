@@ -1317,102 +1317,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tuan",
-                "Sir"
-            ],
-            "flags": 0,
-            "guid": "pB7^tAu!.^",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Mak Cik (Name)&nbsp;",
                 "Auntie"
             ],
             "flags": 0,
             "guid": "h%GCWCS_Or",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Auntie&nbsp;",
-                "Mak Cik"
-            ],
-            "flags": 0,
-            "guid": "M?|NwAEyWa",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Uncle&nbsp;",
-                "Pak Cik"
-            ],
-            "flags": 0,
-            "guid": "uA)K47f;!0",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Older Sister",
-                "Kakak"
-            ],
-            "flags": 0,
-            "guid": "Kzt`gI9*$r",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kakak",
-                "Older Sister"
-            ],
-            "flags": 0,
-            "guid": "i6R-m1v`3B",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Older brother",
-                "Abang"
-            ],
-            "flags": 0,
-            "guid": "iy7L8|gyS#",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Abang",
-                "Older Brother"
-            ],
-            "flags": 0,
-            "guid": "P7;.@aU-a-",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1889,32 +1798,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Basah",
-                "Wet"
-            ],
-            "flags": 0,
-            "guid": "BS3;xv|e-u",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Wet",
-                "Basah"
-            ],
-            "flags": 0,
-            "guid": "B4Qw0w{~,S",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Klinik",
                 "Clinic"
             ],
@@ -1933,19 +1816,6 @@
             ],
             "flags": 0,
             "guid": "u~2/Ce2L{i",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Beside",
-                "Di sebelah"
-            ],
-            "flags": 0,
-            "guid": "lNnP3,AYAJ",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2461,7 +2331,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tarkih lahir",
+                "Tarikh lahir",
                 "Date-of-birth"
             ],
             "flags": 0,
@@ -2622,6 +2492,32 @@
             ],
             "flags": 0,
             "guid": "OzIld@~@gq",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wireless networking",
+                "Rangkaian tanpa wayar"
+            ],
+            "flags": 0,
+            "guid": "bvg2%-Nko)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ujian perisian",
+                "Software testing"
+            ],
+            "flags": 0,
+            "guid": "n<GVec_P;l",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

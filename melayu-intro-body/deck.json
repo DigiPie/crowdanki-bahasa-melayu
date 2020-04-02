@@ -392,19 +392,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lesung pipit",
-                "Dimple"
-            ],
-            "flags": 0,
-            "guid": "mJB*y_)VO2",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Bahu",
                 "Shoulder"
             ],
