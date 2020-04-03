@@ -876,7 +876,7 @@
             "data": "",
             "fields": [
                 "Bilik kuliah",
-                "Lecture classroom"
+                "Lecture room"
             ],
             "flags": 0,
             "guid": "y>3[_(~YQC",
@@ -1153,19 +1153,6 @@
             ],
             "flags": 0,
             "guid": "LEzRyA]Mol",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Berpasangan",
-                "Pair"
-            ],
-            "flags": 0,
-            "guid": "t.mQn~5Ef6",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1460,19 +1447,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Rekaan dan Persekitaran",
-                "Design and Environment"
-            ],
-            "flags": 0,
-            "guid": "C)cLePM{h!",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Design and Environment",
                 "Rekaan dan Persekitaran"
             ],
@@ -1538,8 +1512,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kenalkan",
-                "Introduce"
+                "Saya kenalkan anda, James ini.",
+                "I introduce you, this is James."
             ],
             "flags": 0,
             "guid": "y;4TaNf.yF",
@@ -2189,7 +2163,7 @@
             "data": "",
             "fields": [
                 "Bulan",
-                "Moon"
+                "Moon / Month"
             ],
             "flags": 0,
             "guid": "w&Ms%}Zv~u",
@@ -2518,6 +2492,32 @@
             ],
             "flags": 0,
             "guid": "n<GVec_P;l",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pengurus",
+                "Manager"
+            ],
+            "flags": 0,
+            "guid": "f1![w(b*c{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rakan sebaya",
+                "Peers"
+            ],
+            "flags": 0,
+            "guid": "L,D0luyG!D",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

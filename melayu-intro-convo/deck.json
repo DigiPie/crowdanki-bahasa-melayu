@@ -1759,7 +1759,7 @@
             "data": "",
             "fields": [
                 "Di selatan",
-                "south"
+                "South"
             ],
             "flags": 0,
             "guid": "s;.Gicp#<a",
@@ -1863,7 +1863,7 @@
             "data": "",
             "fields": [
                 "Di timur",
-                "east"
+                "East"
             ],
             "flags": 0,
             "guid": "H<Ji<]CI@",
@@ -1876,7 +1876,7 @@
             "data": "",
             "fields": [
                 "Di utara",
-                "north"
+                "North"
             ],
             "flags": 0,
             "guid": "k!`*y7Q_Ec",
@@ -2707,7 +2707,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sekarang&nbsp;",
+                "Sekarang / Kini",
                 "Now"
             ],
             "flags": 0,
@@ -3037,19 +3037,6 @@
             ],
             "flags": 0,
             "guid": "dLtvY/Etmt",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Umur",
-                "Age"
-            ],
-            "flags": 0,
-            "guid": "c_GmR?~2MI",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3423,7 +3410,7 @@
             "data": "",
             "fields": [
                 "Boleh",
-                "Can"
+                "May (can but with permission)"
             ],
             "flags": 0,
             "guid": "zuujPC_KP&",
@@ -3592,7 +3579,7 @@
             "data": "",
             "fields": [
                 "Awak sedang buat apa?",
-                "You now do what?"
+                "You are currently doing what?"
             ],
             "flags": 0,
             "guid": "m5ZOW6j-Ec",
@@ -3622,6 +3609,383 @@
             ],
             "flags": 0,
             "guid": "EkG6bxzTza",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kini, saya seorang mahasiswa Universiti Nasional Singapura.",
+                "Currently, I am a NUS undergraduate."
+            ],
+            "flags": 0,
+            "guid": "z?p#:t6T&m",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya belajar Sains Komputing di Sekolah Komputing.",
+                "I study Computer Science at School of Computing."
+            ],
+            "flags": 0,
+            "guid": "JHrv$=9@d~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tetapi",
+                "But"
+            ],
+            "flags": 0,
+            "guid": "NEUqg3hfD$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Contoh",
+                "For example"
+            ],
+            "flags": 0,
+            "guid": "g!;GCEHV`Y",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya sudah memperoleh diploma.",
+                "I already earned a Diploma."
+            ],
+            "flags": 0,
+            "guid": "r+n7C$9IhW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya dalam bidang Teknologi Maklumat.",
+                "I am in the field of IT."
+            ],
+            "flags": 0,
+            "guid": "b@,(WbPB;L",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya berlatih setiap Rabu malam.",
+                "I exercise every Wednesday night."
+            ],
+            "flags": 0,
+            "guid": "F?BPPMS?}<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya suka belajar perkara baharu.",
+                "I love learning new things."
+            ],
+            "flags": 0,
+            "guid": "h]kIYEPbEF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya meluangkan kebanyakan masa lapang saya dengan...",
+                "I spend most of my free time with..."
+            ],
+            "flags": 0,
+            "guid": "gAgaG/1P&5",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya membaca buku-buku fiksyen.",
+                "I read fiction books."
+            ],
+            "flags": 0,
+            "guid": "FV<g|$vb-#",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebelum ini, saya ada kerja sambilan.",
+                "Previously, I have part-time work."
+            ],
+            "flags": 0,
+            "guid": "gRqRQ,bRHt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya seorang pengajar mahasiswa.",
+                "I am an undergraduate instructor."
+            ],
+            "flags": 0,
+            "guid": "qdo2U35IrF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebagai ibu, saya perlu menjadi contoh untuk anak-anak.",
+                "As a mother, I need to become a role model for my kids."
+            ],
+            "flags": 0,
+            "guid": "q2b=>;h@`*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya mengajar empat belas pelajar.",
+                "I teach 14 students."
+            ],
+            "flags": 0,
+            "guid": "uxM]eXk|5,",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini bukan sesuatu yang mudah.",
+                "It is not something which is easy."
+            ],
+            "flags": 0,
+            "guid": "Dvr|Hx4;_c",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bermakna",
+                "Meaningful"
+            ],
+            "flags": 0,
+            "guid": "rq2p=%ubyp",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Itu amat bermakna kepada saya.",
+                "It is very meaningful to me."
+            ],
+            "flags": 0,
+            "guid": "MIdJ#DHT2m",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sangat / Amat",
+                "Very"
+            ],
+            "flags": 0,
+            "guid": "wM|jK)yU.f",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bisa",
+                "Able to (can but related to ability)"
+            ],
+            "flags": 0,
+            "guid": "Hrwdk[]x|/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dapat",
+                "Could"
+            ],
+            "flags": 0,
+            "guid": "ibWP>K/_h+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alexandra tidak mendapat pekerjaan itu.",
+                "Alexandra could not get that job."
+            ],
+            "flags": 0,
+            "guid": "HoF(5hjDjs",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berharap&nbsp;",
+                "Hope"
+            ],
+            "flags": 0,
+            "guid": "e*E)p&<esM",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya berharap saya dapat mengajar sekali lagi.",
+                "I hope I could teach again."
+            ],
+            "flags": 0,
+            "guid": "ruQZ,[]F|>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekali lagi",
+                "One more time"
+            ],
+            "flags": 0,
+            "guid": "6XS}_[3}q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lain",
+                "Another"
+            ],
+            "flags": 0,
+            "guid": "w>I[t]i4~$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya sentiasa bekerja.",
+                "I am always working."
+            ],
+            "flags": 0,
+            "guid": "kvj&sQAb!e",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sedang",
+                "In the process of"
+            ],
+            "flags": 0,
+            "guid": "Jm$B#8=WB^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya sedang makan.",
+                "I am currently eating."
+            ],
+            "flags": 0,
+            "guid": "BrgiN3xX@r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekarang saya nak makan.",
+                "Now I want to eat."
+            ],
+            "flags": 0,
+            "guid": "fZxJXr^lN-",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
