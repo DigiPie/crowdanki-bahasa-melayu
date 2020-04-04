@@ -888,19 +888,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bilik dewan",
-                "Lecture hall"
-            ],
-            "flags": 0,
-            "guid": "J9,|--F5aT",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Nota",
                 "Note"
             ],
@@ -1296,19 +1283,6 @@
             ],
             "flags": 0,
             "guid": "ABFAZK2f>e",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Mak Cik (Name)&nbsp;",
-                "Auntie"
-            ],
-            "flags": 0,
-            "guid": "h%GCWCS_Or",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2518,6 +2492,32 @@
             ],
             "flags": 0,
             "guid": "L,D0luyG!D",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dewan kuliah",
+                "Lecture hall"
+            ],
+            "flags": 0,
+            "guid": "j7<D)qQ@2F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menjual",
+                "Sell"
+            ],
+            "flags": 0,
+            "guid": "fz1tFHR[%4",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

@@ -966,7 +966,7 @@
             "data": "",
             "fields": [
                 "Pelajar",
-                "student"
+                "Student"
             ],
             "flags": 0,
             "guid": "F%iQA$V[/!",
@@ -1134,8 +1134,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saudari",
-                "Sister"
+                "Saudari (Not-blood-related)",
+                "Sister (Not-blood-related)"
             ],
             "flags": 0,
             "guid": "b@::+`8U]K",
@@ -1160,24 +1160,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Brother (Mister)",
-                "Saudara"
+                "Brother (Not-blood-related)",
+                "Saudara (Not-blood-related)"
             ],
             "flags": 0,
             "guid": "J4mAXE%2/j",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Saudara",
-                "Brother"
-            ],
-            "flags": 0,
-            "guid": "u%D9:~k!7M",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1668,7 +1655,7 @@
             "data": "",
             "fields": [
                 "Naiki",
-                "Board"
+                "Board (Verb)"
             ],
             "flags": 0,
             "guid": "Eh5BXt_OEH",
