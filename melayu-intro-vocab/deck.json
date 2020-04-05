@@ -1045,7 +1045,7 @@
             "data": "",
             "fields": [
                 "Wallet",
-                "dompet/beg duit"
+                "Dompet/beg duit"
             ],
             "flags": 0,
             "guid": "vAN`m;RJrX",
@@ -1499,32 +1499,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Floor/level",
-                "Tingkat"
-            ],
-            "flags": 0,
-            "guid": "uei*kpdf+L",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Far",
-                "Jauh"
-            ],
-            "flags": 0,
-            "guid": "OUky=O`v`f",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Bayi",
                 "Baby"
             ],
@@ -1629,19 +1603,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Below",
-                "Di bawah"
-            ],
-            "flags": 0,
-            "guid": "QZvfU{~[Yu",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Perbualan",
                 "Conversation"
             ],
@@ -1699,45 +1660,6 @@
             ],
             "flags": 0,
             "guid": "Aqrn#.cKg7",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Start",
-                "Mula"
-            ],
-            "flags": 0,
-            "guid": "D;g+>CRkq=",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bermula",
-                "Started"
-            ],
-            "flags": 0,
-            "guid": "sEk#}NOveZ",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Started",
-                "Bermula"
-            ],
-            "flags": 0,
-            "guid": "gj6N:]o}UO",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2505,19 +2427,6 @@
             ],
             "flags": 0,
             "guid": "j7<D)qQ@2F",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Menjual",
-                "Sell"
-            ],
-            "flags": 0,
-            "guid": "fz1tFHR[%4",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
