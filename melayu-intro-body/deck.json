@@ -289,7 +289,7 @@
             "data": "",
             "fields": [
                 "Kuku",
-                "Nail"
+                "Nails"
             ],
             "flags": 0,
             "guid": "ji}@L|D@Y$",
@@ -397,32 +397,6 @@
             ],
             "flags": 0,
             "guid": "Nt9Cwwd#6+",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Leher",
-                "Front neck"
-            ],
-            "flags": 0,
-            "guid": "qm3-GfZh)3",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tengkuk",
-                "Back neck"
-            ],
-            "flags": 0,
-            "guid": "c:imM&1L0}",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

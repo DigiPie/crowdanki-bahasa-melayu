@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 25,
                 "separate": true
             },
             "replayq": true,
@@ -991,7 +991,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ambil",
+                "(Meng)ambil",
                 "Take"
             ],
             "flags": 0,
@@ -1082,7 +1082,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sila",
+                "Sila(lah)",
                 "Please"
             ],
             "flags": 0,
@@ -1108,7 +1108,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lihat",
+                "(Me)lihat",
                 "See"
             ],
             "flags": 0,
@@ -1147,19 +1147,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sister",
-                "Saudari"
-            ],
-            "flags": 0,
-            "guid": "u*Q6^QB@*J",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Brother (Not-blood-related)",
                 "Saudara (Not-blood-related)"
             ],
@@ -1186,7 +1173,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mr",
+                "Mister",
                 "Encik"
             ],
             "flags": 0,
@@ -1382,7 +1369,7 @@
             "data": "",
             "fields": [
                 "Where",
-                "Mana"
+                "Di mana"
             ],
             "flags": 0,
             "guid": "c(0}3*%>cv",
@@ -1537,7 +1524,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Baharu/Baru",
+                "Baharu",
                 "New"
             ],
             "flags": 0,
@@ -1641,19 +1628,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Naiki",
-                "Board (Verb)"
-            ],
-            "flags": 0,
-            "guid": "Eh5BXt_OEH",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Get on",
                 "Naiki"
             ],
@@ -1720,7 +1694,7 @@
             "data": "",
             "fields": [
                 "Di tengah",
-                "middle"
+                "Middle"
             ],
             "flags": 0,
             "guid": "k`%bn~ogVa",
@@ -1824,7 +1798,7 @@
             "data": "",
             "fields": [
                 "Di tepi / Di sebelah",
-                "next to you/beside you"
+                "Next to you/beside you"
             ],
             "flags": 0,
             "guid": "ty!f;+d;yS",
@@ -1876,7 +1850,7 @@
             "data": "",
             "fields": [
                 "Teach",
-                "Ajar"
+                "(Meng)ajar"
             ],
             "flags": 0,
             "guid": "A3(d^t_4):",
@@ -1979,37 +1953,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Right in the middle",
-                "Tengah-tengah"
-            ],
-            "flags": 0,
-            "guid": "n%?aMWm.:q",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Add&nbsp;",
                 "Tambah"
             ],
             "flags": 0,
             "guid": "gHv+)9;F9x",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Mula",
-                "Start"
-            ],
-            "flags": 0,
-            "guid": "wp|XPn>0-m",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2187,7 +2135,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mengapa?",
+                "Mengapa/Kenapa?",
                 "Why?"
             ],
             "flags": 0,
@@ -2499,7 +2447,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bilakah awak keluar rumah?",
+                "Bilakah awak balik rumah?",
                 "When are you going home?"
             ],
             "flags": 0,
@@ -2720,8 +2668,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Gunakan",
-                "Using"
+                "Gunakan itu",
+                "Use that"
             ],
             "flags": 0,
             "guid": "tfT-z?%5?P",
@@ -2764,19 +2712,6 @@
             ],
             "flags": 0,
             "guid": "u+vK8+!}/H",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kenapa",
-                "Why"
-            ],
-            "flags": 0,
-            "guid": "yEr3mT!T@3",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3344,7 +3279,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya berkeja sambilan pada Sabtu dan Ahad.",
+                "Saya berkeja sambilan pada hari Sabtu dan hari Ahad.",
                 "I work part-time on Saturday and Sunday."
             ],
             "flags": 0,
@@ -3461,24 +3396,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jika",
-                "If (formal)"
+                "Jika / Kalau",
+                "If (formal/informal respectively)"
             ],
             "flags": 0,
             "guid": "FF3:Af|k4e",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kalau",
-                "If (less formal)"
-            ],
-            "flags": 0,
-            "guid": "jO~?Ie_3##",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
