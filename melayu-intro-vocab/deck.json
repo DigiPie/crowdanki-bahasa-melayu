@@ -199,21 +199,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Anak kembar",
-                "Twins"
-            ],
-            "flags": 0,
-            "guid": "ASu6TCmG>p",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Anak Kembar Tiga (Empat....)",
-                "Triplets/Quintuplets"
+                "Anak Kembar (-/Tiga/....)",
+                "Twins/Triplets/..."
             ],
             "flags": 0,
             "guid": "x7k~2w6d1q",
@@ -862,19 +849,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tua",
-                "Old"
-            ],
-            "flags": 0,
-            "guid": "wbUNZ{Wkh:",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Bilik kuliah",
                 "Lecture room"
             ],
@@ -1070,8 +1044,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kasut Roda",
-                "Inline skating"
+                "Kasut roda",
+                "Inline skates"
             ],
             "flags": 0,
             "guid": "vMa_zAO@=-",
@@ -1257,32 +1231,6 @@
             ],
             "flags": 0,
             "guid": "LiaeiX+.x>",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Cik",
-                "Miss"
-            ],
-            "flags": 0,
-            "guid": "q2x{gZ&)H=",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Encik",
-                "Mr"
-            ],
-            "flags": 0,
-            "guid": "ABFAZK2f>e",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1551,32 +1499,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Banci",
-                "Survey"
-            ],
-            "flags": 0,
-            "guid": "v`>_Gyu@3I",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Survey",
-                "Banci"
-            ],
-            "flags": 0,
-            "guid": "pxC@^P,QGF",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Pusat Pengajian Bahasa",
                 "Centre for Language Studies"
             ],
@@ -1590,7 +1512,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Centre for Language Studies",
+                "Language Studies Centre",
                 "Pusat Pengajian Bahasa"
             ],
             "flags": 0,
@@ -1712,19 +1634,6 @@
             ],
             "flags": 0,
             "guid": "F4QC=!pF14",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Jawab",
-                "Answer"
-            ],
-            "flags": 0,
-            "guid": "jY6rLrf!pO",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2427,6 +2336,19 @@
             ],
             "flags": 0,
             "guid": "j7<D)qQ@2F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anak sulung",
+                "Eldest child"
+            ],
+            "flags": 0,
+            "guid": "y5?v1!xg^]",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

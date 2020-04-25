@@ -198,19 +198,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Good bye (to person leaving)",
-                "Selamat Jalan"
-            ],
-            "flags": 0,
-            "guid": "v{uW^vMs(-",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Siapakah nama awak?",
                 "What is your name?<div><br></div>"
             ],
@@ -523,8 +510,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jom",
-                "Let's go"
+                "Jom sekarang",
+                "Let's go now"
             ],
             "flags": 0,
             "guid": "FC]IE`eCY*",
@@ -900,8 +887,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tulis",
-                "Write"
+                "(Men)ulis / Tulis(kan)",
+                "Write / Write it down"
             ],
             "flags": 0,
             "guid": "Hn;27L-m[~",
@@ -940,7 +927,7 @@
             "data": "",
             "fields": [
                 "Pekerja",
-                "employee"
+                "Employee"
             ],
             "flags": 0,
             "guid": "CJ_h(eA3Zw",
@@ -970,19 +957,6 @@
             ],
             "flags": 0,
             "guid": "F%iQA$V[/!",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "semut-semut",
-                "pins and needles after sitting for too long"
-            ],
-            "flags": 0,
-            "guid": "Bd*y+nYx|e",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1035,19 +1009,6 @@
             ],
             "flags": 0,
             "guid": "FtJ&%_u!62",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Sisi",
-                "Side"
-            ],
-            "flags": 0,
-            "guid": "CTtw;{gS3@",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1212,19 +1173,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tuan",
-                "Sir"
-            ],
-            "flags": 0,
-            "guid": "pB7^tAu!.^",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Sir",
                 "Tuan"
             ],
@@ -1343,7 +1291,7 @@
             "data": "",
             "fields": [
                 "What",
-                "Apa"
+                "Apa(kah)"
             ],
             "flags": 0,
             "guid": "DID%MQq6|k",
@@ -1395,7 +1343,7 @@
             "data": "",
             "fields": [
                 "Who",
-                "Siapa"
+                "Siapa(kah)"
             ],
             "flags": 0,
             "guid": "r7G|VP)fzr",
@@ -1407,7 +1355,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bila",
+                "Bila(kah)",
                 "When"
             ],
             "flags": 0,
@@ -1420,20 +1368,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "When&nbsp;",
-                "Bila"
-            ],
-            "flags": 0,
-            "guid": "bMpH@qmh)b",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bagaimana",
+                "Bagaimana(kah)",
                 "How"
             ],
             "flags": 0,
@@ -1459,7 +1394,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Floor/level",
+                "Level",
                 "Tingkat"
             ],
             "flags": 0,
@@ -1537,21 +1472,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lama",
-                "Old"
-            ],
-            "flags": 0,
-            "guid": "D_Qp[4CO+z",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Old",
-                "Lama"
+                "Lama / Tua"
             ],
             "flags": 0,
             "guid": "Kbhm.qzRTA",
@@ -1603,23 +1525,10 @@
             "data": "",
             "fields": [
                 "Diri",
-                "Self"
+                "Yourself"
             ],
             "flags": 0,
             "guid": "Ft;V+j{7Pb",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Self",
-                "Diri"
-            ],
-            "flags": 0,
-            "guid": "G[fjdO{JGo",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1836,7 +1745,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ajar",
+                "(Meng)ajar",
                 "Teach"
             ],
             "flags": 0,
@@ -2018,8 +1927,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bual",
-                "Talk"
+                "Saya bercakap dengan dia.",
+                "I talked with him/her."
             ],
             "flags": 0,
             "guid": "zsHGu~_=P[",
@@ -2331,7 +2240,7 @@
             "data": "",
             "fields": [
                 "Dia belum makan",
-                "I have not eaten"
+                "He/she have not eaten yet"
             ],
             "flags": 0,
             "guid": "f*AF,AJGp&",
@@ -2452,19 +2361,6 @@
             ],
             "flags": 0,
             "guid": "wC?/.0C5<4",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Saya akan nanti",
-                "I will eat later"
-            ],
-            "flags": 0,
-            "guid": "ODwS?$G_}W",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2616,7 +2512,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Keluarkan",
+                "Keluar(kan)",
                 "Take out"
             ],
             "flags": 0,
@@ -2811,8 +2707,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jangan pakai kasut di dalam",
-                "Do not wear shoes inside"
+                "Jangan pakai kasut di dalam.",
+                "Do not wear shoes inside."
             ],
             "flags": 0,
             "guid": "yh8kH]o1em",
@@ -3084,19 +2980,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sebelum",
-                "Before"
-            ],
-            "flags": 0,
-            "guid": "QO])F5)36U",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Selapas",
                 "After"
             ],
@@ -3163,7 +3046,7 @@
             "data": "",
             "fields": [
                 "Bulan lepas",
-                "Next month"
+                "Last month"
             ],
             "flags": 0,
             "guid": "D)CF@h2+-x",
@@ -3305,19 +3188,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tarikh",
-                "Date"
-            ],
-            "flags": 0,
-            "guid": "m7Y3^^JV?!",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "20 May 2003",
                 "Dua puluh hari bulan Mei dua puluh sifar tiga"
             ],
@@ -3449,7 +3319,7 @@
             "data": "",
             "fields": [
                 "Saya berasa berlari seronok.",
-                "I feel like running is fun."
+                "I feel like running is enjoyable."
             ],
             "flags": 0,
             "guid": "mYB_inVxMz",
@@ -3934,6 +3804,175 @@
             ],
             "flags": 0,
             "guid": "wcRYC#9xv>",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tarikh",
+                "Date"
+            ],
+            "flags": 0,
+            "guid": "Dt`ZNrlBsl",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya banyak bersyukur.",
+                "I am very grateful."
+            ],
+            "flags": 0,
+            "guid": "J[nHCA5Ec9",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Permain komputer semalam banyak asyik.",
+                "Computer game last night very fun."
+            ],
+            "flags": 0,
+            "guid": "uBiYZeQeq&",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Seronok",
+                "Enjoyable"
+            ],
+            "flags": 0,
+            "guid": "jY`W6lBwzF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Asyik",
+                "Fun"
+            ],
+            "flags": 0,
+            "guid": "xY<:Pa/|2<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lapkan",
+                "Wipe it"
+            ],
+            "flags": 0,
+            "guid": "C6OpU5]F5/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Meng)hantar / Hantar(kan)",
+                "Send / Send it"
+            ],
+            "flags": 0,
+            "guid": "x|4>NoJ,11",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Comel (Si comel)",
+                "Cute (Cutie)"
+            ],
+            "flags": 0,
+            "guid": "O2DU]i~g12",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Si pandai",
+                "Very clever (sarcastic)"
+            ],
+            "flags": 0,
+            "guid": "NUv~M9;^{;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Si cepat",
+                "Slowpoke"
+            ],
+            "flags": 0,
+            "guid": "b{PJ}o[+L3",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alasan",
+                "Excuse"
+            ],
+            "flags": 0,
+            "guid": "ti&L8kH?hp",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tiga hari dari hari ini",
+                "Three days from today"
+            ],
+            "flags": 0,
+            "guid": "JAs/a%au)X",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kopi lagi baik daripada teh.",
+                "Coffee is better than tea."
+            ],
+            "flags": 0,
+            "guid": "QHpRwaC=-`",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
