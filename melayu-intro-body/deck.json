@@ -470,24 +470,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pinggang",
-                "Waist"
+                "Pinggang (Pinggang paha)",
+                "Waist (Thigh)"
             ],
             "flags": 0,
             "guid": "M=$aOw{~^C",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pinggang paha",
-                "Thigh"
-            ],
-            "flags": 0,
-            "guid": "Ck5)9Se+fY",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

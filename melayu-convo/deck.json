@@ -536,8 +536,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya nak (informal) sambosa dan sambal goreng.",
-                "I want (informal) sambosa and sambal goreng."
+                "Saya nak sambosa dan sambal goreng.",
+                "I want sambosa and sambal goreng."
             ],
             "flags": 0,
             "guid": "sCx%%x!?cS",
@@ -562,7 +562,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak mahu tinggal dan belajar?",
+                "Awak nak tinggal dan belajar?",
                 "You want to stay and study?"
             ],
             "flags": 0,
@@ -588,8 +588,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sedikit (sikit)",
-                "A little"
+                "Banyak - Sedikit / Sikit",
+                "A lot / A little"
             ],
             "flags": 0,
             "guid": "tAj^@^wb:V",
@@ -601,8 +601,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Banyak",
-                "A lot"
+                "Banyak (Banyak lagi)",
+                "A lot (Many more)"
             ],
             "flags": 0,
             "guid": "HiG5u^duA2",
@@ -619,32 +619,6 @@
             ],
             "flags": 0,
             "guid": "u3KlI5u}5a",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Di hadapan",
-                "In front"
-            ],
-            "flags": 0,
-            "guid": "KqcUa$Gcuu",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Di belakang",
-                "Behind"
-            ],
-            "flags": 0,
-            "guid": "vt%2dT{|yH",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -835,8 +809,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mudah",
-                "Easy"
+                "Mudah - Susah",
+                "Easy - Hard"
             ],
             "flags": 0,
             "guid": "Fw8C*_S>uj",
@@ -848,8 +822,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Muda",
-                "Young"
+                "Muda (Pemuda, Pemudi)",
+                "Young (Young man, Young woman)"
             ],
             "flags": 0,
             "guid": "vlL9)xDaQG",
@@ -926,37 +900,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pekerja",
-                "Employee"
-            ],
-            "flags": 0,
-            "guid": "CJ_h(eA3Zw",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bekerja",
-                "Work"
+                "Bekerja (Perkerja, Perkerjaan)",
+                "Work [Verb] (Worker, Work [Noun] / Job)"
             ],
             "flags": 0,
             "guid": "B9wA4`xD`a",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pelajar",
-                "Student"
-            ],
-            "flags": 0,
-            "guid": "F%iQA$V[/!",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1082,8 +1030,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Perempuan",
-                "Girl"
+                "Lelaki - Perempuan",
+                "Boy / Male - Girl / Female"
             ],
             "flags": 0,
             "guid": "xOk`kCND6X",
@@ -1095,21 +1043,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saudari (Not-blood-related)",
-                "Sister (Not-blood-related)"
-            ],
-            "flags": 0,
-            "guid": "b@::+`8U]K",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Brother (Not-blood-related)",
-                "Saudara (Not-blood-related)"
+                "Brother - Sister (Not-blood-related)",
+                "Saudara - Saudari (Not-blood-related)"
             ],
             "flags": 0,
             "guid": "J4mAXE%2/j",
@@ -1121,21 +1056,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Miss",
-                "Cik"
-            ],
-            "flags": 0,
-            "guid": "e`$%P=1!wm",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Mister",
-                "Encik"
+                "Mister - Miss",
+                "Encik - Cik"
             ],
             "flags": 0,
             "guid": "n$&19?vsm/",
@@ -1147,34 +1069,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Puan",
-                "Madam"
-            ],
-            "flags": 0,
-            "guid": "G+n^-O|7R?",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Madam",
-                "Puan"
-            ],
-            "flags": 0,
-            "guid": "Ffu.FTuUoD",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Sir",
-                "Tuan"
+                "Sir - Madam",
+                "Tuan - Puan"
             ],
             "flags": 0,
             "guid": "l51L.ou}m!",
@@ -1186,34 +1082,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Auntie&nbsp;",
-                "Mak Cik"
-            ],
-            "flags": 0,
-            "guid": "M?|NwAEyWa",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Uncle&nbsp;",
-                "Pak Cik"
-            ],
-            "flags": 0,
-            "guid": "uA)K47f;!0",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pak Cik",
-                "Uncle"
+                "Pak Cik - Mak Cik",
+                "Uncle - Auntie"
             ],
             "flags": 0,
             "guid": "B*;<3cB:wG",
@@ -1225,50 +1095,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Older Sister",
-                "Kakak"
+                "Older Sister - Older Brother",
+                "Kakak - Abang"
             ],
             "flags": 0,
             "guid": "Kzt`gI9*$r",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kakak",
-                "Older Sister"
-            ],
-            "flags": 0,
-            "guid": "i6R-m1v`3B",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Older brother",
-                "Abang"
-            ],
-            "flags": 0,
-            "guid": "iy7L8|gyS#",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Abang",
-                "Older Brother"
-            ],
-            "flags": 0,
-            "guid": "P7;.@aU-a-",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1329,24 +1160,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Siapa",
+                "Siapa(kah)",
                 "Who"
             ],
             "flags": 0,
             "guid": "uth{YS{VYj",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Who",
-                "Siapa(kah)"
-            ],
-            "flags": 0,
-            "guid": "r7G|VP)fzr",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1381,6 +1199,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Saya kenalkan anda, James ini.",
+                "I introduce you, this is James."
+            ],
+            "flags": 0,
+            "guid": "y;4TaNf.yF",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Tingkat",
                 "Floor/Level"
             ],
@@ -1399,19 +1230,6 @@
             ],
             "flags": 0,
             "guid": "uei*kpdf+L",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dekat",
-                "Near"
-            ],
-            "flags": 0,
-            "guid": "Q_{2`&FA<y",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1446,8 +1264,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Far",
-                "Jauh"
+                "Near - Far",
+                "Dekat - Jauh"
             ],
             "flags": 0,
             "guid": "OUky=O`v`f",
@@ -1472,8 +1290,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Old",
-                "Lama / Tua"
+                "Young - Old",
+                "Muda - Lama / Tua"
             ],
             "flags": 0,
             "guid": "Kbhm.qzRTA",
@@ -1485,37 +1303,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bersih",
-                "Clean"
+                "Bersih - Kotor",
+                "Clean - Dirty"
             ],
             "flags": 0,
             "guid": "d^sEv/Zj=I",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kotor",
-                "Dirty"
-            ],
-            "flags": 0,
-            "guid": "P0.0i*x2+j",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dirty&nbsp;",
-                "Kotor"
-            ],
-            "flags": 0,
-            "guid": "wZ]#]YO+}/",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1537,8 +1329,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Get on",
-                "Naiki"
+                "Get on - Alight",
+                "Naiki - Turun"
             ],
             "flags": 0,
             "guid": "tDXRF$dswj",
@@ -1615,32 +1407,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Di selatan",
-                "South"
-            ],
-            "flags": 0,
-            "guid": "s;.Gicp#<a",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Di barat",
-                "West"
-            ],
-            "flags": 0,
-            "guid": "s:2v9vawt",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Arah",
                 "Direction"
             ],
@@ -1680,8 +1446,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Behind&nbsp;",
-                "Di belakang"
+                "In front - Behind&nbsp;",
+                "Di hadapan - Di belakang"
             ],
             "flags": 0,
             "guid": "dq$t%YM<8`",
@@ -1719,34 +1485,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Di timur",
-                "East"
-            ],
-            "flags": 0,
-            "guid": "H<Ji<]CI@",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Di utara",
-                "North"
-            ],
-            "flags": 0,
-            "guid": "k!`*y7Q_Ec",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "(Meng)ajar",
-                "Teach"
+                "Pengajar - (Meng)ajar - Pelajar - Belajar",
+                "Instructor - Teach - Student - Study"
             ],
             "flags": 0,
             "guid": "zRw`]j50_<",
@@ -1758,21 +1498,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Teach",
-                "(Meng)ajar"
-            ],
-            "flags": 0,
-            "guid": "A3(d^t_4):",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Duduk",
-                "Sit"
+                "Duduk - Berdiri",
+                "Sit - Stand"
             ],
             "flags": 0,
             "guid": "p#XQb+gJcE",
@@ -1797,73 +1524,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "North East",
-                "Timur Laut"
-            ],
-            "flags": 0,
-            "guid": "MA}[b![XGR",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Timur Laut",
-                "North East"
-            ],
-            "flags": 0,
-            "guid": "P_,:#mqLAA",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Southeast",
-                "Tenggara"
-            ],
-            "flags": 0,
-            "guid": "H|;l1.[sG,",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "South West",
-                "Barat daya"
-            ],
-            "flags": 0,
-            "guid": "XGc*i5)$o",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "North West",
-                "Barat Laut"
-            ],
-            "flags": 0,
-            "guid": "veqF8Uv++m",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Add&nbsp;",
-                "Tambah"
+                "Tambah (Tambahan)",
+                "Add (Additional)"
             ],
             "flags": 0,
             "guid": "gHv+)9;F9x",
@@ -1901,24 +1563,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Basah",
-                "Wet"
+                "Basah - Kering",
+                "Wet - Dry"
             ],
             "flags": 0,
             "guid": "BS3;xv|e-u",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Wet",
-                "Basah"
-            ],
-            "flags": 0,
-            "guid": "B4Qw0w{~,S",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1932,32 +1581,6 @@
             ],
             "flags": 0,
             "guid": "zsHGu~_=P[",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Turun",
-                "Alight"
-            ],
-            "flags": 0,
-            "guid": "y(nEWo6tCH",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Alight",
-                "Turun"
-            ],
-            "flags": 0,
-            "guid": "J=7BH^k;}u",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2187,19 +1810,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tak risau",
-                "Do not worry"
-            ],
-            "flags": 0,
-            "guid": "h15BV7Auno",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Saya sudah makan",
                 "I already ate"
             ],
@@ -2213,8 +1823,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya masih di stesen Khatib",
-                "I am still at Khatib station"
+                "Saya masih di stesen Khatib.",
+                "I am still at Khatib station."
             ],
             "flags": 0,
             "guid": "uFj[ur8N&D",
@@ -2239,8 +1849,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dia belum makan",
-                "He/she have not eaten yet"
+                "Dia belum makan.",
+                "He/she has not eaten yet."
             ],
             "flags": 0,
             "guid": "f*AF,AJGp&",
@@ -2265,8 +1875,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya berada di __",
-                "I am at __"
+                "Saya berada di kantin.",
+                "I am at the canteen."
             ],
             "flags": 0,
             "guid": "El1UlgR_I:",
@@ -2551,8 +2161,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nanti",
-                "Later"
+                "Nanti (Menanti)",
+                "Later (Wait)"
             ],
             "flags": 0,
             "guid": "Bm,@HfN?|r",
@@ -2746,37 +2356,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tarik",
-                "Pull"
+                "Tolak - Tarik",
+                "Push - Pull"
             ],
             "flags": 0,
             "guid": "zdVHem%n|*",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Push",
-                "Tolak"
-            ],
-            "flags": 0,
-            "guid": "sS+jbqNNq:",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Banyak lagi",
-                "Many more"
-            ],
-            "flags": 0,
-            "guid": "Ppa{<K8>0I",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2955,7 +2539,7 @@
             "data": "",
             "fields": [
                 "Hari ini hari apa?",
-                "Today what day?"
+                "What day is today?"
             ],
             "flags": 0,
             "guid": "i9rVA&$D`X",
@@ -2993,34 +2577,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Minggu ini",
-                "This week"
-            ],
-            "flags": 0,
-            "guid": "sFeFF(8s9<",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Minggu depan",
-                "Next week"
-            ],
-            "flags": 0,
-            "guid": "F:Sf?kvWj=",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Minggu lepas",
-                "Last week"
+                "Minggu lepas - Minggu depan",
+                "Last week&nbsp; - Next week"
             ],
             "flags": 0,
             "guid": "x!2>B0!&&%",
@@ -3032,37 +2590,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bulan ini",
-                "This month"
-            ],
-            "flags": 0,
-            "guid": "i5O5VSOS$2",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bulan lepas",
-                "Last month"
+                "Bulan lepas - Bulan depan",
+                "Last month - Next month"
             ],
             "flags": 0,
             "guid": "D)CF@h2+-x",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bulan depan",
-                "Next month"
-            ],
-            "flags": 0,
-            "guid": "L?DntHFxpS",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3128,6 +2660,45 @@
             ],
             "flags": 0,
             "guid": "j[%TOzJd4+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hour",
+                "Jam"
+            ],
+            "flags": 0,
+            "guid": "IfJ(rN{h5w",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minit",
+                "Minute"
+            ],
+            "flags": 0,
+            "guid": "rF{<D2A&[I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kedua",
+                "Second"
+            ],
+            "flags": 0,
+            "guid": "JdV^AwN_R.",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3202,7 +2773,7 @@
             "data": "",
             "fields": [
                 "Boleh",
-                "May (can but with permission)"
+                "Can / May"
             ],
             "flags": 0,
             "guid": "zuujPC_KP&",
@@ -3344,8 +2915,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak hendak pizza yang mana?",
-                "You want pizza which one?"
+                "Awak hendak bubble tea yang mana?",
+                "You want which bubble tea?"
             ],
             "flags": 0,
             "guid": "n(qt0b?rK;",
@@ -3370,24 +2941,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ibu",
-                "Mum"
+                "Ibu - Bapa",
+                "Mum - Dad"
             ],
             "flags": 0,
             "guid": "bdBl)gf)cj",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bapa",
-                "Father"
-            ],
-            "flags": 0,
-            "guid": "EkG6bxzTza",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3565,19 +3123,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya mengajar empat belas pelajar.",
-                "I teach 14 students."
-            ],
-            "flags": 0,
-            "guid": "uxM]eXk|5,",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Ini bukan sesuatu yang mudah.",
                 "It is not something which is easy."
             ],
@@ -3643,8 +3188,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dapat",
-                "Could"
+                "Dapat (Mendapat)",
+                "Could (Got)"
             ],
             "flags": 0,
             "guid": "ibWP>K/_h+",
@@ -3773,8 +3318,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Menjual",
-                "Sell"
+                "Membeli - Memjual",
+                "Buy - Sell"
             ],
             "flags": 0,
             "guid": "fz1tFHR[%4",
@@ -3786,24 +3331,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kecil",
-                "Small"
+                "Kecil - Besar",
+                "Small - Big"
             ],
             "flags": 0,
             "guid": "o@Iob4TzWI",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Big",
-                "Besar"
-            ],
-            "flags": 0,
-            "guid": "wcRYC#9xv>",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3830,19 +3362,6 @@
             ],
             "flags": 0,
             "guid": "J[nHCA5Ec9",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Permain komputer semalam banyak asyik.",
-                "Computer game last night very fun."
-            ],
-            "flags": 0,
-            "guid": "uBiYZeQeq&",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3890,37 +3409,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "(Meng)hantar / Hantar(kan)",
-                "Send / Send it"
+                "(Meng)hantar - Hantar(kan)",
+                "Send - Send it"
             ],
             "flags": 0,
             "guid": "x|4>NoJ,11",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Comel (Si comel)",
-                "Cute (Cutie)"
-            ],
-            "flags": 0,
-            "guid": "O2DU]i~g12",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Si pandai",
-                "Very clever (sarcastic)"
-            ],
-            "flags": 0,
-            "guid": "NUv~M9;^{;",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3973,6 +3466,19 @@
             ],
             "flags": 0,
             "guid": "QHpRwaC=-`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Last year - Next year",
+                "Tahun lepas - Tahun hadapan"
+            ],
+            "flags": 0,
+            "guid": "N!O_s_y*y]",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

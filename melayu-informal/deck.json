@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "7f9e0669-68de-11ea-a23b-00051b2454a4",
+    "crowdanki_uuid": "062d4fd3-8b7f-11ea-a0ce-e0b1b5738f41",
     "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
     "deck_configurations": [
         {
@@ -55,8 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "mid": "1569982671045",
-    "name": "melayu-intro-exam",
+    "name": "melayu-informal",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -125,58 +124,6 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
         }
     ],
     "notes": [
@@ -184,11 +131,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "South",
-                "Seletan"
+                "Saya nak sambosa dan sambal goreng.",
+                "I want sambosa and sambal goreng."
             ],
             "flags": 0,
-            "guid": "s;.Gicp#<a",
+            "guid": "sCx%%x!?cS",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -197,11 +144,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Barat",
-                "West"
+                "Awak nak tinggal dan belajar?",
+                "You want to stay and study?"
             ],
             "flags": 0,
-            "guid": "s:2v9vawt",
+            "guid": "bu0?{gJy6~",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -210,11 +157,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Timur",
-                "East"
+                "Older Sister - Older Brother",
+                "Kakak - Abang"
             ],
             "flags": 0,
-            "guid": "H<Ji<]CI@",
+            "guid": "Kzt`gI9*$r",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -223,11 +170,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Di utara",
-                "North"
+                "Tak risau",
+                "Do not worry"
             ],
             "flags": 0,
-            "guid": "k!`*y7Q_Ec",
+            "guid": "h15BV7Auno",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -236,11 +183,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "North East",
-                "Timur Laut"
+                "Comel (Si comel)",
+                "Cute (Cutie)"
             ],
             "flags": 0,
-            "guid": "MA}[b![XGR",
+            "guid": "O2DU]i~g12",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -249,11 +196,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Timur Laut",
-                "North East"
+                "Si pandai",
+                "Very clever (sarcastic)"
             ],
             "flags": 0,
-            "guid": "P_,:#mqLAA",
+            "guid": "NUv~M9;^{;",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -262,65 +209,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "South East",
-                "Tenggara"
+                "Boleh bagi nombor tak?",
+                "Can share number or not? ;)"
             ],
             "flags": 0,
-            "guid": "H|;l1.[sG,",
+            "guid": "Dac9dv,ilQ",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "South West",
-                "Barat daya"
-            ],
-            "flags": 0,
-            "guid": "XGc*i5)$o",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "North West",
-                "Barat Laut"
-            ],
-            "flags": 0,
-            "guid": "veqF8Uv++m",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Fee dan Ivy pergi ke kantin. _____ mahu makan.",
-                "Fee dan Ivy pergi ke kantin. <b>Mereka </b>mahu makan."
-            ],
-            "flags": 0,
-            "guid": "NfX*6;fzjQ",
-            "newlyAdded": false,
-            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "\"Mari __ minum kopi di Frontier,\" __ Evan __ Wen Yan.",
-                "\"Mari <b>kita&nbsp;</b>minum kopi di Frontier,\" <b>kata&nbsp;</b>Evan <b>kepada&nbsp;</b>Wen Yan."
-            ],
-            "flags": 0,
-            "guid": "eu!kKk|/M1",
-            "newlyAdded": false,
-            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]

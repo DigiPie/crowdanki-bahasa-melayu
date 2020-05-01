@@ -60,6 +60,60 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-fc685",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -125,89 +179,9 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-fc685",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
         }
     ],
     "notes": [
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Anak Tunggal",
-                "Only child"
-            ],
-            "flags": 0,
-            "guid": "L9#+bf)t{`",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Anak Kembar (-/Tiga/....)",
-                "Twins/Triplets/..."
-            ],
-            "flags": 0,
-            "guid": "x7k~2w6d1q",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
         {
             "__type__": "Note",
             "data": "",
@@ -464,19 +438,6 @@
             ],
             "flags": 0,
             "guid": "GqfBeYH,4b",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Negeri",
-                "State"
-            ],
-            "flags": 0,
-            "guid": "sbCm}1Ww-w",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -810,8 +771,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Negara",
-                "Country"
+                "Negara - Negeri",
+                "Country - State"
             ],
             "flags": 0,
             "guid": "rz8d:na+O0",
@@ -828,19 +789,6 @@
             ],
             "flags": 0,
             "guid": "P4,&Uv<ipY",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Susah",
-                "Hard"
-            ],
-            "flags": 0,
-            "guid": "q)7[*X7`tW",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1057,19 +1005,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Belajar",
-                "Study"
-            ],
-            "flags": 0,
-            "guid": "fU:z~)TjPD",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Tingkap",
                 "Window"
             ],
@@ -1083,21 +1018,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pintu kayu",
-                "Wooden door"
-            ],
-            "flags": 0,
-            "guid": "s{:%?_Z9FB",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pintu besi",
-                "Metal door"
+                "Pintu besi - Pintu kayu",
+                "Metal door - Wooden door"
             ],
             "flags": 0,
             "guid": "tV2JH8mw6U",
@@ -1226,19 +1148,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Girl",
-                "Perempuan"
-            ],
-            "flags": 0,
-            "guid": "LiaeiX+.x>",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Sastera",
                 "Arts"
             ],
@@ -1265,24 +1174,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kejuruteraan",
-                "Engineering"
+                "Ke(jurutera)an",
+                "(Engineer)ing"
             ],
             "flags": 0,
             "guid": "NlEGh/f{~I",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Engineering",
-                "Kejuruteraan"
-            ],
-            "flags": 0,
-            "guid": "x}mQTDs)R]",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1408,37 +1304,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nursing",
-                "Kejururawatan"
-            ],
-            "flags": 0,
-            "guid": "JcS`}${LsT",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kejururawatan",
-                "Nursing"
+                "Ke(jururawat)an",
+                "Nursing (Nurse)"
             ],
             "flags": 0,
             "guid": "MVn~;%#hgd",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Saya kenalkan anda, James ini.",
-                "I introduce you, this is James."
-            ],
-            "flags": 0,
-            "guid": "y;4TaNf.yF",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1556,32 +1426,6 @@
             ],
             "flags": 0,
             "guid": "kZ=m7EB>&n",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tambahan",
-                "Additional"
-            ],
-            "flags": 0,
-            "guid": "Kww&A)9~3^",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Additional",
-                "Tambahan"
-            ],
-            "flags": 0,
-            "guid": "Aqrn#.cKg7",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1720,19 +1564,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Race",
-                "Bangsa / Kaum"
-            ],
-            "flags": 0,
-            "guid": "i8q`sUFdjw",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Orang cina",
                 "Chinese people"
             ],
@@ -1825,7 +1656,7 @@
             "data": "",
             "fields": [
                 "Hari cuti",
-                "Holidays"
+                "Holiday"
             ],
             "flags": 0,
             "guid": "jh/9einVzf",
@@ -1842,19 +1673,6 @@
             ],
             "flags": 0,
             "guid": "E^0`i5.dG.",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bongsu",
-                "Youngest"
-            ],
-            "flags": 0,
-            "guid": "NC~>lod9c*",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1954,24 +1772,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Matahari",
-                "Sun"
+                "Matahari - Bulan",
+                "Sun - Moon"
             ],
             "flags": 0,
             "guid": "AYLNCXHJ9M",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bulan",
-                "Moon / Month"
-            ],
-            "flags": 0,
-            "guid": "w&Ms%}Zv~u",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2045,63 +1850,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Month",
-                "Bulan"
-            ],
-            "flags": 0,
-            "guid": "AViB:~@>3i",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Day",
-                "Hari"
-            ],
-            "flags": 0,
-            "guid": "CTaCrmNk)`",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Hour",
-                "Jam"
-            ],
-            "flags": 0,
-            "guid": "IfJ(rN{h5w",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Minute",
-                "Minit"
+                "Minit",
+                "Minute"
             ],
             "flags": 0,
             "guid": "rF{<D2A&[I",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Second",
-                "Kedua"
-            ],
-            "flags": 0,
-            "guid": "JdV^AwN_R.",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2279,19 +2032,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Wireless networking",
-                "Rangkaian tanpa wayar"
-            ],
-            "flags": 0,
-            "guid": "bvg2%-Nko)",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Ujian perisian",
                 "Software testing"
             ],
@@ -2336,19 +2076,6 @@
             ],
             "flags": 0,
             "guid": "j7<D)qQ@2F",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Anak sulung",
-                "Eldest child"
-            ],
-            "flags": 0,
-            "guid": "y5?v1!xg^]",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
