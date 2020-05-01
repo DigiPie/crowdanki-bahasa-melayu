@@ -55,7 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "melayu-intro-convo",
+    "name": "melayu-convo",
     "note_models": [
         {
             "__type__": "NoteModel",
