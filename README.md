@@ -9,10 +9,11 @@ This is a work-in-progress - the card decks are currently being udpated, vetted 
 | No. | Subject            | Description                                       |
 |----:|--------------------|---------------------------------------------------|
 |   1 | melayu-convo       | Proper commonly-used sentences and vocabulary.    |
-|   2 | melayu-informal    | Informal day-to-day speech.                       |
-|   3 | melayu-intro-body  | Basic human anatomy.                              |
-|   4 | melayu-intro-exam  | Sentences which test basic language mastery.      |
-|   5 | melayu-vocab       | Less-commonly used vocabulary.                    |
+|   3 | melayu-family      |                                                   |
+|   4 | melayu-informal    | Informal day-to-day speech.                       |
+|   5 | melayu-intro-body  | Basic human anatomy.                              |
+|   6 | melayu-intro-exam  | Sentences which test basic language mastery.      |
+|   7 | melayu-vocab       | Less-commonly used vocabulary.                    |
 
 ## Rules
 
