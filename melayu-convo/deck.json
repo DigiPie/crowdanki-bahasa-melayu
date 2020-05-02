@@ -185,8 +185,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Good Morning",
-                "Selamat Pagi"
+                "Selamat pagi",
+                "Good morning"
             ],
             "flags": 0,
             "guid": "ogz+YGzK*b",
@@ -263,37 +263,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Selamat pagi juga",
-                "Good morning, also"
-            ],
-            "flags": 0,
-            "guid": "q~JmOD/I-8",
-            "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Apa khabar?",
-                "How are you?"
+                "A: Apa khabar? B: Khabar baik, awak pula? A: Baik juga.",
+                "A: How are you? B: I am good, how about you? A: I am good too."
             ],
             "flags": 0,
             "guid": "h%s&tW.knX",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Baik juga",
-                "Good, also"
-            ],
-            "flags": 0,
-            "guid": "u}l-f]Zb`Y",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -705,19 +679,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Selamat pagi",
-                "Good morning"
-            ],
-            "flags": 0,
-            "guid": "|KW&m]HZo",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Selamat tengah hari",
                 "Good noon (12 - 2)"
             ],
@@ -914,7 +875,7 @@
             "data": "",
             "fields": [
                 "(Meng)ambil",
-                "Take"
+                "Take (Taking)"
             ],
             "flags": 0,
             "guid": "C@Vy(u=pIH",
@@ -1486,7 +1447,7 @@
             "data": "",
             "fields": [
                 "Pengajar - (Meng)ajar - Pelajar - Belajar",
-                "Instructor - Teach - Student - Study"
+                "Instructor - Teach(ing) - Student - Study"
             ],
             "flags": 0,
             "guid": "zRw`]j50_<",
@@ -2330,8 +2291,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pakai",
-                "Wear"
+                "Pakai (Pakaian)",
+                "Wear (Clothes)"
             ],
             "flags": 0,
             "guid": "A&T)&<:(A(",
@@ -3033,7 +2994,7 @@
             "data": "",
             "fields": [
                 "Saya berlatih setiap Rabu malam.",
-                "I exercise every Wednesday night."
+                "I practice every Wednesday night."
             ],
             "flags": 0,
             "guid": "F?BPPMS?}<",
@@ -3188,8 +3149,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dapat (Mendapat)",
-                "Could (Got)"
+                "Dapat",
+                "Could or got"
             ],
             "flags": 0,
             "guid": "ibWP>K/_h+",
@@ -3201,7 +3162,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Alexandra tidak mendapat pekerjaan itu.",
+                "Alexandra tidak dapat pekerjaan itu.",
                 "Alexandra could not get that job."
             ],
             "flags": 0,
@@ -3318,8 +3279,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Membeli - Memjual",
-                "Buy - Sell"
+                "(Mem)beli - (Mem)jual",
+                "Buy (Buying) - Sell (Selling)"
             ],
             "flags": 0,
             "guid": "fz1tFHR[%4",
@@ -3479,6 +3440,71 @@
             ],
             "flags": 0,
             "guid": "N!O_s_y*y]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tersebut",
+                "Aforementioned / Previously mentioned"
+            ],
+            "flags": 0,
+            "guid": "PT&wo7|6Vw",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kedai tersebut jual makanan.",
+                "The aforementioned (previously mentioned) store sells food."
+            ],
+            "flags": 0,
+            "guid": "C`J^a$8CB]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menarik",
+                "Interesting / Attractive"
+            ],
+            "flags": 0,
+            "guid": "O,0n.Zw.o;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya suka menonton K-drama.",
+                "I like watching K-drama."
+            ],
+            "flags": 0,
+            "guid": "r7fU=sKLF`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tonton (Menonton) telivisyen",
+                "Watch (Watching) telivisyen"
+            ],
+            "flags": 0,
+            "guid": "DeeT-<@}[r",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
