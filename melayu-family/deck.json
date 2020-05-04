@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }

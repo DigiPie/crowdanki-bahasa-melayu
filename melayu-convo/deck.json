@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 25,
+                "perDay": 35,
                 "separate": true
             },
             "replayq": true,
@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -1693,19 +1693,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak suka?",
-                "You like?"
-            ],
-            "flags": 0,
-            "guid": "L,)BP!$W&9",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Saya tak farham",
                 "I do not understand"
             ],
@@ -1889,7 +1876,7 @@
             "data": "",
             "fields": [
                 "Beliau",
-                "Refer to someone with reverence"
+                "Refer to someone with reverence (3rd person)"
             ],
             "flags": 0,
             "guid": "f/T%#`iLcQ",
@@ -2084,7 +2071,7 @@
             "data": "",
             "fields": [
                 "Keluar(kan)",
-                "Take out"
+                "Exit (Take out)"
             ],
             "flags": 0,
             "guid": "px.f,}5&pW",
@@ -2110,7 +2097,7 @@
             "data": "",
             "fields": [
                 "Sekarang / Kini",
-                "Now"
+                "Now / Currently"
             ],
             "flags": 0,
             "guid": "d2:t=Ca&Fe",
@@ -2421,19 +2408,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Umur kita lima.",
-                "We are five (years together)."
-            ],
-            "flags": 0,
-            "guid": "B!?#8q}8M&",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Hadir",
                 "Here"
             ],
@@ -2590,37 +2564,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tahun lepas",
-                "Last year"
-            ],
-            "flags": 0,
-            "guid": "y{RK;mx2]6",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Bilakah hari lahir awak?",
                 "When is your birthday?"
             ],
             "flags": 0,
             "guid": "N#zb3q;ioZ",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Hari lahir saya pada hari Jumaat.",
-                "My birthday is on Friday."
-            ],
-            "flags": 0,
-            "guid": "j[%TOzJd4+",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2708,7 +2656,7 @@
             "data": "",
             "fields": [
                 "Apakah tarikh hari ini?",
-                "What is your date of birth?"
+                "What is today's date?"
             ],
             "flags": 0,
             "guid": "d]FS~DODa@",
@@ -2798,8 +2746,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jika / Kalau",
-                "If (formal/informal respectively)"
+                "Jika / Kalau / Jikalau",
+                "If (formal / informal / informal)"
             ],
             "flags": 0,
             "guid": "FF3:Af|k4e",
@@ -2864,7 +2812,7 @@
             "data": "",
             "fields": [
                 "Bercakap",
-                "Speak"
+                "Talking"
             ],
             "flags": 0,
             "guid": "hfM~I$HX$H",
@@ -3006,19 +2954,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya suka belajar perkara baharu.",
-                "I love learning new things."
-            ],
-            "flags": 0,
-            "guid": "h]kIYEPbEF",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Saya meluangkan kebanyakan masa lapang saya dengan...",
                 "I spend most of my free time with..."
             ],
@@ -3097,21 +3032,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bermakna",
-                "Meaningful"
-            ],
-            "flags": 0,
-            "guid": "rq2p=%ubyp",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Itu amat bermakna kepada saya.",
-                "It is very meaningful to me."
+                "Ini bermakna kepada saya.",
+                "This is meaningful to me."
             ],
             "flags": 0,
             "guid": "MIdJ#DHT2m",
@@ -3371,7 +3293,7 @@
             "data": "",
             "fields": [
                 "(Meng)hantar - Hantar(kan)",
-                "Send - Send it"
+                "Send(ing) - Send it (Command)"
             ],
             "flags": 0,
             "guid": "x|4>NoJ,11",
@@ -3435,8 +3357,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Last year - Next year",
-                "Tahun lepas - Tahun hadapan"
+                "Tahun lepas - Tahun hadapan",
+                "Last year - Next year"
             ],
             "flags": 0,
             "guid": "N!O_s_y*y]",
@@ -3505,6 +3427,84 @@
             ],
             "flags": 0,
             "guid": "DeeT-<@}[r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ingin",
+                "Want to"
+            ],
+            "flags": 0,
+            "guid": "LEKS|j~e0)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya ingin berlari.",
+                "I want to run."
+            ],
+            "flags": 0,
+            "guid": "mhEFhcLWDc",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jangan merungut.",
+                "Do not grumble."
+            ],
+            "flags": 0,
+            "guid": "g7i}iA%?|",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Masih",
+                "Still"
+            ],
+            "flags": 0,
+            "guid": "c+>zxQlYtI",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kerja tetap",
+                "Permanent work"
+            ],
+            "flags": 0,
+            "guid": "cUJJ7.9%85",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kalau (Kalau-kalau)",
+                "If (If perhaps)"
+            ],
+            "flags": 0,
+            "guid": "jRso|gZysn",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

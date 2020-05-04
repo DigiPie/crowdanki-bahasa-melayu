@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "LAM1201",
+            "name": "LAM1201-Intense",
             "new": {
                 "bury": false,
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 20,
+                "perDay": 25,
                 "separate": true
             },
             "replayq": true,
@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -188,6 +188,19 @@
             ],
             "flags": 0,
             "guid": "c+-X.8vM*?",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umur kita lima.",
+                "We are five (years together)."
+            ],
+            "flags": 0,
+            "guid": "B!?#8q}8M&",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
