@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 25,
+                "perDay": 40,
                 "separate": true
             },
             "replayq": true,
@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -1616,8 +1616,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Masakan",
-                "Delicacy"
+                "Me(masak) - Masak(an)",
+                "Cooking - Cuisine"
             ],
             "flags": 0,
             "guid": "j%@5(uYW6o",
@@ -1642,8 +1642,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pemandu bas",
-                "Bus driver"
+                "Memandu (Pemandu)",
+                "To drive (Driver)"
             ],
             "flags": 0,
             "guid": "Pt+Ngn=<Aa",
@@ -1668,8 +1668,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Gula-gula",
-                "Sweets"
+                "Gula (Gula-gula)",
+                "Sugar (Sweets)"
             ],
             "flags": 0,
             "guid": "E^0`i5.dG.",
@@ -1772,6 +1772,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Hari lahir saya pada hari Jumaat.",
+                "My birthday is on Friday."
+            ],
+            "flags": 0,
+            "guid": "j[%TOzJd4+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Matahari - Bulan",
                 "Sun - Moon"
             ],
@@ -1785,34 +1798,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ratus",
-                "Hundred"
-            ],
-            "flags": 0,
-            "guid": "k@6J^U+A]g",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Puluh",
-                "Tens"
-            ],
-            "flags": 0,
-            "guid": "E40Zbt^ytq",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Ribu",
-                "Thousand"
+                "Ribu - Ratus - Puluh",
+                "Thousand - Hundred - Ten"
             ],
             "flags": 0,
             "guid": "ox<Ytd,`lU",
@@ -2032,19 +2019,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ujian perisian",
-                "Software testing"
-            ],
-            "flags": 0,
-            "guid": "n<GVec_P;l",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Pengurus",
                 "Manager"
             ],
@@ -2076,6 +2050,19 @@
             ],
             "flags": 0,
             "guid": "j7<D)qQ@2F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gula - Garam",
+                "Sugar - Salt"
+            ],
+            "flags": 0,
+            "guid": "NosBQ1RX+~",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

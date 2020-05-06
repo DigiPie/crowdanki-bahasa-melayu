@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 35,
+                "perDay": 40,
                 "separate": true
             },
             "replayq": true,
@@ -170,6 +170,58 @@
                     "bfont": "Arial",
                     "bqfmt": "",
                     "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
@@ -862,7 +914,7 @@
             "data": "",
             "fields": [
                 "Bekerja (Perkerja, Perkerjaan)",
-                "Work [Verb] (Worker, Work [Noun] / Job)"
+                "To work (Worker, Job)"
             ],
             "flags": 0,
             "guid": "B9wA4`xD`a",
@@ -1693,7 +1745,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya tak farham",
+                "Saya tidak farham",
                 "I do not understand"
             ],
             "flags": 0,
@@ -1888,24 +1940,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kami",
-                "We (exclusive of addressee)"
+                "Kami - Kita",
+                "We (exclusive of addressee) - We (inclusive)"
             ],
             "flags": 0,
             "guid": "o<;aYr$]ho",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kita",
-                "We (inclusive of addressee)"
-            ],
-            "flags": 0,
-            "guid": "y3gxB~v!H8",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1932,19 +1971,6 @@
             ],
             "flags": 0,
             "guid": "NKn:drER_x",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tidak",
-                "No"
-            ],
-            "flags": 0,
-            "guid": "p{Zzt2ZeZ=",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2239,8 +2265,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sila jangan makan di dalam kereta api.",
-                "Please do not eat in the train."
+                "Sila(lah) jangan makan di sini.",
+                "Please do not eat here."
             ],
             "flags": 0,
             "guid": "B{hQg^8h|3",
@@ -2694,7 +2720,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bettul",
+                "Betul",
                 "Correct"
             ],
             "flags": 0,
@@ -2712,19 +2738,6 @@
             ],
             "flags": 0,
             "guid": "ror~/HtTP7",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Sebut",
-                "Say"
-            ],
-            "flags": 0,
-            "guid": "vTw-(AFK9u",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2812,7 +2825,7 @@
             "data": "",
             "fields": [
                 "Bercakap",
-                "Talking"
+                "To talk"
             ],
             "flags": 0,
             "guid": "hfM~I$HX$H",
@@ -3344,7 +3357,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kopi lagi baik daripada teh.",
+                "Kopi lagi baik daripada teh.<div><br></div><div>[Daripada: Transformation, Comparison]<br></div>",
                 "Coffee is better than tea."
             ],
             "flags": 0,
@@ -3507,6 +3520,19 @@
             "guid": "jRso|gZysn",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Murah - Mahal",
+                "Cheap - Expensive"
+            ],
+            "flags": 0,
+            "guid": "k!nJ:#,6L!",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]

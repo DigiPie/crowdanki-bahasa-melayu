@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 25,
                 "separate": true
             },
             "replayq": true,
@@ -210,7 +210,7 @@
             "data": "",
             "fields": [
                 "pandu",
-                "(mem)andu [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+                "(mem)andu: To drive [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
             ],
             "flags": 0,
             "guid": "y}}p^6g!aT",
