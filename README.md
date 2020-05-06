@@ -6,14 +6,15 @@ This is a work-in-progress - the card decks are currently being udpated, vetted 
 
 ## Content
 
-| No. | Subject            | Description                                       |
-|----:|--------------------|---------------------------------------------------|
-|   1 | melayu-convo       | Proper commonly-used sentences and vocabulary.    |
-|   3 | melayu-family      |                                                   |
-|   4 | melayu-informal    | Informal day-to-day speech.                       |
-|   5 | melayu-intro-body  | Basic human anatomy.                              |
-|   6 | melayu-intro-exam  | Sentences which test basic language mastery.      |
-|   7 | melayu-vocab       | Less-commonly used vocabulary.                    |
+| No. | Subject               | Description                                       | Status                |
+|----:|-----------------------|---------------------------------------------------|-----------------------|
+|   1 | melayu-convo          | Proper commonly-used sentences and vocabulary.    | Constantly updated    |
+|   3 | melayu-family         | Basic family terms (introductory-level)           | Completed             |
+|   4 | melayu-informal       | Informal day-to-day speech.                       | Constantly updated    |
+|   5 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Only have 'me-' done  |
+|   6 | melayu-intro-body     | Basic human anatomy.                              | Completed             |
+|   7 | melayu-intro-exam     | Sentences which test basic language mastery.      | To work on            |
+|   8 | melayu-vocab          | Less-commonly used vocabulary.                    | Constantly updated    |
 
 ## Rules
 
@@ -29,7 +30,7 @@ This is a work-in-progress - the card decks are currently being udpated, vetted 
 As you can see in card 3 and 4, 'Muda' appears twice given that it is related to 'Pemuda, Pemudi' and also to 'Lama / Tua'.
 
 ## Contributors
-[Evan Tay](https://github.com/DigiPie) &amp; [Lim Wen Yan](https://github.com/Yan-99)
+[Evan Tay](https://github.com/DigiPie) and [Lim Wen Yan](https://github.com/Yan-99)
 
 Special thanks to Farizah, Ivy, Doreen, Yeong En and Syafinaz.
 

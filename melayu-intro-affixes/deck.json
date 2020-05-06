@@ -1,0 +1,248 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "0bc3c2a3-8f6d-11ea-b722-e0b1b5738f41",
+    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "LAM1201",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 0,
+                "perDay": 30,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 250
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1569982671045",
+    "name": "melayu-intro-affixes",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "lihat",
+                "(me)lihat: To see [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "w{*OrNCFI~",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "masak",
+                "(me)masak: To cook [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "KT[FpwJ@0-",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nanti",
+                "(me)nanti: To wait [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "lM#ulxe%9+",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nyanyi",
+                "(me)nyanyi: To sing [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "gf:,UDLxC~",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rompak",
+                "(me)rompak: To steal [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "cXIO1IP?kt",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": [
+                "m"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wangi",
+                "mewangi: Perfume [l, m, n, ny, r, w]"
+            ],
+            "flags": 0,
+            "guid": "P/*lX]Y0VO",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "korek",
+                "(meng)orek: To dig [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+            ],
+            "flags": 0,
+            "guid": "IO<:1Lj7/o",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pandu",
+                "(mem)andu [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+            ],
+            "flags": 0,
+            "guid": "y}}p^6g!aT",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sapu",
+                "(meny)apu: To sweep / rub lotion [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+            ],
+            "flags": 0,
+            "guid": "P4bvWwnO;$",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tutup",
+                "(men)utup: To cover [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+            ],
+            "flags": 0,
+            "guid": "F*5i-Gi4p_",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        }
+    ]
+}
