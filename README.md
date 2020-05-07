@@ -9,12 +9,12 @@ This is a work-in-progress - the card decks are currently being udpated, vetted 
 | No. | Subject               | Description                                       | Status                |
 |----:|-----------------------|---------------------------------------------------|-----------------------|
 |   1 | melayu-convo          | Proper commonly-used sentences and vocabulary.    | Constantly updated    |
-|   3 | melayu-family         | Basic family terms (introductory-level)           | Completed             |
-|   4 | melayu-informal       | Informal day-to-day speech.                       | Constantly updated    |
-|   5 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Only have `me-` done  |
-|   6 | melayu-intro-body     | Basic human anatomy.                              | Completed             |
-|   7 | melayu-intro-exam     | Sentences which test basic language mastery.      | To work on            |
-|   8 | melayu-vocab          | Less-commonly used vocabulary.                    | Constantly updated    |
+|   2 | melayu-informal       | Informal day-to-day speech.                       | Constantly updated    |
+|   3 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Only have `me-` done  |
+|   4 | melayu-intro-body     | Basic human anatomy.                              | Completed             |
+|   5 | melayu-intro-exam     | Sentences which test basic language mastery.      | To work on            |
+|   6 | melayu-relationships  | Basic family and friend terms                     | Mostly completed      |
+|   7 | melayu-vocab          | Less-commonly used vocabulary.                    | Constantly updated    |
 
 ## Rules
 

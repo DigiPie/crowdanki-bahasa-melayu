@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 25,
                 "separate": true
             },
             "replayq": true,
@@ -55,7 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "melayu-family",
+    "name": "melayu-relationships",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -201,6 +201,45 @@
             ],
             "flags": 0,
             "guid": "C{LovCG@t4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kawan baik",
+                "Good friend"
+            ],
+            "flags": 0,
+            "guid": "cSpsiA{q.r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kawan rapat",
+                "Close friend"
+            ],
+            "flags": 0,
+            "guid": "AE0M#=Ww*/",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Teman lelaki/perempuan",
+                "Boyfriend/girlfriend"
+            ],
+            "flags": 0,
+            "guid": "J-b!o(9H%)",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
