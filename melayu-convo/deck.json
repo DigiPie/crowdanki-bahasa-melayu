@@ -39,13 +39,13 @@
             "replayq": true,
             "rev": {
                 "bury": false,
-                "ease4": 1.3,
+                "ease4": 1.1,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
+                "ivlFct": 0.9,
+                "maxIvl": 365,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 350
             },
             "timer": 0
         }
@@ -55,6 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1569982671043",
     "name": "melayu-convo",
     "note_models": [
         {
@@ -1758,8 +1759,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya tak tahu",
-                "I do not know"
+                "Saya tidak tahu.",
+                "I do not know."
             ],
             "flags": 0,
             "guid": "Lqg5#fSuD)",
@@ -1771,8 +1772,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya tak ingat",
-                "I do not remember"
+                "Saya tidak ingat.",
+                "I do not remember."
             ],
             "flags": 0,
             "guid": "pQ@Ol1,I}g",
@@ -1810,8 +1811,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya sudah makan",
-                "I already ate"
+                "Saya sudah makan.",
+                "I already ate."
             ],
             "flags": 0,
             "guid": "n%?Il;ki]G",
@@ -2057,8 +2058,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Berjalan terus dan belok kekanan",
-                "Walk straight and turn right"
+                "Berjalan terus dan belok kekanan.",
+                "Walk straight and turn right."
             ],
             "flags": 0,
             "guid": "PL_yo0QyY[",
@@ -2101,19 +2102,6 @@
             ],
             "flags": 0,
             "guid": "px.f,}5&pW",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Membeli",
-                "Buy"
-            ],
-            "flags": 0,
-            "guid": "EbtqjTcl&r",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2278,8 +2266,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sila buka kasut",
-                "Please remove shoes"
+                "Sila buka kasut.",
+                "Please remove shoes."
             ],
             "flags": 0,
             "guid": "u!!gdw4Oi>",
@@ -2395,8 +2383,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kurang gula",
-                "Less sweet"
+                "Kurang manis -&nbsp;Lebih manis - Tanpa gula",
+                "Less sweet - More sweet - Without sugar"
             ],
             "flags": 0,
             "guid": "d*S{y~B&fx",
@@ -2473,24 +2461,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Di sini",
-                "Here"
+                "Di sini - Di sana",
+                "Here - There"
             ],
             "flags": 0,
             "guid": "n`TBFI,-N>",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Di sana",
-                "There"
-            ],
-            "flags": 0,
-            "guid": "e;M`w_@vcW",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2556,32 +2531,6 @@
             ],
             "flags": 0,
             "guid": "D)CF@h2+-x",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tahun ini",
-                "This year"
-            ],
-            "flags": 0,
-            "guid": "P^jJ:Nu2-A",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tahun hadapan",
-                "Next year"
-            ],
-            "flags": 0,
-            "guid": "d^!}eU]YDm",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2851,7 +2800,7 @@
             "data": "",
             "fields": [
                 "Awak sedang buat apa?",
-                "You are currently doing what?"
+                "What are you doing now?"
             ],
             "flags": 0,
             "guid": "m5ZOW6j-Ec",
@@ -3201,21 +3150,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sekarang saya nak makan.",
-                "Now I want to eat."
-            ],
-            "flags": 0,
-            "guid": "fZxJXr^lN-",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "(Mem)beli - (Mem)jual",
-                "Buy (Buying) - Sell (Selling)"
+                "Buy (To buy) - Sell (To sell)"
             ],
             "flags": 0,
             "guid": "fz1tFHR[%4",
@@ -3310,19 +3246,6 @@
             ],
             "flags": 0,
             "guid": "x|4>NoJ,11",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Si cepat",
-                "Slowpoke"
-            ],
-            "flags": 0,
-            "guid": "b{PJ}o[+L3",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3533,6 +3456,32 @@
             "guid": "k!nJ:#,6L!",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kurang pedas - Lebih pedas",
+                "Less spicy - More spicy"
+            ],
+            "flags": 0,
+            "guid": "B-eZV6mX=L",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tanpa susu",
+                "No milk"
+            ],
+            "flags": 0,
+            "guid": "tU.RPvI}UE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
         }
     ]

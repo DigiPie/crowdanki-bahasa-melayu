@@ -33,19 +33,19 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 35,
+                "perDay": 40,
                 "separate": true
             },
             "replayq": true,
             "rev": {
                 "bury": false,
-                "ease4": 1.3,
+                "ease4": 1.1,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
+                "ivlFct": 0.9,
+                "maxIvl": 365,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 350
             },
             "timer": 0
         }
@@ -235,11 +235,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Boleh bagi nombor tak?",
-                "Can share number or not? ;)"
+                "Si cepat",
+                "Slowpoke"
             ],
             "flags": 0,
-            "guid": "Dac9dv,ilQ",
+            "guid": "b{PJ}o[+L3",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
