@@ -368,7 +368,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kacak",
+                "Kacak / Tanpan",
                 "Handsome (Men)"
             ],
             "flags": 0,
@@ -381,7 +381,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pandai",
+                "Pandai / Bijak",
                 "Smart"
             ],
             "flags": 0,
@@ -1148,21 +1148,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mana",
-                "Where"
-            ],
-            "flags": 0,
-            "guid": "q~XX-Bw`Sz",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Where",
-                "Di mana"
+                "Di manakah ___?",
+                "Where is ___?"
             ],
             "flags": 0,
             "guid": "c(0}3*%>cv",
@@ -1291,8 +1278,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Baharu",
-                "New"
+                "Baharu - Lama",
+                "New - Old (Describe non-living things)"
             ],
             "flags": 0,
             "guid": "y1Q1!b|e!Y",
@@ -1304,8 +1291,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Young - Old",
-                "Muda - Lama / Tua"
+                "Young - Old (Describe living things)",
+                "Muda - Tua"
             ],
             "flags": 0,
             "guid": "Kbhm.qzRTA",
@@ -1811,7 +1798,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya sudah makan.",
+                "Saya telah makan.",
                 "I already ate."
             ],
             "flags": 0,
@@ -2214,7 +2201,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sudah",
+                "Sudah / Telah",
                 "Already"
             ],
             "flags": 0,
@@ -3480,6 +3467,279 @@
             ],
             "flags": 0,
             "guid": "tU.RPvI}UE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wen Yan berjumpa Joshua di kem farmasi.",
+                "Wen Yan met Joshua at the pharmacy camp."
+            ],
+            "flags": 0,
+            "guid": "M!h+o.ep@s",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Panggil saya ___.",
+                "Call me ___. (Nickname)"
+            ],
+            "flags": 0,
+            "guid": "i.G@^6OU8D",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maaf (Minta maaf, Maafkan saya)",
+                "Sorry (Very sorry, forgive me)"
+            ],
+            "flags": 0,
+            "guid": "e}hLu.X~BY",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anggun",
+                "Elegant/Graceful"
+            ],
+            "flags": 0,
+            "guid": "DR9IDJPtAy",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pendek - Tinggi",
+                "Short - Tall person"
+            ],
+            "flags": 0,
+            "guid": "g^jD}@L@*",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rendah - Tinggi",
+                "Short thing - Tall thing (e.g. building)"
+            ],
+            "flags": 0,
+            "guid": "f#5(SuMZc6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kurus - Gemuk",
+                "Skinny - Fat"
+            ],
+            "flags": 0,
+            "guid": "nWsjC(Mevv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Langsing",
+                "Slender"
+            ],
+            "flags": 0,
+            "guid": "A/iYw7jpgA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Malu",
+                "Shy"
+            ],
+            "flags": 0,
+            "guid": "AbY|UKXcpv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pejabat",
+                "Office"
+            ],
+            "flags": 0,
+            "guid": "wOa=7f5-h;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tandas perempuan",
+                "Female toilet"
+            ],
+            "flags": 0,
+            "guid": "j[@LiWH%y)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dinding / Tembok",
+                "Wall"
+            ],
+            "flags": 0,
+            "guid": "u_Jt#Gifu(",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak berasal dari mana?",
+                "You were originally from where? (Place-of-origin)"
+            ],
+            "flags": 0,
+            "guid": "D+{ygn]7,0",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awam - Swasta",
+                "Public - Private"
+            ],
+            "flags": 0,
+            "guid": "ehZ2yoUiW^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Q: Awak letak kereta di mana?<br>A: Di tempat letak kereta di sana.",
+                "Q: Where did you park your car at?<div>A: At the carpark over there.</div>"
+            ],
+            "flags": 0,
+            "guid": "Bg>`&b}P3G",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya datang dengan bas. Tersebut berhenti di depan kantin.",
+                "I came by bus. It stopped in front of the canteen."
+            ],
+            "flags": 0,
+            "guid": "MBej6_bc=1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ini beg tangan siapa?",
+                "This handbag is yours?"
+            ],
+            "flags": 0,
+            "guid": "97GVP{#{o",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tipis - Tebal",
+                "Thin - Thick (Describe non-living things)"
+            ],
+            "flags": 0,
+            "guid": "v3=2Ue+_RG",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mungkin",
+                "Maybe"
+            ],
+            "flags": 0,
+            "guid": "b:Cz3}76bc",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pun / Juga",
+                "Too"
+            ],
+            "flags": 0,
+            "guid": "CVAwn8<?cc",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya juga penat.",
+                "I am tired too."
+            ],
+            "flags": 0,
+            "guid": "z2V_QJc$P&",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
