@@ -7,7 +7,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "crowdanki_uuid": "d2f4e429-9107-11ea-939b-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -32,20 +32,20 @@
                     4,
                     7
                 ],
-                "order": 0,
-                "perDay": 40,
+                "order": 1,
+                "perDay": 60,
                 "separate": true
             },
             "replayq": true,
             "rev": {
                 "bury": false,
-                "ease4": 1.1,
+                "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 0.9,
-                "maxIvl": 365,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 350
+                "perDay": 500
             },
             "timer": 0
         }
@@ -128,60 +128,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-fc685",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -257,7 +203,7 @@
             "flags": 0,
             "guid": "N(r]}qP<Lm",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -283,7 +229,7 @@
             "flags": 0,
             "guid": "x1K56+&xq+",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -296,7 +242,7 @@
             "flags": 0,
             "guid": "q?3:}mC9/A",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -309,7 +255,7 @@
             "flags": 0,
             "guid": "j@Q/2&Z^QV",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -387,7 +333,7 @@
             "flags": 0,
             "guid": "D]TM}g1[Si",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -875,8 +821,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "(Men)ulis / Tulis(kan)",
-                "Write / Write it down"
+                "(Men)ulis - Tulis(kan) - Tulis(an)",
+                "Write - Write it down - Writing"
             ],
             "flags": 0,
             "guid": "Hn;27L-m[~",
@@ -1721,7 +1667,7 @@
             "data": "",
             "fields": [
                 "Ada harga berapa?",
-                "What is the price of this?"
+                "What is the price?"
             ],
             "flags": 0,
             "guid": "u8.%NEIxWG",
@@ -2526,8 +2472,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bilakah hari lahir awak?",
-                "When is your birthday?"
+                "Q: Bilakah hari lahir awak?<div>A: Hari lahir saya pada 2 hari bulan Februari.</div>",
+                "Q: When is your birthday?<div>A: My birthday is on 2nd February.</div>"
             ],
             "flags": 0,
             "guid": "N#zb3q;ioZ",
@@ -3722,7 +3668,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pun / Juga",
+                "Juga",
                 "Too"
             ],
             "flags": 0,
@@ -3735,13 +3681,208 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya juga penat.",
+                "Saya penat juga.",
                 "I am tired too."
             ],
             "flags": 0,
             "guid": "z2V_QJc$P&",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Q: Berapakah umur awak?<div>A: Umur saya dua puluh lima.</div>",
+                "Q: How old are you?<div>A: I am 25 years old.</div>"
+            ],
+            "flags": 0,
+            "guid": "sp`XrT5E18",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila berikan nombor telefon anda.",
+                "Please give your phone number."
+            ],
+            "flags": 0,
+            "guid": "DCxiHvMPYG",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah alamat tuan?",
+                "What is your address sir?"
+            ],
+            "flags": 0,
+            "guid": "nYM:6Cj/,W",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pukul berapa kelas awak?",
+                "What time is your class?"
+            ],
+            "flags": 0,
+            "guid": "m|w%cy#_Dx",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pada pukul berapakah, awak pergi ke sekolah?",
+                "At what time, did you go to school?"
+            ],
+            "flags": 0,
+            "guid": "qRI*A`idm6",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak makan malam pada pukul berapa?",
+                "What time are you having dinner?"
+            ],
+            "flags": 0,
+            "guid": "r*agzL45jN",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Q: Pukul berapa sekarang?<div>A: Sekarang pukul tiga petang.</div>",
+                "Q: What time is it now?<div>A: Now, it is 3 in the afternoon.</div>"
+            ],
+            "flags": 0,
+            "guid": "mF*S*h^~Bb",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sukan",
+                "Sports"
+            ],
+            "flags": 0,
+            "guid": "g?vZn$^6Qw",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Q: How many times do you practice a week?<div>A: Twice a week.</div>",
+                "Q:&nbsp;Berapa kali awak berlatih dalam seminggu?<br>A: Dua kali seminggu."
+            ],
+            "flags": 0,
+            "guid": "fU{WTQ|xO3",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Men)unjuk - Tunjuk(kan)",
+                "To show/point - Show/point out for me"
+            ],
+            "flags": 0,
+            "guid": "l|B>,lh&pi",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puan Fatimah seorang suri rumah.",
+                "Madam Fatimah is a housewife."
+            ],
+            "flags": 0,
+            "guid": "EzidGge[[y",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jamilah belum berumah tangga.",
+                "Jamilah is not married yet."
+            ],
+            "flags": 0,
+            "guid": "LAeJI/>SYg",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya warganegera Singapore.",
+                "I am a citizen of Singapore."
+            ],
+            "flags": 0,
+            "guid": "DeEu)$1F*t",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adik perempuan saya bernama Vanessa.",
+                "My younger sister is named Vanessa."
+            ],
+            "flags": 0,
+            "guid": "r:Wux<SO/e",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Warga emas",
+                "Senior citizen"
+            ],
+            "flags": 0,
+            "guid": "BE{VbT&~dU",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]

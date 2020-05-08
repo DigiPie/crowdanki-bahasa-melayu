@@ -60,8 +60,8 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
@@ -84,11 +84,11 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-fc685",
+            "name": "Basic",
             "req": [
                 [
                     0,
-                    "any",
+                    "all",
                     [
                         0
                     ]
@@ -100,9 +100,7 @@
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
                     "bafmt": "",
-                    "bfont": "Arial",
                     "bqfmt": "",
-                    "bsize": 12,
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
@@ -192,7 +190,7 @@
             "flags": 0,
             "guid": "ds?0X2SGAH",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -225,8 +223,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Anjing",
-                "Dog"
+                "Seekor anjing",
+                "A dog"
             ],
             "flags": 0,
             "guid": "hf2$o22oqs",
@@ -238,13 +236,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kucing",
-                "Cat"
+                "Dua ekor kucing",
+                "Two cats"
             ],
             "flags": 0,
             "guid": "pH.~:$dB~l",
             "newlyAdded": false,
-            "note_model_uuid": "8810b778-4b53-11ea-93f8-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -706,8 +704,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kereta",
-                "Car"
+                "Sebuah kereta",
+                "A car"
             ],
             "flags": 0,
             "guid": "eUjWLT325Z",
@@ -862,8 +860,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Meja",
-                "Table"
+                "Sebuah meja",
+                "A table"
             ],
             "flags": 0,
             "guid": "g?ZYqIdk]}",
@@ -979,21 +977,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Shoe",
-                "Kasut"
-            ],
-            "flags": 0,
-            "guid": "vp#[o1OjlK",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kasut roda",
-                "Inline skates"
+                "Sepasang kasut roda",
+                "A pair of inline skates"
             ],
             "flags": 0,
             "guid": "vMa_zAO@=-",
@@ -1122,24 +1107,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Gambar",
-                "Picture"
+                "Sila lihat gambar di bawah ini.",
+                "Please look at the picture below."
             ],
             "flags": 0,
             "guid": "kv??boOW-6",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Picture",
-                "Gambar"
-            ],
-            "flags": 0,
-            "guid": "CJjeDkz=&z",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1785,8 +1757,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ribu - Ratus - Puluh",
-                "Thousand - Hundred - Ten"
+                "Puluh - Belas - Ratus - Ribu - Juta",
+                "Ten - 11-19 - Hundred - Thousand - Million"
             ],
             "flags": 0,
             "guid": "ox<Ytd,`lU",
@@ -2247,6 +2219,19 @@
             "guid": "sINm.}0+]T",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bahasa Inggeris",
+                "English"
+            ],
+            "flags": 0,
+            "guid": "ppeK(e!Iez",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]

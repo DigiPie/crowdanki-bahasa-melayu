@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 350
             },
             "timer": 0
         }
@@ -120,6 +120,58 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0,
@@ -242,6 +294,58 @@
             "guid": "J-b!o(9H%)",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adik-beradik saya masih bersekolah.",
+                "My siblings are still schooling."
+            ],
+            "flags": 0,
+            "guid": "xbfB+;]w5B",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anak saudara lelaki/perempuan",
+                "Nephew/niece"
+            ],
+            "flags": 0,
+            "guid": "AQ%!n<^>g[",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mak Cik Rosa ada ramai cucu.",
+                "Aunt Rosa has many grandchildren."
+            ],
+            "flags": 0,
+            "guid": "fpuD_ciu;I",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Suami - Isteri",
+                "Husband - Wife"
+            ],
+            "flags": 0,
+            "guid": "C0NM/ai=)M",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]

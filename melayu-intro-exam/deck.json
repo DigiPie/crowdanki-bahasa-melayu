@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 25,
                 "separate": true
             },
             "replayq": true,
@@ -319,6 +319,32 @@
             ],
             "flags": 0,
             "guid": "eu!kKk|/M1",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(se/dua/tiga/...)buah",
+                "General classifier for counting stuff"
+            ],
+            "flags": 0,
+            "guid": "f3Bl9229_o",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Q: Ada berapakah hari di dalam seminggu?<br>A: Di dalam satu minggu, ada tujuh hari.",
+                "Q: How many days are there in a week?<div>A: In one week, there are 7 days.</div>"
+            ],
+            "flags": 0,
+            "guid": "oZQCMtTjDe",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
