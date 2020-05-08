@@ -8,8 +8,6 @@ To find out how to use the flashcards in this repo, visit the [CrowdAnki](https:
 
 ## Content
 
-Total unique flashcards: 512
-
 ### General
 
 | No. | Subject               | Description                                       | Status                |
