@@ -2,15 +2,16 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "57be55c6-68e2-11ea-bbb9-00051b2454a4",
-    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_config_uuid": "27908b71-92ae-11ea-929a-e0b1b5738f41",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "crowdanki_uuid": "27908b71-92ae-11ea-929a-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
+                    2,
                     10
                 ],
                 "leechAction": 0,
@@ -23,13 +24,15 @@
             "new": {
                 "bury": false,
                 "delays": [
-                    1,
-                    10
+                    2,
+                    30,
+                    60,
+                    1440
                 ],
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
                 "order": 0,
@@ -42,10 +45,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 0.9,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 100
             },
             "timer": 0
         }
@@ -592,6 +595,32 @@
             ],
             "flags": 0,
             "guid": "bLJHuA[/hy",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Manusia",
+                "Human"
+            ],
+            "flags": 0,
+            "guid": "DkrI~[(cv=",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Haiwan / Binatang",
+                "Animal"
+            ],
+            "flags": 0,
+            "guid": "b;W7R{p{gg",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

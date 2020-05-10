@@ -2,15 +2,16 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "0bc3c2a3-8f6d-11ea-b722-e0b1b5738f41",
-    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_config_uuid": "27908b71-92ae-11ea-929a-e0b1b5738f41",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "crowdanki_uuid": "27908b71-92ae-11ea-929a-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
+                    2,
                     10
                 ],
                 "leechAction": 0,
@@ -23,17 +24,19 @@
             "new": {
                 "bury": false,
                 "delays": [
-                    1,
-                    10
+                    2,
+                    30,
+                    60,
+                    1440
                 ],
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
                 "order": 0,
-                "perDay": 25,
+                "perDay": 30,
                 "separate": true
             },
             "replayq": true,
@@ -42,10 +45,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 0.9,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 100
             },
             "timer": 0
         }
@@ -58,6 +61,74 @@
     "mid": "1569982671045",
     "name": "melayu-intro-affixes",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-9260f",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -116,8 +187,164 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lihat",
-                "(me)lihat: To see [l, m, n, ny, r, w]"
+                "(Men)ulis - Tulis(kan) - Tulis(an)",
+                "Write - Write it down - Writing"
+            ],
+            "flags": 0,
+            "guid": "Hn;27L-m[~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Meng)ambil",
+                "Take (Taking)"
+            ],
+            "flags": 0,
+            "guid": "C@Vy(u=pIH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Me)lihat",
+                "See"
+            ],
+            "flags": 0,
+            "guid": "Qv,<#mR.D$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Peng)ajar - (Meng)ajar - (Pel)ajar - (Bel)ajar",
+                "Instructor - Teach(ing) - Student - Study"
+            ],
+            "flags": 0,
+            "guid": "zRw`]j50_<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tambah - (Men)ambah - Tambah(an)<br>",
+                "Add - To add - Additional"
+            ],
+            "flags": 0,
+            "guid": "gHv+)9;F9x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Ber)mula - Mula",
+                "Started - Start"
+            ],
+            "flags": 0,
+            "guid": "sEk#}NOveZ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Men)jawab - Jawab",
+                "To answer - Answer"
+            ],
+            "flags": 0,
+            "guid": "okfgup]f22",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Keluar - Keluar(kan)",
+                "Get out - Take it out"
+            ],
+            "flags": 0,
+            "guid": "px.f,}5&pW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pakai - Pakai(an)",
+                "Wear - Clothes"
+            ],
+            "flags": 0,
+            "guid": "A&T)&<:(A(",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Mem)beli - (Mem)jual",
+                "Buy (To buy) - Sell (To sell)"
+            ],
+            "flags": 0,
+            "guid": "fz1tFHR[%4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Meng)hantar - Hantar(kan)",
+                "Send(ing) - Send it (Command)"
+            ],
+            "flags": 0,
+            "guid": "x|4>NoJ,11",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tonton - (Men)onton telivisyen",
+                "Watch - To watch telivisyen"
+            ],
+            "flags": 0,
+            "guid": "DeeT-<@}[r",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lihat - __lihat",
+                "Lihat: See - (Me)lihat: To see&nbsp;<div>[Add me- to l, m, n, ny, r, w]</div>"
             ],
             "flags": 0,
             "guid": "w{*OrNCFI~",
@@ -129,8 +356,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "masak",
-                "(me)masak: To cook [l, m, n, ny, r, w]"
+                "Masak - __masak",
+                "Masak: Cook - (Me)masak: To cook&nbsp;<div>[Add me- to l, m, n, ny, r, w]</div>"
             ],
             "flags": 0,
             "guid": "KT[FpwJ@0-",
@@ -142,8 +369,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nanti",
-                "(me)nanti: To wait [l, m, n, ny, r, w]"
+                "Nanti - __nanti",
+                "Nanti: later - (Me)nanti: To wait&nbsp;<div>[Add me- to l, m, n, ny, r, w]</div>"
             ],
             "flags": 0,
             "guid": "lM#ulxe%9+",
@@ -155,8 +382,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nyanyi",
-                "(me)nyanyi: To sing [l, m, n, ny, r, w]"
+                "Nyanyi - __nyanyi",
+                "Nyanyi: Sing - (Me)nyanyi: To sing&nbsp;<div>[Add me- to l, m, n, ny, r, w]</div>"
             ],
             "flags": 0,
             "guid": "gf:,UDLxC~",
@@ -168,23 +395,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rompak",
-                "(me)rompak: To steal [l, m, n, ny, r, w]"
+                "Rompak",
+                "Rompak: Robbery - (Me)rompak: To steal<div>[Add me- to l, m, n, ny, r, w]<br></div>"
             ],
             "flags": 0,
             "guid": "cXIO1IP?kt",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-            "tags": [
-                "m"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "wangi",
-                "mewangi: Perfume [l, m, n, ny, r, w]"
+                "Wangi",
+                "Wangi: Fragrant - (Me)wangi: Perfume<div>[Add me- to l, m, n, ny, r, w]<br></div>"
             ],
             "flags": 0,
             "guid": "P/*lX]Y0VO",
@@ -196,8 +421,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "korek",
-                "(meng)orek: To dig [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+                "Korek - __korek",
+                "(Meng)orek: To dig&nbsp;<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]</div>"
             ],
             "flags": 0,
             "guid": "IO<:1Lj7/o",
@@ -209,8 +434,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pandu",
-                "(mem)andu: To drive [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+                "Pandu",
+                "(mem)andu: To drive&nbsp;<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]</div>"
             ],
             "flags": 0,
             "guid": "y}}p^6g!aT",
@@ -222,8 +447,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sapu",
-                "(meny)apu: To sweep / rub lotion [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+                "Sapu",
+                "Sapu: Sweep/rub - (Meny)apu: To sweep/rub<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]<br></div>"
             ],
             "flags": 0,
             "guid": "P4bvWwnO;$",
@@ -235,13 +460,39 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tutup",
-                "(men)utup: To cover [k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
+                "Tutup",
+                "Tutup: Cover - (Men)utup: To cover&nbsp;<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]</div>"
             ],
             "flags": 0,
             "guid": "F*5i-Gi4p_",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Men)unjuk - Tunjuk(kan)",
+                "To show/point - Show/point out for me"
+            ],
+            "flags": 0,
+            "guid": "l|B>,lh&pi",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sewa - (Meny)ewa - (Peny)ewa",
+                "Rent - To rent - Tenant"
+            ],
+            "flags": 0,
+            "guid": "PT=iWwy/Su",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
         }
     ]

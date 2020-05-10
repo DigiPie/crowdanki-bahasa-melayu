@@ -7,10 +7,11 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "d2f4e429-9107-11ea-939b-e0b1b5738f41",
+            "crowdanki_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
+                    2,
                     10
                 ],
                 "leechAction": 0,
@@ -23,16 +24,18 @@
             "new": {
                 "bury": false,
                 "delays": [
-                    1,
-                    10
+                    2,
+                    30,
+                    60,
+                    1440
                 ],
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
-                "order": 1,
+                "order": 0,
                 "perDay": 40,
                 "separate": true
             },
@@ -42,10 +45,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 0.8,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 500
+                "perDay": 200
             },
             "timer": 0
         }
@@ -483,8 +486,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pena",
-                "Pen"
+                "Sebatang pena",
+                "A pen"
             ],
             "flags": 0,
             "guid": "z!^63__hPK",
@@ -1354,24 +1357,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Perbualan",
-                "Conversation"
+                "Perbualan tentang keluarga",
+                "Conversation about family"
             ],
             "flags": 0,
             "guid": "KBj`k#PoS~",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Conversation",
-                "Perbualan"
-            ],
-            "flags": 0,
-            "guid": "LYEC)IzE65",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -1437,19 +1427,6 @@
             ],
             "flags": 0,
             "guid": "F4QC=!pF14",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Answer (Noun)",
-                "Jawab"
-            ],
-            "flags": 0,
-            "guid": "WCSTp7EB$",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2219,6 +2196,214 @@
             "guid": "ppeK(e!Iez",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kad pengenalan",
+                "Identification card"
+            ],
+            "flags": 0,
+            "guid": "w$6v]9LmFX",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pembantu rumah",
+                "Domestic helper"
+            ],
+            "flags": 0,
+            "guid": "ch*RaGz19P",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Taman haiwan",
+                "Zoo"
+            ],
+            "flags": 0,
+            "guid": "L-}oua8lbM",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Burung",
+                "Bird"
+            ],
+            "flags": 0,
+            "guid": "kzMrjQls>N",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sekeping poskad",
+                "A postcard"
+            ],
+            "flags": 0,
+            "guid": "euNNzIxoI{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebuah bank",
+                "A bank"
+            ],
+            "flags": 0,
+            "guid": "F&iOok#{+`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dua biji epal dan tiga biji rambutan",
+                "Two apples and three rambutans"
+            ],
+            "flags": 0,
+            "guid": "n;FO|&T${o",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dua batang pokok",
+                "Two trees"
+            ],
+            "flags": 0,
+            "guid": "t`.^}->_j|",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dua orang wanita",
+                "Two ladies"
+            ],
+            "flags": 0,
+            "guid": "DuPvZyl_]B",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bina - Membina",
+                "Build - To build"
+            ],
+            "flags": 0,
+            "guid": "Dk?g?sp2A9",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Flat sewa",
+                "Rental flat"
+            ],
+            "flags": 0,
+            "guid": "N|&%V??TbA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kemudahan",
+                "Facilities"
+            ],
+            "flags": 0,
+            "guid": "esOb}Y_9]+",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tidak begitu sibuk",
+                "Not so busy"
+            ],
+            "flags": 0,
+            "guid": "eMJ9gC.{E.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kebun bunga",
+                "Flower garden"
+            ],
+            "flags": 0,
+            "guid": "H!ZkwnHk)q",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Halaman",
+                "Page/Compound"
+            ],
+            "flags": 0,
+            "guid": "xZxM,,,fF!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Serambi/Balkani",
+                "Balcony"
+            ],
+            "flags": 0,
+            "guid": "qny*wt^@EW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
         }
     ]

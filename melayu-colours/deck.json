@@ -2,15 +2,16 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "4680a47f-903d-11ea-8f45-e0b1b5738f41",
-    "deck_config_uuid": "207f4bfb-9278-11ea-bc58-e0b1b5738f41",
+    "deck_config_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "207f4bfb-9278-11ea-bc58-e0b1b5738f41",
+            "crowdanki_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
+                    2,
                     10
                 ],
                 "leechAction": 0,
@@ -19,21 +20,23 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "LAM1201",
+            "name": "LAM1201-Intense",
             "new": {
                 "bury": false,
                 "delays": [
-                    1,
-                    10
+                    2,
+                    30,
+                    60,
+                    1440
                 ],
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 40,
                 "separate": true
             },
             "replayq": true,
@@ -42,10 +45,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 0.8,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 400
+                "perDay": 200
             },
             "timer": 0
         }
@@ -293,6 +296,19 @@
             ],
             "flags": 0,
             "guid": "uG^d[OKA3U",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah warna kad awak?",
+                "What colour is your card?"
+            ],
+            "flags": 0,
+            "guid": "wQQ6=IX3gx",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
