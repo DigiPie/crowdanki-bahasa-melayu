@@ -7,7 +7,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "d2f4e429-9107-11ea-939b-e0b1b5738f41",
+            "crowdanki_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 60,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 500
+                "perDay": 200
             },
             "timer": 0
         }
@@ -1484,8 +1484,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bermula",
-                "Started"
+                "(Ber)mula - Mula",
+                "Started - Start"
             ],
             "flags": 0,
             "guid": "sEk#}NOveZ",
@@ -1588,8 +1588,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Menjawab",
-                "Answer (Verb)"
+                "(Men)jawab - Jawab",
+                "To answer - Answer"
             ],
             "flags": 0,
             "guid": "okfgup]f22",
@@ -2030,8 +2030,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Keluar(kan)",
-                "Exit (Take out)"
+                "Keluar - Keluar(kan)",
+                "Get out - Take it out"
             ],
             "flags": 0,
             "guid": "px.f,}5&pW",
@@ -2160,19 +2160,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Habis",
-                "Finished"
-            ],
-            "flags": 0,
-            "guid": "H@+EB5#GwF",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Sudah habis",
                 "Already finished"
             ],
@@ -2200,7 +2187,7 @@
             "data": "",
             "fields": [
                 "Sila buka kasut.",
-                "Please remove shoes."
+                "Please take off your shoes."
             ],
             "flags": 0,
             "guid": "u!!gdw4Oi>",
@@ -2290,8 +2277,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "...dan lain-lain",
-                "...and others"
+                "Lain - ...dan lain-lain",
+                "Another - ...and others"
             ],
             "flags": 0,
             "guid": "deO9d{AwT$",
@@ -3023,19 +3010,6 @@
             ],
             "flags": 0,
             "guid": "6XS}_[3}q",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Lain",
-                "Another"
-            ],
-            "flags": 0,
-            "guid": "w>I[t]i4~$",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

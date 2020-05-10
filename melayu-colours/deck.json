@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "4680a47f-903d-11ea-8f45-e0b1b5738f41",
-    "deck_config_uuid": "88109079-4b53-11ea-b803-005056c00008",
+    "deck_config_uuid": "207f4bfb-9278-11ea-bc58-e0b1b5738f41",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "88109079-4b53-11ea-b803-005056c00008",
+            "crowdanki_uuid": "207f4bfb-9278-11ea-bc58-e0b1b5738f41",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 25,
+                "perDay": 30,
                 "separate": true
             },
             "replayq": true,
@@ -45,7 +45,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 250
+                "perDay": 400
             },
             "timer": 0
         }
@@ -145,6 +145,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Warna",
+                "Colour"
+            ],
+            "flags": 0,
+            "guid": "d1hlX<{E=O",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Bajunya merah.",
                 "My shirt is red."
             ],
@@ -158,7 +171,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kasut saya hijau.",
+                "Kasut saya berwarna hijau.<br>",
                 "My shoes are green."
             ],
             "flags": 0,
