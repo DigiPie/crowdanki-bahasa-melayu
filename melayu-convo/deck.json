@@ -1526,24 +1526,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mengapa/Kenapa?",
-                "Why?"
+                "Mengapa/Kenapa? - Sebab/Kerana...<div>(Usually mengapa is answered with sebab, kenapa with kerana)</div>",
+                "Why? - Because..."
             ],
             "flags": 0,
             "guid": "m}[,ZOcMef",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Sebab / Kerana",
-                "Because"
-            ],
-            "flags": 0,
-            "guid": "G:Ug3ly]o6",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2020,8 +2007,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tanya",
-                "Ask"
+                "Tanya - Bertanya",
+                "Ask - To ask"
             ],
             "flags": 0,
             "guid": "oXlAJCtN$`",
@@ -3698,7 +3685,7 @@
             "data": "",
             "fields": [
                 "Tempat - Taman",
-                "Place - Park"
+                "Place - Park/Garden"
             ],
             "flags": 0,
             "guid": "u!gT6%6YYJ",
@@ -3845,6 +3832,240 @@
             ],
             "flags": 0,
             "guid": "qHT_sr;8ZU",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Terangkan",
+                "Explain it"
+            ],
+            "flags": 0,
+            "guid": "jwCvWryU0<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah yang awak paling suka?",
+                "What do you like most?"
+            ],
+            "flags": 0,
+            "guid": "iC:Z?gmbL)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya benci itu",
+                "I hate that"
+            ],
+            "flags": 0,
+            "guid": "o)62tmo,0{",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ke manakah?",
+                "To where?"
+            ],
+            "flags": 0,
+            "guid": "lGoUEN]H!F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Yang manakah?",
+                "Which one?"
+            ],
+            "flags": 0,
+            "guid": "ibz@o(<E[_",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menangis",
+                "Cry"
+            ],
+            "flags": 0,
+            "guid": "K$a%~&$W1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tikam/teka/tebak",
+                "Guess"
+            ],
+            "flags": 0,
+            "guid": "x5]wwsLQ3!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bilakah dia beli beg itu?",
+                "When did he/her buy that bag?"
+            ],
+            "flags": 0,
+            "guid": "iv^!rjTF]@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rumah awak yang baharu bagaimana?/Bagaimanakah rumah awak yang baharu?",
+                "How is your new home?"
+            ],
+            "flags": 0,
+            "guid": "HVf|bn>pZ(",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Harga buku ini berapa?/Berapakah harga buku ini?<br>",
+                "How much is this book?"
+            ],
+            "flags": 0,
+            "guid": "m%RiHM@84x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tiada/Tidak ada",
+                "None&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Hw?bUwtbTn",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kenapa awak datang lewat?",
+                "Why did you come late?"
+            ],
+            "flags": 0,
+            "guid": "Im|O|tW9yt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mengapa Christine ke Australia?",
+                "Why did Christine go to Australia?"
+            ],
+            "flags": 0,
+            "guid": "BVED$>C2C4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Janji temu",
+                "Appointment/date"
+            ],
+            "flags": 0,
+            "guid": "OQ>Ea5/5QT",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minat",
+                "Interested"
+            ],
+            "flags": 0,
+            "guid": "l1#ataBr=H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menlo Park jauh dari sini.",
+                "Menlo Park&nbsp;is far from here."
+            ],
+            "flags": 0,
+            "guid": "s_aI[0jmRK",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak naiki bas nombor 851 ke stesen Yishun. Kemudian, awak naiki kereta api ke stesen Canberra. Dari stesen Canberra, awak boleh berjalan ke rumah Wen Yi.",
+                "You can take bus number 851 to Yishun Station. Then, you should take the train to Canberra station. From Canberra station, you can walk to Wen Yi's house."
+            ],
+            "flags": 0,
+            "guid": "vr2KL/N3,F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perpustakaan betul-betul di hadapan Bugis Junction.",
+                "The library is definitely in front of Bugis Junction."
+            ],
+            "flags": 0,
+            "guid": "p7i7DfXC]H",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

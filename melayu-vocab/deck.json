@@ -2405,6 +2405,110 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pelan",
+                "Plan"
+            ],
+            "flags": 0,
+            "guid": "zniXRqH`+$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kipas angin",
+                "Fan"
+            ],
+            "flags": 0,
+            "guid": "xWVb`4IJ`(",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pendingin hawa",
+                "Air-conditioner"
+            ],
+            "flags": 0,
+            "guid": "bqf.K&@mcO",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Katil - Tilam - Cadar - Selimut",
+                "Bed - Mattress - Bedsheet - Blanket"
+            ],
+            "flags": 0,
+            "guid": "bNR+K>JM_4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lampu",
+                "Lamp"
+            ],
+            "flags": 0,
+            "guid": "H[f]}zIxAc",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Peti - Peti sijuk",
+                "Crate - Fridge"
+            ],
+            "flags": 0,
+            "guid": "d4*Y+:heFm",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ruang tamu - Dapur - Bilik tidur utama",
+                "Guest room (Living room) - Kitchen - Master bedroom"
+            ],
+            "flags": 0,
+            "guid": "Q4PSsU[e$L",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Permainan - Taman permainan",
+                "Games - Playground"
+            ],
+            "flags": 0,
+            "guid": "zR!wUXyv1.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }
