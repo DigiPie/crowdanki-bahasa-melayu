@@ -1253,19 +1253,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Architecture",
-                "Binaan"
-            ],
-            "flags": 0,
-            "guid": "Q%.CqP22,r",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Binaan",
                 "Architecture"
             ],
@@ -2319,7 +2306,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bina - Membina",
+                "Bina - (Mem)bina",
                 "Build - To build"
             ],
             "flags": 0,
@@ -2359,7 +2346,7 @@
             "data": "",
             "fields": [
                 "Tidak begitu sibuk",
-                "Not so busy"
+                "Not that busy"
             ],
             "flags": 0,
             "guid": "eMJ9gC.{E.",
