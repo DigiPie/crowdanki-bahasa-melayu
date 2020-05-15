@@ -1578,8 +1578,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya tidak farham",
-                "I do not understand"
+                "Saya tidak farham.",
+                "I do not understand."
             ],
             "flags": 0,
             "guid": "EJW[80~]<e",
@@ -2462,8 +2462,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dengar",
-                "Listen"
+                "Dengar - (Men)dengar",
+                "Listen - To listen"
             ],
             "flags": 0,
             "guid": "ror~/HtTP7",
@@ -2853,7 +2853,7 @@
             "data": "",
             "fields": [
                 "Saya berharap saya dapat mengajar sekali lagi.",
-                "I hope I could teach again."
+                "I hope I get to teach again."
             ],
             "flags": 0,
             "guid": "ruQZ,[]F|>",
@@ -3099,19 +3099,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ingin",
-                "Want to"
-            ],
-            "flags": 0,
-            "guid": "LEKS|j~e0)",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Saya ingin berlari.",
                 "I want to run."
             ],
@@ -3143,19 +3130,6 @@
             ],
             "flags": 0,
             "guid": "c+>zxQlYtI",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kerja tetap",
-                "Permanent work"
-            ],
-            "flags": 0,
-            "guid": "cUJJ7.9%85",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3455,19 +3429,6 @@
             ],
             "flags": 0,
             "guid": "b:Cz3}76bc",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Juga",
-                "Too"
-            ],
-            "flags": 0,
-            "guid": "CVAwn8<?cc",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
