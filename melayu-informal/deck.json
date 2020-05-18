@@ -46,7 +46,7 @@
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
                 "ivlFct": 0.8,
-                "maxIvl": 36500,
+                "maxIvl": 3650,
                 "minSpace": 1,
                 "perDay": 200
             },
@@ -386,6 +386,32 @@
             ],
             "flags": 0,
             "guid": "CJ/yK|nyT4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tak apalah. Kali ini saya belanja.",
+                "Nevermind. This time I treat."
+            ],
+            "flags": 0,
+            "guid": "t(pz}b:vf_",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya nak balik sekarang.",
+                "I want to go back now."
+            ],
+            "flags": 0,
+            "guid": "N+L.or>$$n",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

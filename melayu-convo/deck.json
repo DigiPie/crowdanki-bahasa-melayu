@@ -46,7 +46,7 @@
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
                 "ivlFct": 0.8,
-                "maxIvl": 36500,
+                "maxIvl": 3650,
                 "minSpace": 1,
                 "perDay": 200
             },
@@ -629,8 +629,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lapar",
-                "Hungry"
+                "Lapar - Kenyang",
+                "Hungry - Full"
             ],
             "flags": 0,
             "guid": "y{,5k~XSD6",
@@ -2176,19 +2176,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bersekolah",
-                "Schooling"
-            ],
-            "flags": 0,
-            "guid": "dLtvY/Etmt",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Umur saya dua puluh lima.",
                 "I am 25."
             ],
@@ -2220,19 +2207,6 @@
             ],
             "flags": 0,
             "guid": "yo(JX]R@Vp",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Eja",
-                "Spell (the word)"
-            ],
-            "flags": 0,
-            "guid": "N)|N#}HPk2",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -4027,6 +4001,279 @@
             ],
             "flags": 0,
             "guid": "p7i7DfXC]H",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya rindu berlari.",
+                "I miss running."
+            ],
+            "flags": 0,
+            "guid": "h!:;b4y@&i",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya rindu teman wanita saya.",
+                "I miss my girlfriend."
+            ],
+            "flags": 0,
+            "guid": "g;&~>vhw8T",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Terima kasih kerana membantu saya.",
+                "Thank you for helping me."
+            ],
+            "flags": 0,
+            "guid": "ie*<R/sMkI",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Haus",
+                "Thirsty"
+            ],
+            "flags": 0,
+            "guid": "m%%YJ@#0[M",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Manis - Masin",
+                "Sweet - Salty"
+            ],
+            "flags": 0,
+            "guid": "Edy$WM~kTT",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pedas - Tawar",
+                "Spicy - Bland"
+            ],
+            "flags": 0,
+            "guid": "CzPwJA?Y:M",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Panas - Sejuk",
+                "Hot - Cold"
+            ],
+            "flags": 0,
+            "guid": "CNc|?K1^:R",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pahit - Masam",
+                "Bitter - Sour"
+            ],
+            "flags": 0,
+            "guid": "DFD4,yLNt_",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hisap rokok",
+                "Smoke (Inhale cigarettes)"
+            ],
+            "flags": 0,
+            "guid": "y&A:QAGIkb",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bila-bila - Siapa-siapa - Apa-apa",
+                "Anytime - Anyone - Apa-apa"
+            ],
+            "flags": 0,
+            "guid": "mM67:gbbn",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa-apa pun boleh.",
+                "Anything also can."
+            ],
+            "flags": 0,
+            "guid": "D:E0K>k&t)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berapa harga semua?",
+                "How much is everything?"
+            ],
+            "flags": 0,
+            "guid": "M3{P<?sws^",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya hendak bayar.",
+                "I want to pay."
+            ],
+            "flags": 0,
+            "guid": "Eu]t&>.TW-",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dilarang merokok di sini.",
+                "Smoking is prohibited here."
+            ],
+            "flags": 0,
+            "guid": "djgp~4ZsBZ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila letak gula.",
+                "Please put sugar."
+            ],
+            "flags": 0,
+            "guid": "pP[rXtsD#Z",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah makanan yang terdapat di kedai makan itu?",
+                "What food can be found at that food store?"
+            ],
+            "flags": 0,
+            "guid": "hL(TB.;JWe",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak pernah makan nasi lemak?",
+                "Have you ever eaten nasi lemak?"
+            ],
+            "flags": 0,
+            "guid": "Kkc8H1M}*i",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya hendak bungkus/sepaket nasi lemak.",
+                "I want to take away nasi lemak."
+            ],
+            "flags": 0,
+            "guid": "lhN(Bj(:Y4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apakah makanan kegemaran awak?",
+                "What is your favourite food."
+            ],
+            "flags": 0,
+            "guid": "l&8VbHote6",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Matikan telefon bimbit awak sekarang!",
+                "Turn off your cell phone now!"
+            ],
+            "flags": 0,
+            "guid": "y$yyv|:pHY",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila hidupkan komputer awak sekarang.",
+                "Plese turn on your computer now."
+            ],
+            "flags": 0,
+            "guid": "tr@:NfH|7m",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

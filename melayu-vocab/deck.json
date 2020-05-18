@@ -46,7 +46,7 @@
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
                 "ivlFct": 0.8,
-                "maxIvl": 36500,
+                "maxIvl": 3650,
                 "minSpace": 1,
                 "perDay": 200
             },
@@ -2475,8 +2475,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Peti - Peti sijuk",
-                "Crate - Fridge"
+                "Peti - Sijuk - Peti sijuk",
+                "Crate - Cold - Fridge"
             ],
             "flags": 0,
             "guid": "d4*Y+:heFm",
@@ -2506,6 +2506,45 @@
             ],
             "flags": 0,
             "guid": "zR!wUXyv1.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kacang tanah",
+                "Peanut"
+            ],
+            "flags": 0,
+            "guid": "CS8/1;,cu$",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minuman suam - Minuman sejuk",
+                "Warm drink - Cold drink"
+            ],
+            "flags": 0,
+            "guid": "rbGzCR4T`#",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Makanan berminyak",
+                "Oily food"
+            ],
+            "flags": 0,
+            "guid": "DRe}_tw[LZ",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
