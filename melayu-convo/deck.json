@@ -1734,24 +1734,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Yesterday",
-                "Semalam"
+                "Yesterday - Tomorrow",
+                "Semalam - Besok/Esok"
             ],
             "flags": 0,
             "guid": "vN34B(^GzN",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tomorrow",
-                "Besok / Esok"
-            ],
-            "flags": 0,
-            "guid": "w=M+xbF/g",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2176,21 +2163,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Umur saya dua puluh lima.",
-                "I am 25."
-            ],
-            "flags": 0,
-            "guid": "A]wNODv5b{",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Hadir",
-                "Here"
+                "Physically present"
             ],
             "flags": 0,
             "guid": "QY=2$c14EV",
@@ -2306,37 +2280,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Hour",
-                "Jam"
+                "Kedua - Minit - Jam",
+                "Second - Minute - Hour"
             ],
             "flags": 0,
             "guid": "IfJ(rN{h5w",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Minit",
-                "Minute"
-            ],
-            "flags": 0,
-            "guid": "rF{<D2A&[I",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kedua",
-                "Second"
-            ],
-            "flags": 0,
-            "guid": "JdV^AwN_R.",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3373,7 +3321,7 @@
             "data": "",
             "fields": [
                 "Ini beg tangan siapa?",
-                "This handbag is yours?"
+                "Whose handbag is this?"
             ],
             "flags": 0,
             "guid": "97GVP{#{o",
@@ -4127,23 +4075,10 @@
             "data": "",
             "fields": [
                 "Bila-bila - Siapa-siapa - Apa-apa",
-                "Anytime - Anyone - Apa-apa"
+                "Anytime - Anyone - Anything"
             ],
             "flags": 0,
             "guid": "mM67:gbbn",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Apa-apa pun boleh.",
-                "Anything also can."
-            ],
-            "flags": 0,
-            "guid": "D:E0K>k&t)",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
