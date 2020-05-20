@@ -2735,19 +2735,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dapat",
-                "Could or got"
-            ],
-            "flags": 0,
-            "guid": "ibWP>K/_h+",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Alexandra tidak dapat pekerjaan itu.",
                 "Alexandra could not get that job."
             ],
@@ -3242,32 +3229,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tandas perempuan",
-                "Female toilet"
-            ],
-            "flags": 0,
-            "guid": "j[@LiWH%y)",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dinding / Tembok",
-                "Wall"
-            ],
-            "flags": 0,
-            "guid": "u_Jt#Gifu(",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Awak berasal dari mana?",
                 "You were originally from where? (Place-of-origin)"
             ],
@@ -3749,8 +3710,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya benci itu",
-                "I hate that"
+                "Saya benci itu.",
+                "I hate that."
             ],
             "flags": 0,
             "guid": "o)62tmo,0{",
@@ -3931,7 +3892,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak naiki bas nombor 851 ke stesen Yishun. Kemudian, awak naiki kereta api ke stesen Canberra. Dari stesen Canberra, awak boleh berjalan ke rumah Wen Yi.",
+                "Awak naiki bas nombor 851 ke stesen Yishun.&nbsp;<div>Kemudian, awak naiki kereta api ke stesen Canberra.&nbsp;</div><div>Dari stesen Canberra, awak boleh berjalan ke rumah Wen Yi.</div>",
                 "You can take bus number 851 to Yishun Station. Then, you should take the train to Canberra station. From Canberra station, you can walk to Wen Yi's house."
             ],
             "flags": 0,

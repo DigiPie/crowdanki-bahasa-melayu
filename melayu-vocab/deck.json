@@ -2007,6 +2007,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Tandas perempuan",
+                "Female toilet"
+            ],
+            "flags": 0,
+            "guid": "j[@LiWH%y)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Sehelai kertas",
                 "A piece of paper"
             ],
@@ -2038,6 +2051,19 @@
             ],
             "flags": 0,
             "guid": "L444^u,U,@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dinding / Tembok",
+                "Wall"
+            ],
+            "flags": 0,
+            "guid": "u_Jt#Gifu(",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
