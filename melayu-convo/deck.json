@@ -4173,6 +4173,19 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(Pe)kerja - (Be)kerja - Kerja/(Pe)kerja(an)",
+                "Worker - To work - Work/Employment"
+            ],
+            "flags": 0,
+            "guid": "bM%^_}*nXD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }
