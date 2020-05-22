@@ -304,13 +304,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "(Mem)beli - (Mem)jual",
-                "Buy (To buy) - Sell (To sell)"
+                "Buy (To buy) - Sell (To sell)",
+                "<div>(Mem)beli - (Men)jual<br></div>"
             ],
             "flags": 0,
             "guid": "fz1tFHR[%4",
             "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -330,13 +330,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tonton - (Men)onton telivisyen",
-                "Watch - To watch telivisyen"
+                "Watch - To watch telivisyen",
+                "Tonton - (Men)onton telivisyen"
             ],
             "flags": 0,
             "guid": "DeeT-<@}[r",
             "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         },
         {
@@ -474,7 +474,7 @@
             "data": "",
             "fields": [
                 "(Men)unjuk - Tunjuk(kan)",
-                "To show/point - Show/point out for me"
+                "To show/point - Show it/point it out"
             ],
             "flags": 0,
             "guid": "l|B>,lh&pi",

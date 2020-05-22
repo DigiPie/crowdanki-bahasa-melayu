@@ -48,7 +48,7 @@
                 "ivlFct": 0.8,
                 "maxIvl": 3650,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -746,7 +746,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Jam dingding",
+                "Jam dinding",
                 "Hour-clock"
             ],
             "flags": 0,
@@ -1565,7 +1565,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Memandu - Pemandu",
+                "(Me)mandu - (Pe)mandu",
                 "To drive - Driver"
             ],
             "flags": 0,

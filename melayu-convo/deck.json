@@ -48,7 +48,7 @@
                 "ivlFct": 0.8,
                 "maxIvl": 3650,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -1994,7 +1994,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tanya - Bertanya",
+                "Tanya - (Ber)tanya",
                 "Ask - To ask"
             ],
             "flags": 0,
@@ -3892,8 +3892,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak naiki bas nombor 851 ke stesen Yishun.&nbsp;<div>Kemudian, awak naiki kereta api ke stesen Canberra.&nbsp;</div><div>Dari stesen Canberra, awak boleh berjalan ke rumah Wen Yi.</div>",
-                "You can take bus number 851 to Yishun Station. Then, you should take the train to Canberra station. From Canberra station, you can walk to Wen Yi's house."
+                "<div>Awak naiki kereta api ke stesen Canberra.&nbsp;</div><div>Kemudian, awak boleh berjalan dari stesen ke rumah Wen Yi.</div>",
+                "Board the train to Canberra station. Then, you can walk from the station&nbsp;to Wen Yi's house."
             ],
             "flags": 0,
             "guid": "vr2KL/N3,F",

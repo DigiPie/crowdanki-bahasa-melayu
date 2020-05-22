@@ -46,7 +46,7 @@
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
                 "ivlFct": 0.9,
-                "maxIvl": 36500,
+                "maxIvl": 3650,
                 "minSpace": 1,
                 "perDay": 100
             },
@@ -199,19 +199,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Bongsu",
-                "Youngest"
-            ],
-            "flags": 0,
-            "guid": "NC~>lod9c*",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Ibu - Bapa",
                 "Mum - Dad"
             ],
@@ -225,8 +212,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Anak sulung",
-                "Eldest child"
+                "Anak sulung - Bongsu",
+                "Eldest - Youngest"
             ],
             "flags": 0,
             "guid": "y5?v1!xg^]",
@@ -264,21 +251,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kawan baik",
-                "Good friend"
-            ],
-            "flags": 0,
-            "guid": "cSpsiA{q.r",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Kawan rapat",
-                "Close friend"
+                "Kawan rapat - Kawan baik",
+                "Close friend - Good friend"
             ],
             "flags": 0,
             "guid": "AE0M#=Ww*/",
