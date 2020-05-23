@@ -36,7 +36,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 40,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -1513,19 +1513,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Letih / Penat",
-                "Tired"
-            ],
-            "flags": 0,
-            "guid": "E@}AXxc3D2",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Mengapa/Kenapa? - Sebab/Kerana...<div>(Usually mengapa is answered with sebab, kenapa with kerana)</div>",
                 "Why? - Because..."
             ],
@@ -1804,19 +1791,6 @@
             ],
             "flags": 0,
             "guid": "j%;-}aXY{^",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Saya bukan mahasiswa.",
-                "I am not an undergraduate."
-            ],
-            "flags": 0,
-            "guid": "u=tQuut9C|",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2207,19 +2181,6 @@
             ],
             "flags": 0,
             "guid": "i9rVA&$D`X",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Hujung minggu",
-                "Weekend"
-            ],
-            "flags": 0,
-            "guid": "H=sHO:3;eA",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2891,19 +2852,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lapkan",
-                "Wipe it"
-            ],
-            "flags": 0,
-            "guid": "C6OpU5]F5/",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Alasan",
                 "Excuse"
             ],
@@ -3320,7 +3268,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya penat juga.",
+                "Saya penat/letih juga.",
                 "I am tired too."
             ],
             "flags": 0,
@@ -3364,19 +3312,6 @@
             ],
             "flags": 0,
             "guid": "nYM:6Cj/,W",
-            "newlyAdded": false,
-            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pukul berapa kelas awak?",
-                "What time is your class?"
-            ],
-            "flags": 0,
-            "guid": "m|w%cy#_Dx",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
@@ -3658,19 +3593,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "John memang ada banyak duit.",
-                "John confirm have a lot of money."
-            ],
-            "flags": 0,
-            "guid": "M:?lUGd6rM",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Rumah dia ada sebuah dapur dan dua buah mandi.",
                 "His/her house has a kitchen and two showers."
             ],
@@ -3788,7 +3710,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Rumah awak yang baharu bagaimana?/Bagaimanakah rumah awak yang baharu?",
+                "Rumah awak yang baharu bagaimana?/<div>Bagaimanakah rumah awak yang baharu?</div>",
                 "How is your new home?"
             ],
             "flags": 0,
@@ -3957,8 +3879,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Haus",
-                "Thirsty"
+                "Lapar - Haus",
+                "Hungry - Thirsty"
             ],
             "flags": 0,
             "guid": "m%%YJ@#0[M",

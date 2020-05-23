@@ -36,7 +36,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 40,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -1695,6 +1695,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Hujung minggu",
+                "Weekend"
+            ],
+            "flags": 0,
+            "guid": "H=sHO:3;eA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Hari lahir saya pada hari Jumaat.",
                 "My birthday is on Friday."
             ],
@@ -1960,6 +1973,19 @@
             ],
             "flags": 0,
             "guid": "j7<D)qQ@2F",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lapkan",
+                "Wipe it"
+            ],
+            "flags": 0,
+            "guid": "C6OpU5]F5/",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

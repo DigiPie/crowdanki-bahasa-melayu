@@ -36,7 +36,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 40,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -48,7 +48,7 @@
                 "ivlFct": 0.8,
                 "maxIvl": 3650,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 250
             },
             "timer": 0
         }
@@ -342,20 +342,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pun",
-                "Also"
-            ],
-            "flags": 0,
-            "guid": "s,fp0=j!r%",
-            "newlyAdded": false,
-            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Saya pun penat.",
+                "Saya pun penat/letih.",
                 "I am also tired."
             ],
             "flags": 0,
@@ -381,11 +368,37 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "John memang ada banyak duit.",
+                "John confirm have a lot of money."
+            ],
+            "flags": 0,
+            "guid": "M:?lUGd6rM",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Dia itu jambu",
                 "She is pretty"
             ],
             "flags": 0,
             "guid": "CJ/yK|nyT4",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apa-apa pun boleh.",
+                "Anything also can."
+            ],
+            "flags": 0,
+            "guid": "D:E0K>k&t)",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
