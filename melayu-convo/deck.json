@@ -1539,8 +1539,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak sendiri?",
-                "You alone?"
+                "Awak selalu seorang diri?",
+                "You always alone?"
             ],
             "flags": 0,
             "guid": "qdoh}C`?vI",
@@ -4105,6 +4105,201 @@
             ],
             "flags": 0,
             "guid": "bM%^_}*nXD",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia bermain tenis setiap Sabtu.",
+                "He plays tennis every Saturday."
+            ],
+            "flags": 0,
+            "guid": "r|1+JRWr~C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kami pergi dulu.",
+                "We go off first (excluding addressee)."
+            ],
+            "flags": 0,
+            "guid": "P7IasQNf(8",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kalau tidak hujan, saya keluar nanti.",
+                "If it does not rain, I will go out later."
+            ],
+            "flags": 0,
+            "guid": "wS*SQJ(ZKP",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya tidak suka berlari, saya lebih suka berenang.",
+                "I do not like running, I prefer swimming."
+            ],
+            "flags": 0,
+            "guid": "tY~Sk<hUBt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kalau begitu, boleh kita makan bersama.",
+                "If so, we can eat together."
+            ],
+            "flags": 0,
+            "guid": "h23%Hi1_ta",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Berehat",
+                "Rest"
+            ],
+            "flags": 0,
+            "guid": "O$1T54BYEv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya bersenam setiap hari Rabu dan Jumaat.",
+                "I exercise every Wednesday and Friday."
+            ],
+            "flags": 0,
+            "guid": "fv=O~R?D8;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya sedang membuat kek.",
+                "I am baking a cake now."
+            ],
+            "flags": 0,
+            "guid": "z6i&gs0B#I",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya menulis emel kepada pensyarah.",
+                "I am writing an email to a lecturer."
+            ],
+            "flags": 0,
+            "guid": "v5cE{1y(c;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ali dan Aliah menari.",
+                "Ali and Aliah are dancing."
+            ],
+            "flags": 0,
+            "guid": "f`YKc=h5qM",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hani sudah bersuami?",
+                "Hani already has a husband?"
+            ],
+            "flags": 0,
+            "guid": "N/D;v2)qp}",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia bergaji besar.",
+                "He/she earns a lot of money."
+            ],
+            "flags": 0,
+            "guid": "bU_{sRGK]W",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia berkereta mahal.",
+                "He has an expensive car."
+            ],
+            "flags": 0,
+            "guid": "h}|zq|*{|o",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya berkawan dengan Wen Yan selama dua tahun.",
+                "I have been friends with Wen Yan for two years."
+            ],
+            "flags": 0,
+            "guid": "s*]xN}HOMf",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya tiga beranak.",
+                "I have three kids."
+            ],
+            "flags": 0,
+            "guid": "F!<wLcYhP]",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

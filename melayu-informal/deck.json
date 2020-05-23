@@ -428,6 +428,45 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak nak ikut?",
+                "You want to come?"
+            ],
+            "flags": 0,
+            "guid": "GX#[~:1Jad",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Awak nak keluar petang nanti?",
+                "You want to go out in the evening?"
+            ],
+            "flags": 0,
+            "guid": "P*|Vq+hdlE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia selalu sibuk.",
+                "He/she is always busy."
+            ],
+            "flags": 0,
+            "guid": "A&v5VhIY~C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }

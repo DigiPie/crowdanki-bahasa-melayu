@@ -2587,6 +2587,32 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Surat khabar - Majalah",
+                "Newspaper - Magazine"
+            ],
+            "flags": 0,
+            "guid": "gColN.w2L]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sombong - Peramah",
+                "Arrogant - Approachable"
+            ],
+            "flags": 0,
+            "guid": "o#Ac+7PB^L",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }
