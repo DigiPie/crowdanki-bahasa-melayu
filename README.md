@@ -24,7 +24,6 @@ To find out how to use the flashcards in this repo, visit the [CrowdAnki](https:
 |----:|-----------------------|---------------------------------------------------|-----------------------|
 |   1 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Only have `me-` done  |
 |   2 | melayu-intro-biology  | Basic human anatomy and other biology terms.      | Completed             |
-|   3 | melayu-intro-exam     | Sentences which test basic language mastery.      | To work on            |
 
 ## Rules
 

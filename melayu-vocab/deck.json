@@ -1344,6 +1344,58 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "South",
+                "Seletan"
+            ],
+            "flags": 0,
+            "guid": "s;.Gicp#<a",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Barat",
+                "West"
+            ],
+            "flags": 0,
+            "guid": "s:2v9vawt",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Timur",
+                "East"
+            ],
+            "flags": 0,
+            "guid": "H<Ji<]CI@",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Di utara",
+                "North"
+            ],
+            "flags": 0,
+            "guid": "k!`*y7Q_Ec",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Perbualan tentang keluarga",
                 "Conversation about family"
             ],
@@ -1357,11 +1409,76 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "North East",
+                "Timur Laut"
+            ],
+            "flags": 0,
+            "guid": "MA}[b![XGR",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Timur Laut",
+                "North East"
+            ],
+            "flags": 0,
+            "guid": "P_,:#mqLAA",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "South East",
+                "Tenggara"
+            ],
+            "flags": 0,
+            "guid": "H|;l1.[sG,",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Tenggara",
                 "Southeast"
             ],
             "flags": 0,
             "guid": "kZ=m7EB>&n",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "South West",
+                "Barat daya"
+            ],
+            "flags": 0,
+            "guid": "XGc*i5)$o",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "North West",
+                "Barat Laut"
+            ],
+            "flags": 0,
+            "guid": "veqF8Uv++m",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
