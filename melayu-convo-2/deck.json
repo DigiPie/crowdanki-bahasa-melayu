@@ -2730,6 +2730,136 @@
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Terbang",
+                "Fly"
+            ],
+            "flags": 0,
+            "guid": "3.CRfknX!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ikan hidup di dalam air.",
+                "Fish live in water."
+            ],
+            "flags": 0,
+            "guid": "xl4eJ2gYBN",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia bapa meninggal dunia.",
+                "His father passed away."
+            ],
+            "flags": 0,
+            "guid": "I&zQY4tN38",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lalu - Selalu",
+                "Then - Always"
+            ],
+            "flags": 0,
+            "guid": "Q^C%q0^`j#",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia paling suka (men)jahit baju.",
+                "He/she loves sewing the most."
+            ],
+            "flags": 0,
+            "guid": "jj73#w,U=~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia tidak suka men(cuci) pinggan.",
+                "He/she does not like to wash dishes."
+            ],
+            "flags": 0,
+            "guid": "B#RcuRI891",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sila mem(bawa) borang awak.",
+                "Please bring your form."
+            ],
+            "flags": 0,
+            "guid": "Flqf(&O=W}",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Janggan ganggu adik perempuan awak.",
+                "Do not bother/disturb your younger sister."
+            ],
+            "flags": 0,
+            "guid": "iNZKQgzqw0",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membeli-belah",
+                "Shopping"
+            ],
+            "flags": 0,
+            "guid": "Q79m6:mQ3<",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia akan melancong bersama isterinya bulan depan.",
+                "He is traveling with his wife next month."
+            ],
+            "flags": 0,
+            "guid": "B6?mLaDqLc",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
         }
     ]
 }

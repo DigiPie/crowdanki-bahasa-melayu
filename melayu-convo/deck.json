@@ -616,8 +616,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tidur",
-                "Sleep"
+                "Tidur - Bangun",
+                "Sleep - Wake/get up"
             ],
             "flags": 0,
             "guid": "ES,dM~wQ6C",
@@ -2956,6 +2956,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Ingin",
+                "Want to"
+            ],
+            "flags": 0,
+            "guid": "LEKS|j~e0)",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Saya ingin berlari.",
                 "I want to run."
             ],
@@ -4139,6 +4152,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Dia selalu sibuk.",
+                "He/she is always busy."
+            ],
+            "flags": 0,
+            "guid": "A&v5VhIY~C",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Kalau tidak hujan, saya keluar nanti.",
                 "If it does not rain, I will go out later."
             ],
@@ -4166,7 +4192,7 @@
             "data": "",
             "fields": [
                 "Kalau begitu, boleh kita makan bersama.",
-                "If so, we can eat together."
+                "If so, can we eat together."
             ],
             "flags": 0,
             "guid": "h23%Hi1_ta",
@@ -4300,6 +4326,162 @@
             ],
             "flags": 0,
             "guid": "F!<wLcYhP]",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya tiba di kelas pada pukul tiga petang.",
+                "I arrived at class at 3 in the afternoon."
+            ],
+            "flags": 0,
+            "guid": "m#:2#auGrS",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya baru mandi.",
+                "I just showered."
+            ],
+            "flags": 0,
+            "guid": "B}E&i2,K!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia jatuh dari tangga.",
+                "He/she fell down the stairs."
+            ],
+            "flags": 0,
+            "guid": "vm_rO_M&cw",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia gagal/lulus ujian.",
+                "He failed/passed the exam."
+            ],
+            "flags": 0,
+            "guid": "zvb7@bm~.B",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Masuk - Keluar",
+                "In - Out"
+            ],
+            "flags": 0,
+            "guid": "rgh|[eYtz`",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Senyum - Ketawa",
+                "Smile - Laugh"
+            ],
+            "flags": 0,
+            "guid": "G=KVM!?17;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mesti - Hendak/mahu",
+                "Must/need - Want"
+            ],
+            "flags": 0,
+            "guid": "LK]!ptf,M;",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hari ini, saya (be)rehat di rumah.",
+                "Today, I am resting at home."
+            ],
+            "flags": 0,
+            "guid": "i5_R}jEVDH",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya meluangkan masa lapang saya dengan memblog.",
+                "I spend my free time blogging."
+            ],
+            "flags": 0,
+            "guid": "GE,.DM;;ZY",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia suka (men)dengar muzik di Spotify.",
+                "He/she likes listening to music on Spotify."
+            ],
+            "flags": 0,
+            "guid": "AaA.ZFSo!,",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia akan (men)olong ibunya memasak kari nanti.",
+                "He/she will help her mum cook curry later."
+            ],
+            "flags": 0,
+            "guid": "xPtPTM&sZi",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya (men)cari kedai roti.",
+                "I am looking for the bread store."
+            ],
+            "flags": 0,
+            "guid": "G+d(n?*`9L",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

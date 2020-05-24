@@ -13,8 +13,8 @@ To find out how to use the flashcards in this repo, visit the [CrowdAnki](https:
 | No. | Subject               | Description                                       | Status                |
 |----:|-----------------------|---------------------------------------------------|-----------------------|
 |   1 | melayu-colours        |                                                   | Completed             |
-|   2 | melayu-convo          | Proper commonly-used sentences and vocabulary.    | Constantly updated    |
-|   3 | melayu-convo-2        | Less-commonly used sentences and vocabulary.      | Constantly updated    |
+|   2 | melayu-convo          | Proper commonly-used sentences and vocabulary.    | Completed             |
+|   3 | melayu-convo-2        | Less-commonly used sentences and vocabulary.      | Completed             |
 |   4 | melayu-informal       | Informal day-to-day speech.                       | Constantly updated    |
 |   5 | melayu-relationships  | Basic family and friend terms                     | Completed             |
 
