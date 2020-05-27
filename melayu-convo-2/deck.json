@@ -2137,11 +2137,50 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Tanpa susu",
+                "No milk"
+            ],
+            "flags": 0,
+            "guid": "tU.RPvI}UE",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Malu",
+                "Shy"
+            ],
+            "flags": 0,
+            "guid": "AbY|UKXcpv",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Pawagam",
                 "Cinema"
             ],
             "flags": 0,
             "guid": "p4*T__~b%b",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pejabat",
+                "Office"
+            ],
+            "flags": 0,
+            "guid": "wOa=7f5-h;",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2475,6 +2514,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Pakcik Tan sudah bersara.",
+                "Uncle Tan has already retired."
+            ],
+            "flags": 0,
+            "guid": "d|e1S*muEQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Bina - (Mem)bina",
                 "Build - To build"
             ],
@@ -2662,6 +2714,19 @@
             ],
             "flags": 0,
             "guid": "zR!wUXyv1.",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Menangis",
+                "Cry"
+            ],
+            "flags": 0,
+            "guid": "K$a%~&$W1",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

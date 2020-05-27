@@ -36,7 +36,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -48,7 +48,7 @@
                 "ivlFct": 0.9,
                 "maxIvl": 3650,
                 "minSpace": 1,
-                "perDay": 100
+                "perDay": 150
             },
             "timer": 0
         }

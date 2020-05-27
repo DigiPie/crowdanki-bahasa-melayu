@@ -2800,19 +2800,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tarikh",
-                "Date"
-            ],
-            "flags": 0,
-            "guid": "Dt`ZNrlBsl",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Saya banyak bersyukur.",
                 "I am very grateful."
             ],
@@ -3047,19 +3034,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tanpa susu",
-                "No milk"
-            ],
-            "flags": 0,
-            "guid": "tU.RPvI}UE",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Wen Yan berjumpa Joshua di kem farmasi.",
                 "Wen Yan met Joshua at the pharmacy camp."
             ],
@@ -3156,32 +3130,6 @@
             ],
             "flags": 0,
             "guid": "A/iYw7jpgA",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Malu",
-                "Shy"
-            ],
-            "flags": 0,
-            "guid": "AbY|UKXcpv",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Pejabat",
-                "Office"
-            ],
-            "flags": 0,
-            "guid": "wOa=7f5-h;",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -3554,19 +3502,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pakcik Tan sudah bersara.",
-                "Uncle Tan has already retired."
-            ],
-            "flags": 0,
-            "guid": "d|e1S*muEQ",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Apakah pekerjaan awak?",
                 "What is your job?"
             ],
@@ -3676,19 +3611,6 @@
             ],
             "flags": 0,
             "guid": "ibz@o(<E[_",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Menangis",
-                "Cry"
-            ],
-            "flags": 0,
-            "guid": "K$a%~&$W1",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -4035,7 +3957,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Apakah makanan yang terdapat di kedai makan itu?",
+                "Apakah makanan yang terdapat di kedai itu?",
                 "What food can be found at that food store?"
             ],
             "flags": 0,
@@ -4191,8 +4113,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kalau begitu, boleh kita makan bersama.",
-                "If so, can we eat together."
+                "Kalau begitu, boleh kita makan bersama?",
+                "If so, can we eat together?"
             ],
             "flags": 0,
             "guid": "h23%Hi1_ta",
