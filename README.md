@@ -2,7 +2,7 @@
 
 A repo for collaborative Anki learning of Bahasa Melayu via the [CrowdAnki](https://github.com/Stvad/CrowdAnki) plugin. Card decks are stored in the `.json` format.
 
-This is a work-in-progress - the card decks are currently being updated, vetted for mistakes, and sorted appropriately. It is currently a mess. A decent `v0.1.0` release will be released by end May 2020.
+This is a work-in-progress - the card decks are currently being updated, vetted for mistakes, and sorted appropriately. It is currently a mess. A decent `v0.1.0` release will be released by end June 2020.
 
 To find out how to use the flashcards in this repo, visit the [CrowdAnki](https://github.com/Stvad/CrowdAnki) plugin page for instructions.
 
