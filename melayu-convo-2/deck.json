@@ -1565,6 +1565,19 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Akan",
+                "Will"
+            ],
+            "flags": 0,
+            "guid": "NKn:drER_x",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Ujian",
                 "Test"
             ],
@@ -2727,6 +2740,19 @@
             ],
             "flags": 0,
             "guid": "K$a%~&$W1",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hisap rokok",
+                "Smoke (Inhale cigarettes)"
+            ],
+            "flags": 0,
+            "guid": "y&A:QAGIkb",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []

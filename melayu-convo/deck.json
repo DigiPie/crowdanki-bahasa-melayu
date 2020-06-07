@@ -954,8 +954,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Lelaki - Perempuan",
-                "Boy / Male - Girl / Female"
+                "Adik lelaki - Adik perempuan",
+                "Boy - Girl"
             ],
             "flags": 0,
             "guid": "xOk`kCND6X",
@@ -1461,8 +1461,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Saya akan makan nanti",
-                "I will eat later"
+                "Saya akan makan nanti.",
+                "I will eat later."
             ],
             "flags": 0,
             "guid": "xth%%x7Da{",
@@ -1765,19 +1765,6 @@
             ],
             "flags": 0,
             "guid": "wC?/.0C5<4",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Akan",
-                "Will"
-            ],
-            "flags": 0,
-            "guid": "NKn:drER_x",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
@@ -2189,8 +2176,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Selapas",
-                "After"
+                "Sebelum - Selapas",
+                "Before - After"
             ],
             "flags": 0,
             "guid": "C9bq9cyaaq",
@@ -3320,8 +3307,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sukan",
-                "Sports"
+                "Apakah sukan kegemaran anda?",
+                "What is your favourite sport?"
             ],
             "flags": 0,
             "guid": "g?vZn$^6Qw",
@@ -3450,8 +3437,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nakal",
-                "Naughty"
+                "Patuh - Nakal",
+                "Obedient - Naughty"
             ],
             "flags": 0,
             "guid": "L6?ScsWxi6",
@@ -3554,8 +3541,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Terangkan",
-                "Explain it"
+                "Terangkan - Terang",
+                "Explain it - Light (colour)"
             ],
             "flags": 0,
             "guid": "jwCvWryU0<",
@@ -3723,8 +3710,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Minat",
-                "Interested"
+                "Saya ber(minat).",
+                "I am interested."
             ],
             "flags": 0,
             "guid": "l1#ataBr=H",
@@ -3879,19 +3866,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Hisap rokok",
-                "Smoke (Inhale cigarettes)"
-            ],
-            "flags": 0,
-            "guid": "y&A:QAGIkb",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Bila-bila - Siapa-siapa - Apa-apa",
                 "Anytime - Anyone - Anything"
             ],
@@ -3970,8 +3944,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Awak pernah makan nasi lemak?",
-                "Have you ever eaten nasi lemak?"
+                "Awak pernah makan mee soto?",
+                "Have you ever eaten mee soto?"
             ],
             "flags": 0,
             "guid": "Kkc8H1M}*i",
@@ -4074,7 +4048,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dia selalu sibuk.",
+                "Dia selalu/sentiasa sibuk.",
                 "He/she is always busy."
             ],
             "flags": 0,
@@ -4296,7 +4270,7 @@
             "data": "",
             "fields": [
                 "Dia gagal/lulus ujian.",
-                "He failed/passed the exam."
+                "He failed/passed the test."
             ],
             "flags": 0,
             "guid": "zvb7@bm~.B",
