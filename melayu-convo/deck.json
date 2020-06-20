@@ -2332,19 +2332,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dengar - (Men)dengar",
-                "Listen - To listen"
-            ],
-            "flags": 0,
-            "guid": "ror~/HtTP7",
-            "newlyAdded": false,
-            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Jika tidak, bagaimana...",
                 "If not, how..."
             ],

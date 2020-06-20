@@ -36,7 +36,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 30,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
@@ -48,7 +48,7 @@
                 "ivlFct": 0.9,
                 "maxIvl": 3650,
                 "minSpace": 1,
-                "perDay": 100
+                "perDay": 150
             },
             "timer": 0
         }
@@ -493,6 +493,292 @@
             "guid": "PT=iWwy/Su",
             "newlyAdded": false,
             "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___baca",
+                "<div>(Mem)baca: Read</div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words</div>"
+            ],
+            "flags": 0,
+            "guid": "mkRB|Q`=TT",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___veto",
+                "(Mem)veto: To veto<div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "ra.+<bEp^Q",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Proses - ___proses",
+                "Proses: Process - (Mem)proses: Processing<div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Jm%=!JF(@}",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Curi - ___curi",
+                "<div>Curi: Steal - (Men)curi: To steal</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words<br></div>"
+            ],
+            "flags": 0,
+            "guid": "NJ8Y3OxH7Q",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dengar - ___dengar",
+                "<div>Dengar: Listen&nbsp;- (Men)dengar: To listen</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words<br></div>"
+            ],
+            "flags": 0,
+            "guid": "wUyXb_~]a~",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fitnah - ___fitnah",
+                "<div>Fitnah: Slander - (Mem)fitnah: To slander</div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words<br></div>"
+            ],
+            "flags": 0,
+            "guid": "H*FevRG&c%",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jual - ___jual",
+                "Jual: Sell - (Men)jual: To sell<div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "bDP2^iiI6]",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sintesis - Mensintesis",
+                "<div>Sintesis: Synthesis - Mensintesis: To synthesize</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lUt?ub~wK:",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tadbir - ___tadbir",
+                "<div>Governance - To govern</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words</div>"
+            ],
+            "flags": 0,
+            "guid": "Qi5Ailia2@",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ziarah - ___ziarah",
+                "<div>Ziarah: Visit - (Men)ziarah: To visit</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words</div>"
+            ],
+            "flags": 0,
+            "guid": "NzU(ZJh{H,",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ambil - ___ambil",
+                "<div>Ambil: Take - (Meng)ambil: To take</div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div>"
+            ],
+            "flags": 0,
+            "guid": "jL(_>^>pjy",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___elak",
+                "(Meng)elak: To avoid<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "h?ln)E(n1Z",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___ikut",
+                "(Meng)ikut: To follow<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "AqEiXBWpsb",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___olah",
+                "<div>(Meng)olah: To cultivate</div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div>"
+            ],
+            "flags": 0,
+            "guid": "kyOu4k^!G9",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "__ulang",
+                "(Meng)ulang: To repeat<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "h*JphKtLFl",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "__ganggu",
+                "(Meng)ganggu: To disturb<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "xi7C<~r!)z",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___hantar",
+                "(Meng)hantar: To send<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "~Kw!lo,]L",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___kritik",
+                "(Meng)kritik: To criticize<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
+            ],
+            "flags": 0,
+            "guid": "EeW51kQeaK",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___bom",
+                "<div>(Menge)bom: To bomb</div><div>[meng- is replaced by menge- for one syllable root words]</div>"
+            ],
+            "flags": 0,
+            "guid": "cnAZG5(qdo",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cat - ___cat",
+                "Cat: Paint (noun) - (Menge)cat: To paint<div>[meng- is replaced by menge- for one syllable root words]<br></div>"
+            ],
+            "flags": 0,
+            "guid": "K.084%H,X~",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___lap",
+                "(Menge)lap: To wipe<div>[meng- is replaced by menge- for one syllable root words]<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fb>B@4#8-u",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "___mop",
+                "(Menge)mop: To mop<div>[meng- is replaced by menge- for one syllable root words]<br></div>"
+            ],
+            "flags": 0,
+            "guid": "duIg;OdhEW",
+            "newlyAdded": false,
+            "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
             "tags": []
         }
     ]
