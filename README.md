@@ -22,7 +22,7 @@ To find out how to use the flashcards in this repo, visit the [CrowdAnki](https:
 
 | No. | Subject               | Description                                       | Status                |
 |----:|-----------------------|---------------------------------------------------|-----------------------|
-|   1 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Only have `me-` done  |
+|   1 | melayu-intro-affixes  | How to use `meN` and `beR`                        | Left with be-         |
 |   2 | melayu-intro-biology  | Basic human anatomy and other biology terms.      | Completed             |
 
 ## Rules
