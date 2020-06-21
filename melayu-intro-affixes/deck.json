@@ -58,7 +58,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "mid": "1569982671045",
+    "mid": "1569982671043",
     "name": "melayu-intro-affixes",
     "note_models": [
         {
@@ -779,6 +779,110 @@
             "guid": "duIg;OdhEW",
             "newlyAdded": false,
             "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saya (ber)baju putih baju-T.",
+                "I wore a white T-shirt."
+            ],
+            "flags": 0,
+            "guid": "j}+%lSMjoW",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Encik Tan (ber)kereta Toyota.",
+                "Mister Tan drives a Toyota."
+            ],
+            "flags": 0,
+            "guid": "q4I^C]?OFO",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puan Maria (be)rumah besar.",
+                "Madam Maria has a big house."
+            ],
+            "flags": 0,
+            "guid": "iC(co_rnw!",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pokok epal ini sudah (ber)buah.",
+                "This apple tree is already bearing fruit."
+            ],
+            "flags": 0,
+            "guid": "tbIgiK[.fn",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Basikal ini beroda dua.",
+                "This bicycle is two-wheeled."
+            ],
+            "flags": 0,
+            "guid": "o+o1,[OvoC",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pelajar itu (ber)atur di hadapan kedai.",
+                "The student lined up in front of the store."
+            ],
+            "flags": 0,
+            "guid": "LQ(r*1lNL3",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dia (ber)janji tidak akan terlambat.",
+                "He promised not to be late."
+            ],
+            "flags": 0,
+            "guid": "l_>0y9)k7l",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kucing itu (ber)lompat ke atas meja saya.",
+                "The cat jumped on my desk."
+            ],
+            "flags": 0,
+            "guid": "nZ@3ZsOJ!~",
+            "newlyAdded": false,
+            "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
             "tags": []
         }
     ]
