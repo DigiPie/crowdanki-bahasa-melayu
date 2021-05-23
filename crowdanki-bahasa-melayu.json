@@ -38,7 +38,7 @@
                     "__type__": "Note",
                     "fields": [
                         "(Me)lihat",
-                        "See"
+                        "To see / See"
                     ],
                     "guid": "Qv,<#mR.D$",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -692,18 +692,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Tangan",
-                        "Hand"
-                    ],
-                    "guid": "L8.eW`nl(E",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Kaki",
-                        "Leg"
+                        "Kaki - Tangan",
+                        "Foot (Leg) - Hand"
                     ],
                     "guid": "Jx(>~p#/@I",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -852,20 +842,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Tapak kaki",
-                        "Sole"
+                        "Tapak kaki - Tapak tangan",
+                        "Sole - Palm"
                     ],
                     "guid": "bm.,gxt&E<",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tapak tangan",
-                        "Palm"
-                    ],
-                    "guid": "grH?HW1,gL",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -6318,6 +6298,16 @@
                     "guid": "B6?mLaDqLc",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mana yang paling anda suka?",
+                        "Which do you like the most?"
+                    ],
+                    "guid": "s/3O*N6?We",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
                 }
             ]
         },
@@ -6693,7 +6683,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 40
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -6868,6 +6858,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
+    "mid": 1621433704759,
     "name": "bahasa-melayu-1",
     "note_models": [
         {
@@ -7070,6 +7061,76 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []
