@@ -17,30 +17,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "(Men)ulis - Tulis(kan) - Tulis(an)",
-                        "Write - Write it down - Writing"
+                        "Tulis - (Men)ulis - Tulis(kan) - Tulis(an)",
+                        "Write - To write - Write it down - Writing"
                     ],
                     "guid": "Hn;27L-m[~",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "(Meng)ambil",
-                        "Take (Taking)"
-                    ],
-                    "guid": "C@Vy(u=pIH",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "(Me)lihat",
-                        "To see / See"
-                    ],
-                    "guid": "Qv,<#mR.D$",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -67,8 +47,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "(Ber)mula - Mula",
-                        "Started - Start"
+                        "Mula - (Ber)mula",
+                        "Start - Started"
                     ],
                     "guid": "sEk#}NOveZ",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -87,8 +67,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Keluar - Keluar(kan)",
-                        "Get out - Take it out"
+                        "Luar - (Ke)luar - (Ke)luar(kan)",
+                        "Outside - Get out - Get it out (Command)"
                     ],
                     "guid": "px.f,}5&pW",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -117,8 +97,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "(Meng)hantar - Hantar(kan)",
-                        "Send(ing) - Send it (Command)"
+                        "Hantar - (Meng)hantar - Hantar(kan)",
+                        "Send - To send - Send it (Command)"
                     ],
                     "guid": "x|4>NoJ,11",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -128,7 +108,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Watch - To watch telivisyen",
-                        "Tonton - (Men)onton telivisyen"
+                        "Tonton - (Men)onton telivisyen<br>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
                     ],
                     "guid": "DeeT-<@}[r",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -178,7 +158,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Rompak",
-                        "Rompak: Robbery - (Me)rompak: To steal<div>[Add me- to l, m, n, ny, r, w]<br></div>"
+                        "Rompak: Robbery - (Me)rompak: To rob<div>[Add me- to l, m, n, ny, r, w]<br></div>"
                     ],
                     "guid": "cXIO1IP?kt",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -238,7 +218,7 @@
                     "__type__": "Note",
                     "fields": [
                         "(Men)unjuk - Tunjuk(kan)",
-                        "To show/point - Show it/point it out"
+                        "To point out - Point it out (Command)"
                     ],
                     "guid": "l|B>,lh&pi",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -248,7 +228,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Sewa - (Meny)ewa - (Peny)ewa",
-                        "Rent - To rent - Tenant"
+                        "Rent - To rent - Renter/Tenant"
                     ],
                     "guid": "PT=iWwy/Su",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -327,18 +307,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sintesis - Mensintesis",
-                        "<div>Sintesis: Synthesis - Mensintesis: To synthesize</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words<br></div>"
-                    ],
-                    "guid": "lUt?ub~wK:",
-                    "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Tadbir - ___tadbir",
-                        "<div>Governance - To govern</div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words</div>"
+                        "<div>Tadbir: Governance - (Men)tadbir - To govern<br></div><div>[Add men- to c, d, j, s*, t*, z]</div><div>* only for borrowed words</div>"
                     ],
                     "guid": "Qi5Ailia2@",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -417,30 +387,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "___hantar",
-                        "(Meng)hantar: To send<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
-                    ],
-                    "guid": "~Kw!lo,]L",
-                    "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "___kritik",
                         "(Meng)kritik: To criticize<div><div>[Add meng- to a, e, i, o, u, g, h, k*]</div><div>* only for borrowed words</div></div>"
                     ],
                     "guid": "EeW51kQeaK",
-                    "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "___bom",
-                        "<div>(Menge)bom: To bomb</div><div>[meng- is replaced by menge- for one syllable root words]</div>"
-                    ],
-                    "guid": "cnAZG5(qdo",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
                     "tags": []
                 },
@@ -477,7 +427,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya (ber)baju putih baju-T.",
+                        "Saya (ber)baju/(mem)akai putih baju-T.",
                         "I wore a white T-shirt."
                     ],
                     "guid": "j}+%lSMjoW",
@@ -497,8 +447,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Puan Maria (be)rumah besar.",
-                        "Madam Maria has a big house."
+                        "Puan Maria (be)rumah kecil/besar.",
+                        "Madam Maria has a small/big house."
                     ],
                     "guid": "iC(co_rnw!",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -528,7 +478,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Pelajar itu (ber)atur di hadapan kedai.",
-                        "The student lined up in front of the store."
+                        "That student lined up in front of the store."
                     ],
                     "guid": "LQ(r*1lNL3",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -537,7 +487,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dia (ber)janji tidak akan terlambat.",
+                        "Dia (ber)janji tidak akan (ter)lambat.",
                         "He promised not to be late."
                     ],
                     "guid": "l_>0y9)k7l",
@@ -548,7 +498,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kucing itu (ber)lompat ke atas meja saya.",
-                        "The cat jumped on my desk."
+                        "That cat jumped on my desk."
                     ],
                     "guid": "nZ@3ZsOJ!~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -576,16 +526,6 @@
                         "Head"
                     ],
                     "guid": "E9&E{xdvm9",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mata",
-                        "Eye"
-                    ],
-                    "guid": "zVia{f~()1",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -812,8 +752,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Pinggang (Pinggang paha)",
-                        "Waist (Thigh)"
+                        "Pinggang - Pinggang paha",
+                        "Waist - Thigh"
                     ],
                     "guid": "M=$aOw{~^C",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -997,8 +937,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Merah gelap",
-                        "Dark red"
+                        "Merah terang",
+                        "Bright red"
                     ],
                     "guid": "r/ki^7<bTF",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
@@ -1017,20 +957,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Hitam",
-                        "Black"
+                        "Hitam - Putih",
+                        "Black - White"
                     ],
                     "guid": "B8YgE(6YPc",
-                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Putih",
-                        "White"
-                    ],
-                    "guid": "AGDu7vTmvR",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
                     "tags": []
                 },
@@ -1512,16 +1442,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ke",
-                        "To"
-                    ],
-                    "guid": "ibzOK.}7J^",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Mudah - Susah",
                         "Easy - Hard"
                     ],
@@ -1882,40 +1802,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ke arah",
-                        "Towards"
-                    ],
-                    "guid": "Lab^O=k-(K",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Towards",
-                        "Ke arah"
-                    ],
-                    "guid": "Px]I~{wa(?",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Di atas",
                         "On top"
                     ],
                     "guid": "c(qvDen7%y",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Di dalam",
-                        "Inside"
-                    ],
-                    "guid": "HKa[HoiljY",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1972,8 +1862,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Di luar",
-                        "Outside"
+                        "Di luar - Di dalam",
+                        "Outside - Inside"
                     ],
                     "guid": "Q6_Djowd8U",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1982,8 +1872,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Di tepi / Di sebelah",
-                        "Next to you/beside you"
+                        "Di tepi - Di sebelah",
+                        "Next to you - Beside you"
                     ],
                     "guid": "ty!f;+d;yS",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2322,7 +2212,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Berjalan terus dan belok kekanan.",
+                        "(Ber)jalan terus dan belok kekanan.",
                         "Walk straight and turn right."
                     ],
                     "guid": "PL_yo0QyY[",
@@ -2403,7 +2293,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kenapa awak ponteng sekolah semalam?",
-                        "Why you skip school yesterday?"
+                        "Why did you skip school yesterday?"
                     ],
                     "guid": "dvrDo{i+yk",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4072,7 +3962,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya menulis emel kepada pensyarah.",
+                        "Saya (men)ulis emel kepada pensyarah.",
                         "I am writing an email to a lecturer."
                     ],
                     "guid": "v5cE{1y(c;",
@@ -5146,16 +5036,6 @@
                         "Pusat Pengajian Bahasa"
                     ],
                     "guid": "ktGGbX`B|(",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Perbualan tentang keluarga",
-                        "Conversation about family"
-                    ],
-                    "guid": "KBj`k#PoS~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -6262,7 +6142,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sila mem(bawa) borang awak.",
+                        "Sila (mem)bawa borang anda.",
                         "Please bring your form."
                     ],
                     "guid": "Flqf(&O=W}",
@@ -6306,6 +6186,170 @@
                         "Which do you like the most?"
                     ],
                     "guid": "s/3O*N6?We",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"color: rgb(34, 34, 34);\">Kasut ini sangat sesuai untuk aktiviti luar seperti camping, hiking dan sebagainya.</span>",
+                        "These shoes are very suitable for outdoor activities like camping, hiking and so on."
+                    ],
+                    "guid": "y,&t^-|:$/",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "68d32c42-c2a0-11eb-83fe-acde48001122",
+            "deck_config_uuid": "66c5269a-ba4d-11eb-b08a-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "counting",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kosong",
+                        "Zero"
+                    ],
+                    "guid": "KMDY#T!Kf2",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Satu",
+                        "One"
+                    ],
+                    "guid": "r;qt5_=nan",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dua",
+                        "Two"
+                    ],
+                    "guid": "hZ}7#}xD5u",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tiga",
+                        "Three"
+                    ],
+                    "guid": "KjxH5[a]Bo",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Empat",
+                        "Four"
+                    ],
+                    "guid": "z2!hTgAue3",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lima",
+                        "Five"
+                    ],
+                    "guid": "gO;3%eazGw",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enam",
+                        "Six"
+                    ],
+                    "guid": "reMb:dmhMp",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tujuh",
+                        "Seven"
+                    ],
+                    "guid": "NpSF-ESuw2",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lapan",
+                        "Eight"
+                    ],
+                    "guid": "qE#?BgC%Jc",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sembilan",
+                        "Nine"
+                    ],
+                    "guid": "j@>18u9%W>",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Se)puluh - (Dua)puluh - (Tiga)puluh",
+                        "Ten - Twenty - Thirty"
+                    ],
+                    "guid": "E/5o8mw!Bl",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Se)belas - (Dua) belas - (Tiga )belas ... - (Sembilan) belas",
+                        "Eleven - Twelve - Thirteen ... - Nineteen"
+                    ],
+                    "guid": "j*_ro[PUFR",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Se)ratus - (Dua) ratus - (Tiga) ratus ... (Sembilan) ratus",
+                        "One hundred - Two hundred - Three hundred ... - Nine hundred"
+                    ],
+                    "guid": "ym0QZ+NBWb",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Se)ribu - (Dua) ribu - (Tiga )ribu&nbsp;... - (Sembilan) ribu",
+                        "One thousand - Two thousand - Three thousand ... - Nine thousand"
+                    ],
+                    "guid": "D)?Pnx_Qn9",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
@@ -6682,8 +6726,8 @@
                     4,
                     0
                 ],
-                "order": 1,
-                "perDay": 40
+                "order": 0,
+                "perDay": 30
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -6858,9 +6902,79 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "mid": 1621433704759,
+    "mid": 1621433704760,
     "name": "bahasa-melayu-1",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -7061,77 +7175,18 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (and reversed card)",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{Back}}"
-                }
-            ],
-            "type": 0
         }
     ],
-    "notes": []
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ke arah",
+                "Towards"
+            ],
+            "guid": "j:|*UmA<hR",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        }
+    ]
 }
