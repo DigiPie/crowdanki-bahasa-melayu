@@ -77,8 +77,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Pakai - Pakai(an)",
-                        "Wear - Clothes"
+                        "Pakai - (Mem)akai - Pakai(an)",
+                        "Wear - To wear - Clothes"
                     ],
                     "guid": "A&T)&<:(A(",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -188,7 +188,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Pandu",
-                        "(mem)andu: To drive&nbsp;<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]</div>"
+                        "(Mem)andu: To drive&nbsp;<div>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]</div>"
                     ],
                     "guid": "y}}p^6g!aT",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -238,7 +238,7 @@
                     "__type__": "Note",
                     "fields": [
                         "___baca",
-                        "<div>(Mem)baca: Read</div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words</div>"
+                        "<div>(Mem)baca: To read</div><div>[Add mem- to b, f, p*, v]</div><div>* only for borrowed words</div>"
                     ],
                     "guid": "mkRB|Q`=TT",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -1722,26 +1722,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mahu/Hendak",
-                        "Want"
-                    ],
-                    "guid": "s]c4!6.Uk-",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Want",
-                        "Mahu/Hendak"
-                    ],
-                    "guid": "f(zI|/J2vh",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Near - Far",
                         "Dekat - Jauh"
                     ],
@@ -2102,8 +2082,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sangat laju",
-                        "Very fast"
+                        "Sangat laju - Sangat lambat",
+                        "Very fast - Very slow"
                     ],
                     "guid": "F}5,6RR]p&",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2752,8 +2732,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya meluangkan kebanyakan masa lapang saya dengan...",
-                        "I spend most of my free time with..."
+                        "Saya meluangkan kebanyakan masa lapang saya dengan bersenam dan menonton Netflix.",
+                        "I spend most of my free time exercising and watching Netflix."
                     ],
                     "guid": "gAgaG/1P&5",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3163,7 +3143,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kurus - Gemuk",
-                        "Skinny - Fat"
+                        "Skinny - Fat person"
                     ],
                     "guid": "nWsjC(Mevv",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3652,8 +3632,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Awak naiki kereta api ke stesen Canberra.&nbsp;</div><div>Kemudian, awak boleh berjalan dari stesen ke rumah Wen Yi.</div>",
-                        "Board the train to Canberra station. Then, you can walk from the station&nbsp;to Wen Yi's house."
+                        "<div>Awak boleh naiki kereta api ke stesen Bukit Timah.&nbsp;</div><div>Kemudian, awak boleh berjalan dari stesen ke rumah Fatimah.</div>",
+                        "You can board the train to Bukit Timah station. Then, you can walk from the station&nbsp;to Fatimah's house."
                     ],
                     "guid": "vr2KL/N3,F",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3802,8 +3782,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Apakah makanan yang terdapat di kedai itu?",
-                        "What food can be found at that food store?"
+                        "Apakah makanan yang (ter)dapat di kedai itu?",
+                        "What food can you get from that store?"
                     ],
                     "guid": "hL(TB.;JWe",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4062,8 +4042,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dia gagal/lulus ujian.",
-                        "He failed/passed the test."
+                        "Dia lulus/gagal ujian.",
+                        "He passed/failed the test."
                     ],
                     "guid": "zvb7@bm~.B",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4092,8 +4072,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mesti - Hendak/mahu",
-                        "Must/need - Want"
+                        "Perlu - Hendak/mahu",
+                        "Need - Want"
                     ],
                     "guid": "LK]!ptf,M;",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4922,20 +4902,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Pergigian",
+                        "Per(gigi)an",
                         "Dentistry"
                     ],
                     "guid": "Jg-Ce(p:{F",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Dentistry",
-                        "Pergigian"
-                    ],
-                    "guid": "kWVfa_JK~W",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5672,20 +5642,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sekolah rendah",
-                        "Primary school"
+                        "Sekolah rendah - Sekolah menengah",
+                        "Primary school - Secondary school"
                     ],
                     "guid": "niy9z:>Njy",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sekolah menengah",
-                        "Secondary school"
-                    ],
-                    "guid": "nJmJW6o2(@",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5803,7 +5763,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Sekeping poskad",
-                        "A postcard"
+                        "A piece of postcard"
                     ],
                     "guid": "euNNzIxoI{",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6132,7 +6092,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dia tidak suka men(cuci) pinggan.",
+                        "Dia tidak suka (men)cuci pinggan.",
                         "He/she does not like to wash dishes."
                     ],
                     "guid": "B#RcuRI891",
@@ -6196,6 +6156,16 @@
                         "These shoes are very suitable for outdoor activities like camping, hiking and so on."
                     ],
                     "guid": "y,&t^-|:$/",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Be useful - Useful information",
+                        "Berguna - Informasi berguna"
+                    ],
+                    "guid": "t{{rWZs[&b",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
@@ -6430,8 +6400,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Comel (Si comel)",
-                        "Cute (Cutie)"
+                        "Comel - Si comel",
+                        "Cute - Cutie"
                     ],
                     "guid": "O2DU]i~g12",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -7185,6 +7155,26 @@
                 "Towards"
             ],
             "guid": "j:|*UmA<hR",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mesti",
+                "Must"
+            ],
+            "guid": "K!URDKe!-8",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tak apalah",
+                "Nevermind"
+            ],
+            "guid": "wk&r7:9*8|",
             "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
             "tags": []
         }
