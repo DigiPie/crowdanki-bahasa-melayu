@@ -3052,8 +3052,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Kalau (Kalau-kalau)",
-                        "If (If perhaps)"
+                        "Kalau - Kalau-kalau",
+                        "If - If perhaps"
                     ],
                     "guid": "jRso|gZysn",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3612,7 +3612,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya ber(minat).",
+                        "Saya (ber)minat.",
                         "I am interested."
                     ],
                     "guid": "l1#ataBr=H",
@@ -3833,7 +3833,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Sila hidupkan komputer awak sekarang.",
-                        "Plese turn on your computer now."
+                        "Please turn on your computer now."
                     ],
                     "guid": "tr@:NfH|7m",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6535,6 +6535,16 @@
                     ],
                     "guid": "P*|Vq+hdlE",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Semangat",
+                        "Have spirit<br>加油"
+                    ],
+                    "guid": "f|-q.oWZ|V",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
             ]
