@@ -107,7 +107,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Watch - To watch telivisyen",
+                        "Watch - To watch telivision",
                         "Tonton - (Men)onton telivisyen<br>[Add me- and convert k -&gt; ng, p -&gt; m, s -&gt; ny, t -&gt; n]"
                     ],
                     "guid": "DeeT-<@}[r",
@@ -217,8 +217,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "(Men)unjuk - Tunjuk(kan)",
-                        "To point out - Point it out (Command)"
+                        "Tunjuk - (Men)unjuk - Tunjuk(kan)",
+                        "Point out - To point out - Point it out (Command)"
                     ],
                     "guid": "l|B>,lh&pi",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -1293,7 +1293,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Banyak - Sedikit / Sikit",
-                        "A lot / A little"
+                        "A lot - A little"
                     ],
                     "guid": "tAj^@^wb:V",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1302,8 +1302,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Banyak (Banyak lagi)",
-                        "A lot (Many more)"
+                        "Banyak - Banyak lagi",
+                        "A lot - Many more"
                     ],
                     "guid": "HiG5u^duA2",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1422,20 +1422,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Atau",
-                        "Or"
+                        "Dan - Atau",
+                        "And - Or"
                     ],
                     "guid": "s3[_|R)|:3",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Dan",
-                        "And"
-                    ],
-                    "guid": "v.P+iwi$j&",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1472,8 +1462,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ini kelas di AS8.",
-                        "This class at AS8."
+                        "Ini kelas di sana.",
+                        "This class is over there."
                     ],
                     "guid": "o:E+j~fNAX",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4072,7 +4062,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Perlu - Hendak/mahu",
+                        "Perlu - Mahu/Hendak",
                         "Need - Want"
                     ],
                     "guid": "LK]!ptf,M;",
@@ -4203,7 +4193,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Latihan",
-                        "Exercise"
+                        "Training"
                     ],
                     "guid": "CV2%3,=QMV",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4682,16 +4672,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Kad untuk kanak-kanak",
-                        "Card for kids"
-                    ],
-                    "guid": "g(Um[zL=]V",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Orang dewasa",
                         "Adults"
                     ],
@@ -4926,16 +4906,6 @@
                         "Undang-undang"
                     ],
                     "guid": "cEnktOjz@H",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Design and Environment",
-                        "Rekaan dan Persekitaran"
-                    ],
-                    "guid": "z?Mrz`Cv.R",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5983,7 +5953,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hisap rokok",
-                        "Smoke (Inhale cigarettes)"
+                        "Inhale cigarettes/Smoke"
                     ],
                     "guid": "y&A:QAGIkb",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6340,16 +6310,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya nak sambosa dan sambal goreng.",
-                        "I want sambosa and sambal goreng."
-                    ],
-                    "guid": "sCx%%x!?cS",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Awak nak tinggal dan belajar?",
                         "You want to stay and study?"
                     ],
@@ -6411,7 +6371,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Si pandai",
-                        "Very clever (sarcastic)"
+                        "Very clever (Sarcastic)"
                     ],
                     "guid": "NUv~M9;^{;",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6541,7 +6501,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Semangat",
-                        "Have spirit<br>加油"
+                        "Have spirit"
                     ],
                     "guid": "f|-q.oWZ|V",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
@@ -6585,7 +6545,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Anak sulung - Bongsu",
-                        "Eldest - Youngest"
+                        "Eldest child - Youngest child"
                     ],
                     "guid": "y5?v1!xg^]",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6624,7 +6584,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Teman lelaki - Teman wanita/perempuan",
+                        "Teman lelaki - Teman perempuan/wanita",
                         "Boyfriend - Girlfriend"
                     ],
                     "guid": "J-b!o(9H%)",
@@ -6707,7 +6667,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 30
+                "perDay": 20
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -6718,7 +6678,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 150
             },
             "reviewOrder": 0,
             "timer": 0
@@ -7185,6 +7145,36 @@
                 "Nevermind"
             ],
             "guid": "wk&r7:9*8|",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pada pukul berapakah?",
+                "At what time?"
+            ],
+            "guid": "D_1E,8gOVV",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tanya dia",
+                "Ask him/her"
+            ],
+            "guid": "rwT8pdcOs/",
+            "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saya masih makan.",
+                "I am still eating."
+            ],
+            "guid": "IH,T-:X7~x",
             "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
             "tags": []
         }
