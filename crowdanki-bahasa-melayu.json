@@ -1142,20 +1142,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mahasiswa",
-                        "Male undergraduate"
+                        "Mahasiswa - Mahasiswi",
+                        "Male undergraduate - Female undergraduate"
                     ],
                     "guid": "K$C!-a&RsV",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mahasiswi",
-                        "Female undergraduate"
-                    ],
-                    "guid": "Mo,qd*{4N1",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1273,7 +1263,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Angkat tangan kiri/kenan",
-                        "Raise hand left/right"
+                        "Raise your left/right hand"
                     ],
                     "guid": "M2@|=3sET$",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1313,7 +1303,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Sakit hati",
-                        "Heart broken"
+                        "Heartache"
                     ],
                     "guid": "u3KlI5u}5a",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1442,8 +1432,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Muda (Pemuda, Pemudi)",
-                        "Young (Young man, Young woman)"
+                        "Muda - Pemuda - Pemudi",
+                        "Young - Young man - Young woman"
                     ],
                     "guid": "vlL9)xDaQG",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1566,16 +1556,6 @@
                         "Sila(lah)"
                     ],
                     "guid": "hwEYT29?x8",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Adik lelaki - Adik perempuan",
-                        "Boy - Girl"
-                    ],
-                    "guid": "xOk`kCND6X",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1772,8 +1752,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Di atas",
-                        "On top"
+                        "Di atas - Di bawah",
+                        "Above - Below"
                     ],
                     "guid": "c(qvDen7%y",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1806,16 +1786,6 @@
                         "Arah"
                     ],
                     "guid": "Jf,&56l6~a",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Di bawah",
-                        "Below"
-                    ],
-                    "guid": "ugpF9Qi@`y",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -2212,8 +2182,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sekarang / Kini",
-                        "Now / Currently"
+                        "Sekarang/Kini",
+                        "Now/Currently"
                     ],
                     "guid": "d2:t=Ca&Fe",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2376,16 +2346,6 @@
                         "Another - ...and others"
                     ],
                     "guid": "deO9d{AwT$",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Belanja",
-                        "Shopping"
-                    ],
-                    "guid": "bnY}c;MEN9",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -2632,8 +2592,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Awak hendak bubble tea yang mana?",
-                        "You want which bubble tea?"
+                        "Awak hendak yang mana?",
+                        "Which one do you want?"
                     ],
                     "guid": "n(qt0b?rK;",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2693,7 +2653,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Saya sudah memperoleh diploma.",
-                        "I already earned a Diploma."
+                        "I already got a Diploma."
                     ],
                     "guid": "r+n7C$9IhW",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2756,16 +2716,6 @@
                         "I am an undergraduate instructor."
                     ],
                     "guid": "qdo2U35IrF",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sebagai ibu, saya perlu menjadi contoh untuk anak-anak.",
-                        "As a mother, I need to become a role model for my kids."
-                    ],
-                    "guid": "q2b=>;h@`*",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -2852,7 +2802,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya sentiasa bekerja.",
+                        "Saya selalu/sentiasa bekerja.",
                         "I am always working."
                     ],
                     "guid": "kvj&sQAb!e",
@@ -2902,18 +2852,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Seronok",
-                        "Enjoyable"
-                    ],
-                    "guid": "jY`W6lBwzF",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Asyik",
-                        "Fun"
+                        "Seronok/Asyik",
+                        "Enjoyable/Fun"
                     ],
                     "guid": "xY<:Pa/|2<",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2942,7 +2882,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Kopi lagi baik daripada teh.<div><br></div><div>[Daripada: Transformation, Comparison]<br></div>",
+                        "Kopi lagi baik daripada teh.",
                         "Coffee is better than tea."
                     ],
                     "guid": "QHpRwaC=-`",
@@ -3072,8 +3012,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wen Yan berjumpa Joshua di kem farmasi.",
-                        "Wen Yan met Joshua at the pharmacy camp."
+                        "Izwan berjumpa Joshua di kem farmasi.",
+                        "Izwan met Joshua at the pharmacy camp."
                     ],
                     "guid": "M!h+o.ep@s",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3192,7 +3132,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ini beg tangan siapa?",
+                        "Beg tangan siapa ini?",
                         "Whose handbag is this?"
                     ],
                     "guid": "97GVP{#{o",
@@ -3332,7 +3272,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya warganegera Singapore.",
+                        "Saya warganegera Singapura.",
                         "I am a citizen of Singapore."
                     ],
                     "guid": "DeEu)$1F*t",
@@ -3692,8 +3632,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Pedas - Tawar",
-                        "Spicy - Bland"
+                        "Sedap - Tawar",
+                        "Delicious - Bland"
                     ],
                     "guid": "CzPwJA?Y:M",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3773,7 +3713,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Apakah makanan yang (ter)dapat di kedai itu?",
-                        "What food can you get from that store?"
+                        "What food is available at the store?"
                     ],
                     "guid": "hL(TB.;JWe",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3822,7 +3762,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sila hidupkan komputer awak sekarang.",
+                        "Sila hidupkan komputer anda sekarang.",
                         "Please turn on your computer now."
                     ],
                     "guid": "tr@:NfH|7m",
@@ -3982,8 +3922,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Saya berkawan dengan Wen Yan selama dua tahun.",
-                        "I have been friends with Wen Yan for two years."
+                        "Saya berkawan dengan Shahrul selama dua tahun.",
+                        "I have been friends with Shahrul for two years."
                     ],
                     "guid": "s*]xN}HOMf",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4103,7 +4043,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia akan (men)olong ibunya memasak kari nanti.",
-                        "He/she will help her mum cook curry later."
+                        "He/she will help his/her mum cook curry later."
                     ],
                     "guid": "xPtPTM&sZi",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4972,16 +4912,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Language Studies Centre",
-                        "Pusat Pengajian Bahasa"
-                    ],
-                    "guid": "ktGGbX`B|(",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Tenggara",
                         "Southeast"
                     ],
@@ -5292,16 +5222,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Seblas (dua belas, tiga belas...)",
-                        "11 (12, 13...)"
-                    ],
-                    "guid": "k$zioiz]mA",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Tahun",
                         "Year"
                     ],
@@ -5562,16 +5482,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Makmal",
-                        "Laboratory"
-                    ],
-                    "guid": "AUf]N:~r6[",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Sepak",
                         "Kick"
                     ],
@@ -5823,7 +5733,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Tidak begitu sibuk",
-                        "Not that busy"
+                        "Not so busy"
                     ],
                     "guid": "eMJ9gC.{E.",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6092,7 +6002,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Membeli-belah",
+                        "Belanja/Membeli-belah",
                         "Shopping"
                     ],
                     "guid": "Q79m6:mQ3<",
@@ -6136,6 +6046,16 @@
                         "Berguna - Informasi berguna"
                     ],
                     "guid": "t{{rWZs[&b",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Breakfast - Lunch - Dinner",
+                        "Sarapan pagi - Makan tengah hari - Makan malam"
+                    ],
+                    "guid": "hfog,B6AQL",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
@@ -6430,8 +6350,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "John memang ada banyak duit.",
-                        "John confirm have a lot of money."
+                        "Shahrul memang ada banyak duit.",
+                        "Shahrul&nbsp;confirm have a lot of money."
                     ],
                     "guid": "M:?lUGd6rM",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6525,7 +6445,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ibu - Bapa",
-                        "Mum - Dad"
+                        "Mother - Father"
                     ],
                     "guid": "bdBl)gf)cj",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
