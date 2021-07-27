@@ -1113,7 +1113,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hodoh",
-                        "Ugly (Both M &amp; F)"
+                        "Ugly"
                     ],
                     "guid": "F</]G6lcNm",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1123,7 +1123,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kacak / Tanpan",
-                        "Handsome (Men)"
+                        "Handsome"
                     ],
                     "guid": "QDP1O;A02V",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1452,7 +1452,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ini kelas di sana.",
+                        "Kelas ini di sana.",
                         "This class is over there."
                     ],
                     "guid": "o:E+j~fNAX",
@@ -1476,16 +1476,6 @@
                         "A lot (living beings only)"
                     ],
                     "guid": "tM$lBSEo1&",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bekerja (Perkerja, Perkerjaan)",
-                        "To work (Worker, Job)"
-                    ],
-                    "guid": "B9wA4`xD`a",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1602,16 +1592,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Apa",
-                        "What"
-                    ],
-                    "guid": "dz(r/pBd?}",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "What",
                         "Apa(kah)"
                     ],
@@ -1673,19 +1653,9 @@
                     "__type__": "Note",
                     "fields": [
                         "Tingkat",
-                        "Floor/Level"
+                        "Level"
                     ],
                     "guid": "D]b/wX9?B^",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Level",
-                        "Tingkat"
-                    ],
-                    "guid": "uei*kpdf+L",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1832,16 +1802,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sit",
-                        "Duduk"
-                    ],
-                    "guid": "K=ysEGvush",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Baru mula",
                         "Just starting"
                     ],
@@ -1882,7 +1842,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Boleh saya bantu anda?",
+                        "Boleh saya bantu anda? (Formal)",
                         "Can I help you?"
                     ],
                     "guid": "f6G[v;=kKi",
@@ -1916,16 +1876,6 @@
                         "Why? - Because..."
                     ],
                     "guid": "m}[,ZOcMef",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Betul?",
-                        "Correct?"
-                    ],
-                    "guid": "p7Z:mKi}8M",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -2363,7 +2313,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hadir",
-                        "Physically present"
+                        "Here (Physically present)"
                     ],
                     "guid": "QY=2$c14EV",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2432,7 +2382,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Q: Bilakah hari lahir awak?<div>A: Hari lahir saya pada 2 hari bulan Februari.</div>",
+                        "Q: Bilakah hari lahir awak?<div>A: Hari lahir saya pada dua hari bulan Februari.</div>",
                         "Q: When is your birthday?<div>A: My birthday is on 2nd February.</div>"
                     ],
                     "guid": "N#zb3q;ioZ",
@@ -2512,8 +2462,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Betul",
-                        "Correct"
+                        "Betul - Betul-betul",
+                        "Correct - Really"
                     ],
                     "guid": "xN}jO{7U;K",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2753,7 +2703,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Bisa",
-                        "Able to (can but related to ability)"
+                        "Able to"
                     ],
                     "guid": "Hrwdk[]x|/",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3032,8 +2982,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Maaf (Minta maaf, Maafkan saya)",
-                        "Sorry (Very sorry, forgive me)"
+                        "Maaf - Minta maaf, Maafkan saya",
+                        "Sorry - Very sorry, forgive me"
                     ],
                     "guid": "e}hLu.X~BY",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3172,8 +3122,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Q: Berapakah umur awak?<div>A: Umur saya dua puluh lima.</div>",
-                        "Q: How old are you?<div>A: I am 25 years old.</div>"
+                        "Q: Berapakah umur awak?<div>A: Umur saya dua puluh enam.</div>",
+                        "Q: How old are you?<div>A: I am 26 years old.</div>"
                     ],
                     "guid": "sp`XrT5E18",
                     "note_model_uuid": "0615de31-68e1-11ea-a9f3-00051b2454a4",
@@ -3412,8 +3362,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Terangkan - Terang",
-                        "Explain it - Light (colour)"
+                        "Terang - Terangkan",
+                        "Light/Bright - Explain (Enlighten)"
                     ],
                     "guid": "jwCvWryU0<",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3472,8 +3422,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Bilakah dia beli beg itu?",
-                        "When did he/her buy that bag?"
+                        "Bilakah awak beli beg itu?",
+                        "When did you buy that bag?"
                     ],
                     "guid": "iv^!rjTF]@",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3903,7 +3853,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia bergaji besar.",
-                        "He/she earns a lot of money."
+                        "He/she is well-paid."
                     ],
                     "guid": "bU_{sRGK]W",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3983,7 +3933,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Masuk - Keluar",
-                        "In - Out"
+                        "Enter - Exit"
                     ],
                     "guid": "rgh|[eYtz`",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4092,7 +4042,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Seekor anjing",
+                        "(Se)ekor anjing",
                         "A dog"
                     ],
                     "guid": "hf2$o22oqs",
@@ -4262,16 +4212,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Skrin projektor",
-                        "Screen projector"
-                    ],
-                    "guid": "qaTomVCYF$",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Jam digital",
                         "Digital clock"
                     ],
@@ -4292,7 +4232,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sebatang pena",
+                        "(Se)batang pena",
                         "A pen"
                     ],
                     "guid": "z!^63__hPK",
@@ -4346,16 +4286,6 @@
                         "Mathematic"
                     ],
                     "guid": "ihV2+[W{_d",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sains sosial",
-                        "Social science"
-                    ],
-                    "guid": "E@;j=8?pY^",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -4472,7 +4402,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Kereta Api",
+                        "Kereta api",
                         "Train"
                     ],
                     "guid": "p;Ldrpxk3l",
@@ -4492,8 +4422,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Jam dinding",
-                        "Hour-clock"
+                        "Jam dinding - Jam tangan",
+                        "Hour-clock - Watch"
                     ],
                     "guid": "h*~JeP8Gk}",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4822,8 +4752,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Per(gigi)an",
-                        "Dentistry"
+                        "Per(gigi)an - Doktor gigi",
+                        "Dentistry - Dentist"
                     ],
                     "guid": "Jg-Ce(p:{F",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4896,16 +4826,6 @@
                         "Public/private library"
                     ],
                     "guid": "FLwrS46Vd1",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pusat Pengajian Bahasa",
-                        "Centre for Language Studies"
-                    ],
-                    "guid": "QG8VdQx3b4",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5842,8 +5762,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Permainan - Taman permainan",
-                        "Games - Playground"
+                        "Bermain - Permainan - Taman permainan",
+                        "Play - Games - Playground"
                     ],
                     "guid": "zR!wUXyv1.",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5912,8 +5832,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sombong - Peramah",
-                        "Arrogant - Approachable"
+                        "Peramah - Sombong",
+                        "Approachable - Arrogant"
                     ],
                     "guid": "o#Ac+7PB^L",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5936,16 +5856,6 @@
                         "Fish live in water."
                     ],
                     "guid": "xl4eJ2gYBN",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Dia bapa meninggal dunia.",
-                        "His father passed away."
-                    ],
-                    "guid": "I&zQY4tN38",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -6022,8 +5932,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mana yang paling anda suka?",
-                        "Which do you like the most?"
+                        "<span style=\"background-color: rgb(255, 255, 255);\">Which do you like the most?</span>",
+                        "Mana yang paling awak suka?"
                     ],
                     "guid": "s/3O*N6?We",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
@@ -6036,6 +5946,16 @@
                         "These shoes are very suitable for outdoor activities like camping, hiking and so on."
                     ],
                     "guid": "y,&t^-|:$/",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kosong",
+                        "Empty"
+                    ],
+                    "guid": "KMDY#T!Kf2",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 },
@@ -6077,7 +5997,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kosong",
-                        "Zero"
+                        "Empty"
                     ],
                     "guid": "KMDY#T!Kf2",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
@@ -6212,6 +6132,16 @@
                     "guid": "D)?Pnx_Qn9",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sifar",
+                        "Zero"
+                    ],
+                    "guid": "CYE/}|T*4e",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
                 }
             ]
         },
@@ -6261,7 +6191,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Tak risau",
-                        "Do not worry"
+                        "Do not worry (Informal)"
                     ],
                     "guid": "h15BV7Auno",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -6587,7 +6517,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 20
+                "perDay": 15
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
