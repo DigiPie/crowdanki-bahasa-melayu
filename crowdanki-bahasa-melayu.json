@@ -2083,7 +2083,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Awak dari fakulti yang mana?",
-                        "You are from which faculty?"
+                        "Which faculty are you from?"
                     ],
                     "guid": "g@GqGsU(w<",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2562,18 +2562,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Kini, saya seorang mahasiswa Universiti Nasional Singapura.",
-                        "Currently, I am a NUS undergraduate."
-                    ],
-                    "guid": "z?p#:t6T&m",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Saya belajar Sains Komputing di Sekolah Komputing.",
-                        "I study Computer Science at School of Computing."
+                        "Sebelum ini, saya belajar Sains Komputing.",
+                        "Previously, I studied Computer Science."
                     ],
                     "guid": "JHrv$=9@d~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5022,8 +5012,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Gula (Gula-gula)",
-                        "Sugar (Sweets)"
+                        "Gula - Gula-gula",
+                        "Sugar - Sweets"
                     ],
                     "guid": "E^0`i5.dG.",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5532,7 +5522,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Pembantu rumah",
+                        "(Pem)bantu rumah",
                         "Domestic helper"
                     ],
                     "guid": "ch*RaGz19P",
@@ -5762,7 +5752,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Bermain - Permainan - Taman permainan",
+                        "(Ber)main - Permain(an) - Taman permain(an)",
                         "Play - Games - Playground"
                     ],
                     "guid": "zR!wUXyv1.",
@@ -6160,8 +6150,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Awak nak tinggal dan belajar?",
-                        "You want to stay and study?"
+                        "Awak nak tinggal dan berbual?",
+                        "You want to stay and chat?"
                     ],
                     "guid": "bu0?{gJy6~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
