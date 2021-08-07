@@ -68,7 +68,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Luar - (Ke)luar - (Ke)luar(kan)",
-                        "Outside - Get out - Get it out (Command)"
+                        "Outside - Exit/Get out - Get it out (Command)"
                     ],
                     "guid": "px.f,}5&pW",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1172,7 +1172,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Awak (formal: anda) semua",
+                        "Awak (Formal: anda) semua",
                         "You all"
                     ],
                     "guid": "MvF-.1YVMX",
@@ -1223,7 +1223,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Lambat",
-                        "Slow (late)"
+                        "Slow/Late"
                     ],
                     "guid": "x9r,ekFFUP",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -1872,8 +1872,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mengapa/Kenapa? - Sebab/Kerana...<div>(Usually mengapa is answered with sebab, kenapa with kerana)</div>",
-                        "Why? - Because..."
+                        "Mengapa - Seba / Kenapa - Kerana",
+                        "Why - Because"
                     ],
                     "guid": "m}[,ZOcMef",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2493,7 +2493,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Menyertai",
-                        "Participate"
+                        "To participate"
                     ],
                     "guid": "AWd^U=p__f",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2523,7 +2523,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Saya berasa berlari seronok.",
-                        "I feel like running is enjoyable."
+                        "I feel running is enjoyable."
                     ],
                     "guid": "mYB_inVxMz",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2972,7 +2972,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Maaf - Minta maaf, Maafkan saya",
+                        "Maaf - Minta maaf, maafkan saya",
                         "Sorry - Very sorry, forgive me"
                     ],
                     "guid": "e}hLu.X~BY",
@@ -3172,7 +3172,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Apakah sukan kegemaran anda?",
+                        "Apakah sukan kegemaran awak?",
                         "What is your favourite sport?"
                     ],
                     "guid": "g?vZn$^6Qw",
@@ -4202,16 +4202,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Jam digital",
-                        "Digital clock"
-                    ],
-                    "guid": "i*F&!:|<Sj",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Gelas",
                         "Glass"
                     ],
@@ -4226,16 +4216,6 @@
                         "A pen"
                     ],
                     "guid": "z!^63__hPK",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pensel mekanikal",
-                        "Mechanical pencil"
-                    ],
-                    "guid": "moMmL:33?V",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5968,6 +5948,66 @@
                     "guid": "hfog,B6AQL",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Susu",
+                        "Milk"
+                    ],
+                    "guid": "Da<8g:z$x9",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Jeruk",
+                        "Orange"
+                    ],
+                    "guid": "Ga@b,w&zuB",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saya mahu minum air.",
+                        "I want to drink water."
+                    ],
+                    "guid": "IITkzuS3rO",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Engkau - Kamu - Awak - Anda",
+                        "You<br>Very familiar - Familiar - Polite familiar - Polite"
+                    ],
+                    "guid": "B+v(8ED,{,",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Awak punya makanan?",
+                        "You have food?"
+                    ],
+                    "guid": "Apl%6Qrxx}",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia kuat",
+                        "He/she is strong"
+                    ],
+                    "guid": "z<+V-+&Y?&",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
                 }
             ]
         },
@@ -6184,16 +6224,6 @@
                         "Do not worry (Informal)"
                     ],
                     "guid": "h15BV7Auno",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Umur kita lima.",
-                        "We are five (years together)."
-                    ],
-                    "guid": "B!?#8q}8M&",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
