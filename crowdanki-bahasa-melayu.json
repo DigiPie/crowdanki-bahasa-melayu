@@ -1372,20 +1372,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Selamat tengah hari",
-                        "Good noon (12 - 2)"
+                        "Selamat tengah hari - Selamat petang",
+                        "Good noon (12 - 2) - Good afternoon/evening (2 - 12)"
                     ],
                     "guid": "JoNU:U#p+B",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Selamat petang",
-                        "Good afternoon (2 - 7)"
-                    ],
-                    "guid": "Pikr{963,/",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -1473,7 +1463,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ramai",
-                        "A lot (living beings only)"
+                        "A lot (Living things only)"
                     ],
                     "guid": "tM$lBSEo1&",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2043,7 +2033,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kami - Kita",
-                        "We (exclusive of addressee) - We (inclusive)"
+                        "We (Excluding addressees) - We (Including)"
                     ],
                     "guid": "o<;aYr$]ho",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3733,7 +3723,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kami pergi dulu.",
-                        "We go off first (excluding addressee)."
+                        "We go off first (Excluding addressees)."
                     ],
                     "guid": "P7IasQNf(8",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5982,8 +5972,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Engkau - Kamu - Awak - Anda",
-                        "You<br>Very familiar - Familiar - Polite familiar - Polite"
+                        "Awak - Anda",
+                        "You (Addressee)<br>Familiar - Polite"
                     ],
                     "guid": "B+v(8ED,{,",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
