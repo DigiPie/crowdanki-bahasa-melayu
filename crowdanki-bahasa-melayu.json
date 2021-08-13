@@ -1973,7 +1973,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia belum makan.",
-                        "He/she has not eaten yet."
+                        "They has not eaten yet."
                     ],
                     "guid": "f*AF,AJGp&",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2473,7 +2473,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Jika / Kalau / Jikalau",
-                        "If (formal / informal / informal)"
+                        "If (Formal / informal / informal)"
                     ],
                     "guid": "FF3:Af|k4e",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -2636,16 +2636,6 @@
                         "Previously, I have part-time work."
                     ],
                     "guid": "gRqRQ,bRHt",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Saya seorang pengajar mahasiswa.",
-                        "I am an undergraduate instructor."
-                    ],
-                    "guid": "qdo2U35IrF",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -3253,7 +3243,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia sudah dewasa.",
-                        "He/she has grown up."
+                        "They has grown up."
                     ],
                     "guid": "l/GW^Caoy>",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3733,7 +3723,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia selalu/sentiasa sibuk.",
-                        "He/she is always busy."
+                        "They is always busy."
                     ],
                     "guid": "A&v5VhIY~C",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3833,7 +3823,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia bergaji besar.",
-                        "He/she is well-paid."
+                        "They is well-paid."
                     ],
                     "guid": "bU_{sRGK]W",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3893,7 +3883,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia jatuh dari tangga.",
-                        "He/she fell down the stairs."
+                        "They fell down the stairs."
                     ],
                     "guid": "vm_rO_M&cw",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3963,7 +3953,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia suka (men)dengar muzik di Spotify.",
-                        "He/she likes listening to music on Spotify."
+                        "They likes listening to music on Spotify."
                     ],
                     "guid": "AaA.ZFSo!,",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -3973,7 +3963,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia akan (men)olong ibunya memasak kari nanti.",
-                        "He/she will help his/her mum cook curry later."
+                        "They will help his/her mum cook curry later."
                     ],
                     "guid": "xPtPTM&sZi",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4942,8 +4932,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Me(masak) - Masak(an)",
-                        "Cooking - Cuisine"
+                        "Masak - (Me)masak - Masak(an)",
+                        "Cook - To cook - Cuisine"
                     ],
                     "guid": "j%@5(uYW6o",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5833,7 +5823,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia paling suka (men)jahit baju.",
-                        "He/she loves sewing the most."
+                        "They loves sewing the most."
                     ],
                     "guid": "jj73#w,U=~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5843,7 +5833,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia tidak suka (men)cuci pinggan.",
-                        "He/she does not like to wash dishes."
+                        "They does not like to wash dishes."
                     ],
                     "guid": "B#RcuRI891",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -5992,11 +5982,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dia kuat",
-                        "He/she is strong"
+                        "Itu pahit/manis.",
+                        "That is bitter/sweet."
                     ],
-                    "guid": "z<+V-+&Y?&",
-                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "guid": "A`WQ12%<*/",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
             ]
@@ -6356,16 +6346,6 @@
                     "guid": "P*|Vq+hdlE",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Semangat",
-                        "Have spirit"
-                    ],
-                    "guid": "f|-q.oWZ|V",
-                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
-                    "tags": []
                 }
             ]
         },
@@ -6536,9 +6516,9 @@
                 "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 1.1,
                 "maxIvl": 36500,
-                "perDay": 150
+                "perDay": 100
             },
             "reviewOrder": 0,
             "timer": 0
