@@ -4202,16 +4202,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Fakulti",
-                        "Faculty"
-                    ],
-                    "guid": "hiz3;acN<$",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Kelas",
                         "Class"
                     ],
@@ -4256,16 +4246,6 @@
                         "Pharmacy"
                     ],
                     "guid": "O~^$o.@ej+",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sosiologi",
-                        "Sociology"
-                    ],
-                    "guid": "s>>`;7oK!l",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5932,28 +5912,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Susu",
-                        "Milk"
-                    ],
-                    "guid": "Da<8g:z$x9",
-                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Jeruk",
-                        "Orange"
-                    ],
-                    "guid": "Ga@b,w&zuB",
-                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Saya mahu minum air.",
-                        "I want to drink water."
+                        "Saya haus, saya mahu minum air.",
+                        "I am thirsty, I want to drink water."
                     ],
                     "guid": "IITkzuS3rO",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
