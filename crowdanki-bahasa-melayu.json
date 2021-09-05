@@ -3623,7 +3623,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Apakah makanan yang (ter)dapat di kedai itu?",
-                        "What food is available at the store?"
+                        "What food is available at that store?"
                     ],
                     "guid": "hL(TB.;JWe",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
@@ -4606,16 +4606,6 @@
                         "Kunci kereta"
                     ],
                     "guid": "ha_b8tBoYu",
-                    "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sila lihat gambar di bawah ini.",
-                        "Please look at the picture below."
-                    ],
-                    "guid": "kv??boOW-6",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
                     "tags": []
                 },
@@ -5793,7 +5783,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dia paling suka (men)jahit baju.",
-                        "They loves sewing the most."
+                        "They likes to sew clothes the most."
                     ],
                     "guid": "jj73#w,U=~",
                     "note_model_uuid": "2a614bf7-4d68-11ea-ba3e-005056c00008",
